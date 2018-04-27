@@ -51,6 +51,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/css\/customize-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/customize-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/css\/customize.css": {
 		"aP": 1,
 		"bl": 0,
@@ -613,41 +623,11 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/icon-flickr.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/icon-flickr.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/images\/icon-instagram.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/icon-instagram.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/images\/icon-tumblr.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/images\/icon-tumblr.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/images\/icon-twitter.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/icon-twitter.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -669,6 +649,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/images\/logo-icon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/social-500px-48.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/social-500px-48.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
