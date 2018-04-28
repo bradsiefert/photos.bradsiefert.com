@@ -9,11 +9,18 @@
 	],
 "creatorBuild": "26680",
 "files": {
-	"\/about\/index.html": {
+	"\/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/about\/index.html",
+		"oAP": "\/.htaccess",
+		"oF": 0
+		},
+	"\/about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/about.html",
 		"oF": 0
 		},
 	"\/blog.html": {
@@ -131,11 +138,11 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/film\/index.html": {
+	"\/film.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/film\/index.html",
+		"oAP": "\/film.html",
 		"oF": 0
 		},
 	"\/fonts\/glyphicons-halflings-regular.eot": {
@@ -1006,11 +1013,11 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/places\/index.html": {
+	"\/places.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/places\/index.html",
+		"oAP": "\/places.html",
 		"oF": 0
 		},
 	"\/portfolio\/film-arieloninstitute.jpg": {
