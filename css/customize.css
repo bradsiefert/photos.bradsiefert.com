@@ -1,7 +1,7 @@
 body {
   color: #333;
   background-color: #fff;
-  font-family: 'WhitneyHTF-Light';
+  font-family: 'Texta';
   color: #333333;
   letter-spacing: 0.15px;
   line-height: 1.1em;
@@ -91,7 +91,7 @@ body {
 .content-blog h2 {
   font-size: 15px;
   margin: 15px 0 5px;
-  font-family: 'WhitneyHTF-Medium';
+  font-family: 'Texta';
 }
 
 .content p {
@@ -165,16 +165,18 @@ body {
   border-radius: 0;
   background: #FFFFFF;
   border: none;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover {
   background-color: #333;
   color: #fff;
-  border-radius: 4px;
-  padding-left: 10px;
-  padding-right: 10px;
+  border-radius: 34px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 4px;
+  padding-bottom: 4px;
   display: inline-block;
 }
 
@@ -190,7 +192,17 @@ body {
 }
 
 .navbar-brand {
-  letter-spacing: -0.15px;
+  letter-spacing: 0.2px;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.badge {
+  font-size: 12px;
+  margin-left: 2px;
+  background-color: #333;
+  padding: 4px 7px 3px;
 }
 
 /* ---------- Media Query for 1024px and Above --------- */
@@ -258,7 +270,7 @@ body {
 @media (max-width: 1023px) {
 
   body {
-    font-family: 'WhitneyHTF-Book';
+    font-family: 'Texta';
   }
 
   /* Kills the Styles to Center and Vertially Align Sidebar/Portfolio */
@@ -344,7 +356,7 @@ body {
   }
 
   .navbar-nav > li > a {
-    margin-top: 28px;
+    margin-top: 30px;
     padding-top: 5px;
     padding-bottom: 5px;
     line-height: 24px;
@@ -415,6 +427,10 @@ body {
     min-height: none;
     padding: 5% 7%;
   }
+
+  .navbar {
+    font-size: 22px;
+  }
 }
 
 
@@ -422,7 +438,7 @@ body {
 /* ---------- Hamburger --------- */
 
 .navbar-toggle {
-  margin: 34px 10px 0 0;
+  margin: 36px 10px 0 0;
   border: 0;
   border-radius: 0;
   padding: 0;
@@ -443,7 +459,7 @@ body {
 
 .navbar-toggle .icon-bar {
   display: block;
-  width: 36px;
-  height: 4px;
+  width: 32px;
+  height: 3px;
   border-radius: 0;
 }
