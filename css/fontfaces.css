@@ -1,28 +1,83 @@
-/* ----------- Whitney ----------- */
-
 @font-face {
-    font-family: 'WhitneyHTF-Light';
-    src: url('fonts/WhitneyHTFLight.woff') format('woff'),
-         url('fonts/WhitneyHTFLight.otf') format('otf'),
-         url('fonts/WhitneyHTFLight.svg#Verlag-Light') format('svg');
-    font-weight: normal;
+    font-family: 'Texta';
+    src: url('../fonts/Texta-Light.eot');
+    src: url('../fonts/Texta-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Texta-Light.woff2') format('woff2'),
+        url('../fonts/Texta-Light.woff') format('woff'),
+        url('../fonts/Texta-Light.ttf') format('truetype'),
+        url('../fonts/Texta-Light.svg#Texta-Light') format('svg');
+    font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'WhitneyHTF-Book';
-    src: url('fonts/WhitneyHTFBook.woff') format('woff'),
-         url('fonts/WhitneyHTFBook.otf') format('otf'),
-         url('fonts/WhitneyHTFBook.svg#Verlag-Book') format('svg');
-    font-weight: normal;
+    font-family: 'Texta';
+    src: url('../fonts/Texta-Book.eot');
+    src: url('../fonts/Texta-Book.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Texta-Book.woff2') format('woff2'),
+        url('../fonts/Texta-Book.woff') format('woff'),
+        url('../fonts/Texta-Book.ttf') format('truetype'),
+        url('../fonts/Texta-Book.svg#Texta-Book') format('svg');
+    font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'WhitneyHTF-Medium';
-    src: url('fonts/WhitneyHTFMedium.woff') format('woff'),
-         url('fonts/WhitneyHTFMedium.otf') format('otf'),
-         url('fonts/WhitneyHTFMedium.svg#WhitneyHTF-Medium') format('svg');
-    font-weight: normal;
+    font-family: 'Texta';
+    src: url('../fonts/Texta-Regular.eot');
+    src: url('../fonts/Texta-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Texta-Regular.woff2') format('woff2'),
+        url('../fonts/Texta-Regular.woff') format('woff'),
+        url('../fonts/Texta-Regular.ttf') format('truetype'),
+        url('../fonts/Texta-Regular.svg#Texta-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Texta';
+    src: url('../fonts/Texta-Medium.eot');
+    src: url('../fonts/Texta-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Texta-Medium.woff2') format('woff2'),
+        url('../fonts/Texta-Medium.woff') format('woff'),
+        url('../fonts/Texta-Medium.ttf') format('truetype'),
+        url('../fonts/Texta-Medium.svg#Texta-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Texta';
+    src: url('../fonts/Texta-Bold.eot');
+    src: url('../fonts/Texta-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Texta-Bold.woff2') format('woff2'),
+        url('../fonts/Texta-Bold.woff') format('woff'),
+        url('../fonts/Texta-Bold.ttf') format('truetype'),
+        url('../fonts/Texta-Bold.svg#Texta-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Texta';
+    src: url('../fonts/Texta-Heavy.eot');
+    src: url('../fonts/Texta-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Texta-Heavy.woff2') format('woff2'),
+        url('../fonts/Texta-Heavy.woff') format('woff'),
+        url('../fonts/Texta-Heavy.ttf') format('truetype'),
+        url('../fonts/Texta-Heavy.svg#Texta-Heavy') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Texta';
+    src: url('../fonts/Texta-Black.eot');
+    src: url('../fonts/Texta-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Texta-Black.woff2') format('woff2'),
+        url('../fonts/Texta-Black.woff') format('woff'),
+        url('../fonts/Texta-Black.ttf') format('truetype'),
+        url('../fonts/Texta-Black.svg#Texta-Black') format('svg');
+    font-weight: 900;
     font-style: normal;
 }

@@ -60,6 +60,13 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/css\/customize-min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/css\/customize-min.css.map",
+		"oF": 0
+		},
 	"\/css\/customize.css": {
 		"aP": 1,
 		"bl": 0,
@@ -169,104 +176,319 @@
 		"oAP": "\/fonts\/glyphicons-halflings-regular.woff2",
 		"oF": 0
 		},
-	"\/fonts\/Verlag-Light.eot": {
+	"\/fonts\/Texta-Black.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/fonts\/Verlag-Light.eot",
+		"oAP": "\/fonts\/Texta-Black.eot",
 		"oF": 0
 		},
-	"\/fonts\/Verlag-Light.otf": {
+	"\/fonts\/Texta-Black.otf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/fonts\/Verlag-Light.otf",
+		"oAP": "\/fonts\/Texta-Black.otf",
 		"oF": 0
 		},
-	"\/fonts\/Verlag-Light.svg": {
+	"\/fonts\/Texta-Black.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/fonts\/Verlag-Light.svg",
+		"oAP": "\/fonts\/Texta-Black.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/fonts\/Verlag-Light.woff": {
+	"\/fonts\/Texta-Black.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/fonts\/Verlag-Light.woff",
+		"oAP": "\/fonts\/Texta-Black.ttf",
 		"oF": 0
 		},
-	"\/fonts\/VerlagXLight.eot": {
+	"\/fonts\/Texta-Black.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/fonts\/VerlagXLight.eot",
+		"oAP": "\/fonts\/Texta-Black.woff",
 		"oF": 0
 		},
-	"\/fonts\/VerlagXLight.otf": {
+	"\/fonts\/Texta-Black.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/fonts\/VerlagXLight.otf",
+		"oAP": "\/fonts\/Texta-Black.woff2",
 		"oF": 0
 		},
-	"\/fonts\/VerlagXLight.svg": {
+	"\/fonts\/Texta-Bold.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Bold.eot",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Bold.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Bold.otf",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Bold.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/fonts\/VerlagXLight.svg",
+		"oAP": "\/fonts\/Texta-Bold.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/fonts\/VerlagXLight.woff": {
+	"\/fonts\/Texta-Bold.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/fonts\/VerlagXLight.woff",
+		"oAP": "\/fonts\/Texta-Bold.ttf",
 		"oF": 0
 		},
-	"\/fonts\/WhitneyHTFLight.eot": {
+	"\/fonts\/Texta-Bold.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/fonts\/WhitneyHTFLight.eot",
+		"oAP": "\/fonts\/Texta-Bold.woff",
 		"oF": 0
 		},
-	"\/fonts\/WhitneyHTFLight.otf": {
+	"\/fonts\/Texta-Bold.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/fonts\/WhitneyHTFLight.otf",
+		"oAP": "\/fonts\/Texta-Bold.woff2",
 		"oF": 0
 		},
-	"\/fonts\/WhitneyHTFLight.svg": {
+	"\/fonts\/Texta-Book.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Book.eot",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Book.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Book.otf",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Book.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/fonts\/WhitneyHTFLight.svg",
+		"oAP": "\/fonts\/Texta-Book.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/fonts\/WhitneyHTFLight.woff": {
+	"\/fonts\/Texta-Book.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/fonts\/WhitneyHTFLight.woff",
+		"oAP": "\/fonts\/Texta-Book.ttf",
 		"oF": 0
 		},
-	"\/fonts\/WhitneyHTFMedium.woff": {
+	"\/fonts\/Texta-Book.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/fonts\/WhitneyHTFMedium.woff",
+		"oAP": "\/fonts\/Texta-Book.woff",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Book.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Book.woff2",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Heavy.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Heavy.eot",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Heavy.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Heavy.otf",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Heavy.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/Texta-Heavy.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/Texta-Heavy.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Heavy.ttf",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Heavy.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Heavy.woff",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Heavy.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Heavy.woff2",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Light.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Light.eot",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Light.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Light.otf",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Light.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/Texta-Light.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/Texta-Light.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Light.ttf",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Light.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Light.woff",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Light.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Light.woff2",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Medium.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Medium.eot",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Medium.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Medium.otf",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Medium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/Texta-Medium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/Texta-Medium.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Medium.ttf",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Medium.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Medium.woff",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Medium.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Medium.woff2",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Regular.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Regular.eot",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Regular.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Regular.otf",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/Texta-Regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/Texta-Regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Regular.ttf",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Regular.woff",
+		"oF": 0
+		},
+	"\/fonts\/Texta-Regular.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/Texta-Regular.woff2",
 		"oF": 0
 		},
 	"\/images\/estherdoo.jpg": {
