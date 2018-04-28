@@ -3,7 +3,7 @@ body {
   background-color: #fff;
   font-family: 'Texta';
   color: #333333;
-  letter-spacing: 0.15px;
+  letter-spacing: 0.2px;
   line-height: 1.1em;
 }
 
@@ -76,11 +76,11 @@ body {
 .content-blog {
   float: left;
   width: 84.2105263%;
-  min-height: 640px;
-  padding: 60px 80px;
+  min-height: 560px;
+  padding: 48px 80px 64px;
   border: 1px solid #ddd;
-  font-size: 14px;
-  line-height: 19px;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .content-blog {
@@ -89,13 +89,14 @@ body {
 
 .content h2,
 .content-blog h2 {
-  font-size: 15px;
-  margin: 15px 0 5px;
+  font-size: 18px;
+  margin: 16px 0 4px;
   font-family: 'Texta';
+  font-weight: 700;
 }
 
 .content p {
-  margin-bottom: 30px;
+  margin-bottom: 24px;
 }
 
 .sidebar-blog {
@@ -175,8 +176,6 @@ body {
   border-radius: 34px;
   padding-left: 12px;
   padding-right: 12px;
-  padding-top: 4px;
-  padding-bottom: 4px;
   display: inline-block;
 }
 
@@ -413,8 +412,8 @@ body {
 
   .navbar-nav > li > a {
     display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
     margin-top: 2px;
     line-height: 24px;
     margin-bottom: 2px;

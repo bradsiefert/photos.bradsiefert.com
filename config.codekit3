@@ -9,11 +9,11 @@
 	],
 "creatorBuild": "26680",
 "files": {
-	"\/about.html": {
+	"\/about\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/about.html",
+		"oAP": "\/about\/index.html",
 		"oF": 0
 		},
 	"\/blog.html": {
@@ -23,31 +23,30 @@
 		"oAP": "\/blog.html",
 		"oF": 0
 		},
-	"\/config.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/config-min.json",
+	"\/css\/bootstrap-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/bootstrap-min-min.css",
 		"oF": 0,
-		"oO": 0,
-		"oS": 1
+		"oS": 3
+		},
+	"\/css\/bootstrap-min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/css\/bootstrap-min.css.map",
+		"oF": 0
 		},
 	"\/css\/bootstrap.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
-		"ma": 0,
+		"ma": 1,
 		"oA": 0,
 		"oAP": "\/css\/bootstrap-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/css\/bootstrap.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/bootstrap.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -65,37 +64,71 @@
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
-		"ma": 0,
+		"ma": 1,
 		"oA": 0,
 		"oAP": "\/css\/customize-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/flexslider.css": {
+	"\/css\/flexslider-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/flexslider-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/flexslider-min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/css\/flexslider-min.css.map",
+		"oF": 0
+		},
+	"\/css\/flexslider.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 1,
 		"oA": 0,
 		"oAP": "\/css\/flexslider-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/fontfaces.css": {
+	"\/css\/fontfaces-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
+		"oAP": "\/css\/fontfaces-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/fontfaces-min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/css\/fontfaces-min.css.map",
+		"oF": 0
+		},
+	"\/css\/fontfaces.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 1,
+		"oA": 0,
 		"oAP": "\/css\/fontfaces-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/film.html": {
+	"\/film\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/film.html",
+		"oAP": "\/film\/index.html",
 		"oF": 0
 		},
 	"\/fonts\/glyphicons-halflings-regular.eot": {
@@ -623,11 +656,41 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/images\/icon-flickr.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/icon-flickr.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/icon-instagram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/icon-instagram.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/images\/icon-tumblr.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/images\/icon-tumblr.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/icon-twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/icon-twitter.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -721,11 +784,11 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/places.html": {
+	"\/places\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/places.html",
+		"oAP": "\/places\/index.html",
 		"oF": 0
 		},
 	"\/portfolio\/film-arieloninstitute.jpg": {
