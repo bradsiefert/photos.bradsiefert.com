@@ -498,17 +498,6 @@
 		"oAP": "\/fonts\/Texta-Regular.woff2",
 		"oF": 0
 		},
-	"\/images\/estherdoo.jpg": {
-		"ft": 16384,
-		"iS": 211702,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/estherdoo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/images\/favicons\/android-chrome-144x144.png": {
 		"ft": 32768,
 		"iS": 2677,
@@ -835,16 +824,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/icon-500px.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/icon-500px.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/images\/icon-arrow-next-dark.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -885,57 +864,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/icon-flickr.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/icon-flickr.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/images\/icon-instagram.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/icon-instagram.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/images\/icon-tumblr.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/icon-tumblr.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/images\/icon-twitter.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/icon-twitter.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/images\/johnstoffer.jpg": {
-		"ft": 16384,
-		"iS": 133180,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/johnstoffer.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/images\/logo-icon.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -946,15 +874,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/social-500px-48.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/social-500px-48.svg",
+	"\/images\/sharing-tile.jpg": {
+		"ft": 16384,
+		"iS": 35307,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/sharing-tile.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
+		"q": 100
 		},
 	"\/index.html": {
 		"cB": 0,

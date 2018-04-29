@@ -1,3 +1,4 @@
+Options +MultiViews
 ## EXPIRES CACHING ##
 <IfModule mod_expires.c>
 ExpiresActive On
@@ -14,16 +15,3 @@ ExpiresByType image/x-icon "access 1 year"
 ExpiresDefault "access 1 month"
 </IfModule>
 ## EXPIRES CACHING ##
-
-RewriteEngine on
-
-RewriteCond %{HTTP_HOST} ^(www.)?bradleysiefert.com$
-RewriteCond %{REQUEST_URI} !^/2.1/
-
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-
-RewriteRule ^(.*)$ /2.1/$1
-
-RewriteCond %{HTTP_HOST} ^(www.)?bradleysiefert.com$
-RewriteRule ^(/)?$ 2.1/index.php [L]
