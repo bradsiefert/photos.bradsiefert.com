@@ -9,6 +9,3341 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/!backup 2018.04.27\/.htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/.htaccess",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/contact\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/contact\/index.html",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/docs\/Bradley_Siefert_Wedding_Proposal.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/docs\/Bradley_Siefert_Wedding_Proposal.pdf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/favicon.ico",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/bradley.jpg": {
+		"ft": 16384,
+		"iS": 9812,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/bradley.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/bradley2.jpg": {
+		"ft": 16384,
+		"iS": 25392,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/bradley2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/featheredbg.png": {
+		"ft": 32768,
+		"iS": 44406,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/featheredbg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/grainbg.jpg": {
+		"ft": 16384,
+		"iS": 23939,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/grainbg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/next.png": {
+		"ft": 32768,
+		"iS": 5588,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/next.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/pdf_logo.png": {
+		"ft": 32768,
+		"iS": 17548,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/pdf_logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-badveins.jpg": {
+		"ft": 16384,
+		"iS": 189982,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-badveins.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-bigboi.jpg": {
+		"ft": 16384,
+		"iS": 145993,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-bigboi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-copeland.jpg": {
+		"ft": 16384,
+		"iS": 79371,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-copeland.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-dozens.jpg": {
+		"ft": 16384,
+		"iS": 104277,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-dozens.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-elasticsummer.jpg": {
+		"ft": 16384,
+		"iS": 218488,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-elasticsummer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-icanmakeamess.jpg": {
+		"ft": 16384,
+		"iS": 180170,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-icanmakeamess.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-keatonsimons.jpg": {
+		"ft": 16384,
+		"iS": 296841,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-keatonsimons.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-miguel.jpg": {
+		"ft": 16384,
+		"iS": 88756,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-miguel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-milano.jpg": {
+		"ft": 16384,
+		"iS": 206754,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-milano.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-milano2.jpg": {
+		"ft": 16384,
+		"iS": 215374,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-milano2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-reospeedwagon.jpg": {
+		"ft": 16384,
+		"iS": 344100,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-reospeedwagon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-rkelly1.jpg": {
+		"ft": 16384,
+		"iS": 205777,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-rkelly1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-rkelly2.jpg": {
+		"ft": 16384,
+		"iS": 149639,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-rkelly2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-sleepinggiant.jpg": {
+		"ft": 16384,
+		"iS": 249669,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-sleepinggiant.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-thrice.jpg": {
+		"ft": 16384,
+		"iS": 195873,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-thrice.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-tomfest09.jpg": {
+		"ft": 16384,
+		"iS": 231434,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-tomfest09.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-traviemccoy.jpg": {
+		"ft": 16384,
+		"iS": 188194,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-traviemccoy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-wale.jpg": {
+		"ft": 16384,
+		"iS": 192258,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-wale.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-abby.jpg": {
+		"ft": 16384,
+		"iS": 189655,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-abby.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ariel.jpg": {
+		"ft": 16384,
+		"iS": 273424,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ariel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ariel1.jpg": {
+		"ft": 16384,
+		"iS": 217310,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ariel1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ashleytrefelner.jpg": {
+		"ft": 16384,
+		"iS": 225398,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ashleytrefelner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-blue.jpg": {
+		"ft": 16384,
+		"iS": 263694,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-blue.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-bosh.jpg": {
+		"ft": 16384,
+		"iS": 322348,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-bosh.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ed.jpg": {
+		"ft": 16384,
+		"iS": 171270,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ed.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-estherdoo.jpg": {
+		"ft": 16384,
+		"iS": 239125,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-estherdoo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-estherdoo1.jpg": {
+		"ft": 16384,
+		"iS": 227590,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-estherdoo1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-hilaryrushford1.jpg": {
+		"ft": 16384,
+		"iS": 213282,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-hilaryrushford1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-hilaryrushford2.jpg": {
+		"ft": 16384,
+		"iS": 328216,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-hilaryrushford2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-jared.jpg": {
+		"ft": 16384,
+		"iS": 254203,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-jared.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-jeff1.jpg": {
+		"ft": 16384,
+		"iS": 221793,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-jeff1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-jeff2.jpg": {
+		"ft": 16384,
+		"iS": 158834,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-jeff2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-johnstoffer.jpg": {
+		"ft": 16384,
+		"iS": 140025,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-johnstoffer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ki.jpg": {
+		"ft": 16384,
+		"iS": 139181,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ki.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-sharon.jpg": {
+		"ft": 16384,
+		"iS": 213725,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-sharon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-soriyah.jpg": {
+		"ft": 16384,
+		"iS": 104053,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-soriyah.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-spencer.jpg": {
+		"ft": 16384,
+		"iS": 244735,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-spencer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-the83rd.jpg": {
+		"ft": 16384,
+		"iS": 143746,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-the83rd.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-abandla1.jpg": {
+		"ft": 16384,
+		"iS": 230354,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-abandla1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-abandla2.jpg": {
+		"ft": 16384,
+		"iS": 338491,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-abandla2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-brentandnicole.jpg": {
+		"ft": 16384,
+		"iS": 309721,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-brentandnicole.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-chadandmelodie1.jpg": {
+		"ft": 16384,
+		"iS": 130744,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-chadandmelodie1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-chadandmichelle.jpg": {
+		"ft": 16384,
+		"iS": 293571,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-chadandmichelle.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-kevinandliz1.jpg": {
+		"ft": 16384,
+		"iS": 283316,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-kevinandliz1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-kevinandliz2.jpg": {
+		"ft": 16384,
+		"iS": 244502,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-kevinandliz2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-paulandsadie1.jpg": {
+		"ft": 16384,
+		"iS": 189411,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-paulandsadie1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-paulandsadie2.jpg": {
+		"ft": 16384,
+		"iS": 177715,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-paulandsadie2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon1.jpg": {
+		"ft": 16384,
+		"iS": 200932,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon2.jpg": {
+		"ft": 16384,
+		"iS": 186172,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon3.jpg": {
+		"ft": 16384,
+		"iS": 332060,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon4.jpg": {
+		"ft": 16384,
+		"iS": 191875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon5.jpg": {
+		"ft": 16384,
+		"iS": 247039,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-ryanandmallory1.jpg": {
+		"ft": 16384,
+		"iS": 173044,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-ryanandmallory1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-tommyandmichelle1.jpg": {
+		"ft": 16384,
+		"iS": 316779,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-tommyandmichelle1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-tommyandmichelle2.jpg": {
+		"ft": 16384,
+		"iS": 260117,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-tommyandmichelle2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/images\/prev.png": {
+		"ft": 32768,
+		"iS": 4657,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/images\/prev.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/1.0\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/index.html",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/js\/imageSlider_options.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/js\/imageSlider_options-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/js\/jquery-1.4.1.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/js\/jquery-1.4.1.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/js\/jquery.cycle.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/js\/jquery.cycle-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/js\/keyboard_shortcuts.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/js\/keyboard_shortcuts-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/!backup 2018.04.27\/1.0\/music\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/music\/index.html",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.otf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.ttf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.otf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.ttf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.ttf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.ttf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.ttf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.ttf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.ttf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.ttf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.ttf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.ttf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/1.0\/weddings\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/1.0\/weddings\/index.html",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/about\/index.html",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/css\/bootstrap.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/css\/bootstrap-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/!backup 2018.04.27\/2.0\/css\/bootstrap.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/css\/bootstrap.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/!backup 2018.04.27\/2.0\/css\/customize.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/css\/customize-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/!backup 2018.04.27\/2.0\/css\/flexslider.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/css\/flexslider-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/!backup 2018.04.27\/2.0\/css\/fontfaces.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/css\/fontfaces-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/!backup 2018.04.27\/2.0\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/favicon.ico",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/film\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/film\/index.html",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.ttf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.woff2",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.otf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFBook.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFBook.otf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFBook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFBook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFBook.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFBook.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFLight.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFLight.otf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFLight.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFLight.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFLight.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFLight.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFMedium.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFMedium.otf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFMedium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFMedium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFMedium.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFMedium.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/index.html",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/js\/bootstrap.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/js\/bootstrap-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/js\/bootstrap.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/js\/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/js\/jquery.easing.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/js\/jquery.easing-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/js\/jquery.flexslider.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/js\/jquery.flexslider-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/js\/jquery.mousewheel.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/js\/jquery.mousewheel-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/!backup 2018.04.27\/2.0\/places\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.0\/places\/index.html",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/bootstrap.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/bootstrap.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/customize.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/customize-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/customize.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/customize.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/flexslider.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/flexslider-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/flexslider.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/flexslider.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/fontfaces.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/fontfaces-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.ttf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.woff2",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFBook.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFBook.otf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFBook.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFBook.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFBook.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFBook.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.eot",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.otf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFMedium.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFMedium.otf",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFMedium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFMedium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFMedium.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFMedium.woff",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-144x144.png": {
+		"ft": 32768,
+		"iS": 2677,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 4278,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-36x36.png": {
+		"ft": 32768,
+		"iS": 579,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-36x36.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-48x48.png": {
+		"ft": 32768,
+		"iS": 737,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-48x48.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-72x72.png": {
+		"ft": 32768,
+		"iS": 1106,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-96x96.png": {
+		"ft": 32768,
+		"iS": 1632,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 1939,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-114x114.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 2139,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 2677,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 2980,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 3923,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 839,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-57x57.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 916,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 1106,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 1168,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 4688,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 3923,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 453,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-194x194.png": {
+		"ft": 32768,
+		"iS": 5181,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-194x194.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 744,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 2065,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon.ico",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/headshot.jpg": {
+		"ft": 16384,
+		"iS": 64047,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/headshot.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-500px.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-500px.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-next-dark.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-next-dark.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-next.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-next.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-prev-dark.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-prev-dark.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-prev.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-prev.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-flickr.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-flickr.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-instagram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-instagram.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-tumblr.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-tumblr.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-twitter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/logo-icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/logo-icon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-144x144.png": {
+		"ft": 32768,
+		"iS": 3447,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 2717,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-310x150.png": {
+		"ft": 32768,
+		"iS": 2741,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-310x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-310x310.png": {
+		"ft": 32768,
+		"iS": 8398,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-70x70.png": {
+		"ft": 32768,
+		"iS": 2135,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/social-500px-48.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/social-500px-48.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/js\/bootstrap.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/js\/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/js\/jquery.flexslider.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/js\/jquery.flexslider-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/js\/jquery.flexslider.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/js\/jquery.flexslider.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/content\/portfolio-film.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/content\/portfolio-film.htm",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/content\/portfolio-places.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/content\/portfolio-places.htm",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/content\/portofolio-landing-page.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/content\/portofolio-landing-page.htm",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/about.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/about.htm",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/film.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/film.htm",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/landing-page.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/landing-page.htm",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/places.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/places.htm",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/partials\/footer.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/partials\/footer.htm",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/partials\/header.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/partials\/header.htm",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/partials\/nav-social.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/partials\/nav-social.htm",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/theme.yaml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/theme.yaml",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/images\/android-chrome-144x144.png": {
+		"ft": 32768,
+		"iS": 2677,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/android-chrome-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 4278,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/android-chrome-36x36.png": {
+		"ft": 32768,
+		"iS": 579,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/android-chrome-36x36.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/android-chrome-48x48.png": {
+		"ft": 32768,
+		"iS": 737,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/android-chrome-48x48.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/android-chrome-72x72.png": {
+		"ft": 32768,
+		"iS": 1106,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/android-chrome-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/android-chrome-96x96.png": {
+		"ft": 32768,
+		"iS": 1632,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/android-chrome-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/apple-touch-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 1939,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-114x114.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/apple-touch-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 2139,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/apple-touch-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 2677,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/apple-touch-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 2980,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/apple-touch-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 3923,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/apple-touch-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 839,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-57x57.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/apple-touch-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 916,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/apple-touch-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 1106,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/apple-touch-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 1168,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 4688,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 3923,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/images\/estherdoo.jpg": {
+		"ft": 16384,
+		"iS": 211702,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/estherdoo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 453,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/favicon-194x194.png": {
+		"ft": 32768,
+		"iS": 5181,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/favicon-194x194.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 744,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 2065,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/favicon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/favicon.ico",
+		"oF": 0
+		},
+	"\/!backup 2018.04.27\/images\/film-arieloninstitute.jpg": {
+		"ft": 16384,
+		"iS": 214831,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-arieloninstitute.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/film-arieloninstitute2.jpg": {
+		"ft": 16384,
+		"iS": 129236,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-arieloninstitute2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/film-bjchicagoave.jpg": {
+		"ft": 16384,
+		"iS": 175187,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-bjchicagoave.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/film-doubleexposurejason.jpg": {
+		"ft": 16384,
+		"iS": 193116,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-doubleexposurejason.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/film-doubleexposurejason2.jpg": {
+		"ft": 16384,
+		"iS": 279789,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-doubleexposurejason2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/film-doubleexposurejosh.jpg": {
+		"ft": 16384,
+		"iS": 194937,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-doubleexposurejosh.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/film-fnanonmagmile.jpg": {
+		"ft": 16384,
+		"iS": 109620,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-fnanonmagmile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/film-goyita.jpg": {
+		"ft": 16384,
+		"iS": 144833,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-goyita.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/film-lawerence.jpg": {
+		"ft": 16384,
+		"iS": 156008,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-lawerence.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/film-nathanaeldunes.jpg": {
+		"ft": 16384,
+		"iS": 148484,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-nathanaeldunes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/film-saintjohnlutheranchurch.jpg": {
+		"ft": 16384,
+		"iS": 149051,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-saintjohnlutheranchurch.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/film-shirad.jpg": {
+		"ft": 16384,
+		"iS": 199913,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-shirad.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/film-the83rdinChicago.jpg": {
+		"ft": 16384,
+		"iS": 171589,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-the83rdinChicago.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/film-tonyandjimmy.jpg": {
+		"ft": 16384,
+		"iS": 110731,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/film-tonyandjimmy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/headshot.jpg": {
+		"ft": 16384,
+		"iS": 64047,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/headshot.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/icon-500px.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/images\/icon-500px.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/images\/icon-arrow-next-dark.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/images\/icon-arrow-next-dark.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/images\/icon-arrow-next.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/images\/icon-arrow-next.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/images\/icon-arrow-prev-dark.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/images\/icon-arrow-prev-dark.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/images\/icon-arrow-prev.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/images\/icon-arrow-prev.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/images\/icon-flickr.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/images\/icon-flickr.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/images\/icon-instagram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/images\/icon-instagram.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/images\/icon-twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/images\/icon-twitter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/images\/johnstoffer.jpg": {
+		"ft": 16384,
+		"iS": 133180,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/johnstoffer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/logo-icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/!backup 2018.04.27\/images\/logo-icon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/!backup 2018.04.27\/images\/logo.png": {
+		"ft": 32768,
+		"iS": 7608,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/!backup 2018.04.27\/images\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/!backup 2018.04.27\/images\/mstile-144x144.png": {
+		"ft": 32768,
+		"iS": 3447,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/mstile-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 2717,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/mstile-310x150.png": {
+		"ft": 32768,
+		"iS": 2741,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/mstile-310x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/mstile-310x310.png": {
+		"ft": 32768,
+		"iS": 8398,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/mstile-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/mstile-70x70.png": {
+		"ft": 32768,
+		"iS": 2135,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/mstile-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-abby.jpg": {
+		"ft": 16384,
+		"iS": 298539,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-abby.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-bigboi.jpg": {
+		"ft": 16384,
+		"iS": 247413,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-bigboi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-colorjar.jpg": {
+		"ft": 16384,
+		"iS": 176776,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-colorjar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-doublejon.jpg": {
+		"ft": 16384,
+		"iS": 337976,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-doublejon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-dozens.jpg": {
+		"ft": 16384,
+		"iS": 147569,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-dozens.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-estherdoo.jpg": {
+		"ft": 16384,
+		"iS": 329740,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-estherdoo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-graceandcassie.jpg": {
+		"ft": 16384,
+		"iS": 343916,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-graceandcassie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-hilaryrushford.jpg": {
+		"ft": 16384,
+		"iS": 325780,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-hilaryrushford.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-jared.jpg": {
+		"ft": 16384,
+		"iS": 193806,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-jared.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-jeffmidweststyle1.jpg": {
+		"ft": 16384,
+		"iS": 215237,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-jeffmidweststyle1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-johnstoffer1.jpg": {
+		"ft": 16384,
+		"iS": 181922,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-johnstoffer1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-johnstoffer2.jpg": {
+		"ft": 16384,
+		"iS": 246205,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-johnstoffer2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-joshkettlemoranforest.jpg": {
+		"ft": 16384,
+		"iS": 289506,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-joshkettlemoranforest.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-Levi.jpg": {
+		"ft": 16384,
+		"iS": 417049,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-Levi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-lydia.jpg": {
+		"ft": 16384,
+		"iS": 148090,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-lydia.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-miguel.jpg": {
+		"ft": 16384,
+		"iS": 181392,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-miguel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-nicoledunes.jpg": {
+		"ft": 16384,
+		"iS": 351214,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-nicoledunes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-rkelly.jpg": {
+		"ft": 16384,
+		"iS": 177826,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-rkelly.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-sharonirving.jpg": {
+		"ft": 16384,
+		"iS": 233602,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-sharonirving.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-shiraz1.jpg": {
+		"ft": 16384,
+		"iS": 317214,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-shiraz1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-temi.jpg": {
+		"ft": 16384,
+		"iS": 155906,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-temi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-the83rd.jpg": {
+		"ft": 16384,
+		"iS": 272479,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-the83rd.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-The83rdinChicago1.jpg": {
+		"ft": 16384,
+		"iS": 251007,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-The83rdinChicago1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-The83rdinChicago2.jpg": {
+		"ft": 16384,
+		"iS": 342320,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-The83rdinChicago2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-thelonebellow.jpg": {
+		"ft": 16384,
+		"iS": 206565,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-thelonebellow.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-tonycampolo.jpg": {
+		"ft": 16384,
+		"iS": 240894,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-tonycampolo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/people-traviemccoy.jpg": {
+		"ft": 16384,
+		"iS": 282317,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/people-traviemccoy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-2013tetons1.jpg": {
+		"ft": 16384,
+		"iS": 300514,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-2013tetons2.jpg": {
+		"ft": 16384,
+		"iS": 287252,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-2013tetons3.jpg": {
+		"ft": 16384,
+		"iS": 230523,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-2013tetons4.jpg": {
+		"ft": 16384,
+		"iS": 250958,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-2013tetons5.jpg": {
+		"ft": 16384,
+		"iS": 238312,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-2013tetons6.jpg": {
+		"ft": 16384,
+		"iS": 281726,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-2013tetons7.jpg": {
+		"ft": 16384,
+		"iS": 278541,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-2013tetons8.jpg": {
+		"ft": 16384,
+		"iS": 274449,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-corktown.jpg": {
+		"ft": 16384,
+		"iS": 222572,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-corktown.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-fallinindiana.jpg": {
+		"ft": 16384,
+		"iS": 234025,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-fallinindiana.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-GLine.jpg": {
+		"ft": 16384,
+		"iS": 256427,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-GLine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-gooderhambuilding.jpg": {
+		"ft": 16384,
+		"iS": 329672,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-gooderhambuilding.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-grandtetonmountains.jpg": {
+		"ft": 16384,
+		"iS": 183698,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-grandtetonmountains.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-grandtetonsmoose.jpg": {
+		"ft": 16384,
+		"iS": 370350,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-grandtetonsmoose.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-lakemichigandriftwood.jpg": {
+		"ft": 16384,
+		"iS": 180580,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-lakemichigandriftwood.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-logansquaredestinyschild.jpg": {
+		"ft": 16384,
+		"iS": 297696,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-logansquaredestinyschild.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-logantheatre.jpg": {
+		"ft": 16384,
+		"iS": 154992,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-logantheatre.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-milwaukeeinwinter1.jpg": {
+		"ft": 16384,
+		"iS": 167067,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-milwaukeeinwinter1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-milwaukeeinwinter2.jpg": {
+		"ft": 16384,
+		"iS": 127503,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-milwaukeeinwinter2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-montrealjunk.jpg": {
+		"ft": 16384,
+		"iS": 222865,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-montrealjunk.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-navypier.jpg": {
+		"ft": 16384,
+		"iS": 241027,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-navypier.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-peaceonearth.jpg": {
+		"ft": 16384,
+		"iS": 281167,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-peaceonearth.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-QuincyDredgeNumberTwo.jpg": {
+		"ft": 16384,
+		"iS": 208299,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-QuincyDredgeNumberTwo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-rabbitisland1.jpg": {
+		"ft": 16384,
+		"iS": 122679,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-rabbitisland1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-rabbitisland2.jpg": {
+		"ft": 16384,
+		"iS": 510896,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-rabbitisland2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-rabbitisland3.jpg": {
+		"ft": 16384,
+		"iS": 232545,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-rabbitisland3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-rabbitisland4.jpg": {
+		"ft": 16384,
+		"iS": 303713,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-rabbitisland4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-racismincentralil1.jpg": {
+		"ft": 16384,
+		"iS": 206269,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-racismincentralil1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-saintjohnevangelicallutheranchurch.jpg": {
+		"ft": 16384,
+		"iS": 183097,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-saintjohnevangelicallutheranchurch.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/places-voyeursilhouette.jpg": {
+		"ft": 16384,
+		"iS": 343838,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/places-voyeursilhouette.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/images\/sharing-tile.jpg": {
+		"ft": 16384,
+		"iS": 165805,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/images\/sharing-tile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/!backup 2018.04.27\/robots.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/!backup 2018.04.27\/robots.txt",
+		"oF": 0
+		},
 	"\/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
@@ -16,11 +3351,11 @@
 		"oAP": "\/.htaccess",
 		"oF": 0
 		},
-	"\/about.html": {
+	"\/about\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/about.html",
+		"oAP": "\/about\/index.html",
 		"oF": 0
 		},
 	"\/blog.html": {
@@ -138,11 +3473,11 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/film.html": {
+	"\/film\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/film.html",
+		"oAP": "\/film\/index.html",
 		"oF": 0
 		},
 	"\/fonts\/glyphicons-halflings-regular.eot": {
@@ -498,320 +3833,74 @@
 		"oAP": "\/fonts\/Texta-Regular.woff2",
 		"oF": 0
 		},
-	"\/images\/favicons\/android-chrome-144x144.png": {
+	"\/images\/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 2677,
+		"iS": 8529,
 		"oA": 0,
-		"oAP": "\/images\/favicons\/android-chrome-144x144.png",
+		"oAP": "\/images\/android-chrome-192x192.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/favicons\/android-chrome-192x192.png": {
+	"\/images\/android-chrome-256x256.png": {
 		"ft": 32768,
-		"iS": 4278,
+		"iS": 13881,
 		"oA": 0,
-		"oAP": "\/images\/favicons\/android-chrome-192x192.png",
+		"oAP": "\/images\/android-chrome-256x256.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/favicons\/android-chrome-36x36.png": {
+	"\/images\/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 579,
+		"iS": 5534,
 		"oA": 0,
-		"oAP": "\/images\/favicons\/android-chrome-36x36.png",
+		"oAP": "\/images\/apple-touch-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/favicons\/android-chrome-48x48.png": {
-		"ft": 32768,
-		"iS": 737,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/android-chrome-48x48.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/android-chrome-72x72.png": {
-		"ft": 32768,
-		"iS": 1106,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/android-chrome-72x72.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/android-chrome-96x96.png": {
-		"ft": 32768,
-		"iS": 1632,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/android-chrome-96x96.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/apple-touch-icon-114x114.png": {
-		"ft": 32768,
-		"iS": 1939,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/apple-touch-icon-114x114.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/apple-touch-icon-120x120.png": {
-		"ft": 32768,
-		"iS": 2139,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/apple-touch-icon-120x120.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/apple-touch-icon-144x144.png": {
-		"ft": 32768,
-		"iS": 2677,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/apple-touch-icon-144x144.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/apple-touch-icon-152x152.png": {
-		"ft": 32768,
-		"iS": 2980,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/apple-touch-icon-152x152.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/apple-touch-icon-180x180.png": {
-		"ft": 32768,
-		"iS": 3923,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/apple-touch-icon-180x180.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/apple-touch-icon-57x57.png": {
-		"ft": 32768,
-		"iS": 839,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/apple-touch-icon-57x57.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/apple-touch-icon-60x60.png": {
-		"ft": 32768,
-		"iS": 916,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/apple-touch-icon-60x60.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/apple-touch-icon-72x72.png": {
-		"ft": 32768,
-		"iS": 1106,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/apple-touch-icon-72x72.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/apple-touch-icon-76x76.png": {
-		"ft": 32768,
-		"iS": 1168,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/apple-touch-icon-76x76.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 4688,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/apple-touch-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/apple-touch-icon.png": {
-		"ft": 32768,
-		"iS": 3923,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/apple-touch-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/browserconfig.xml": {
+	"\/images\/browserconfig.xml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/images\/favicons\/browserconfig.xml",
+		"oAP": "\/images\/browserconfig.xml",
 		"oF": 0
 		},
-	"\/images\/favicons\/favicon-16x16.png": {
+	"\/images\/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 453,
+		"iS": 601,
 		"oA": 0,
-		"oAP": "\/images\/favicons\/favicon-16x16.png",
+		"oAP": "\/images\/favicon-16x16.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/favicons\/favicon-194x194.png": {
+	"\/images\/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 5181,
+		"iS": 943,
 		"oA": 0,
-		"oAP": "\/images\/favicons\/favicon-194x194.png",
+		"oAP": "\/images\/favicon-32x32.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/favicons\/favicon-32x32.png": {
-		"ft": 32768,
-		"iS": 744,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/favicon-32x32.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/favicon-96x96.png": {
-		"ft": 32768,
-		"iS": 2065,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/favicon-96x96.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/favicon.ico": {
+	"\/images\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/images\/favicons\/favicon.ico",
+		"oAP": "\/images\/favicon.ico",
 		"oF": 0
-		},
-	"\/images\/favicons\/favicon.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/favicon.txt",
-		"oF": 0
-		},
-	"\/images\/favicons\/manifest.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/images\/favicons\/manifest-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/images\/favicons\/mstile-144x144.png": {
-		"ft": 32768,
-		"iS": 3447,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/mstile-144x144.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/mstile-150x150.png": {
-		"ft": 32768,
-		"iS": 2717,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/mstile-150x150.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/mstile-310x150.png": {
-		"ft": 32768,
-		"iS": 2741,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/mstile-310x150.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/mstile-310x310.png": {
-		"ft": 32768,
-		"iS": 8398,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/mstile-310x310.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/favicons\/mstile-70x70.png": {
-		"ft": 32768,
-		"iS": 2135,
-		"oA": 0,
-		"oAP": "\/images\/favicons\/mstile-70x70.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
 		},
 	"\/images\/headshot.jpg": {
 		"ft": 16384,
@@ -874,6 +3963,27 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/images\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 4864,
+		"oA": 0,
+		"oAP": "\/images\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/images\/sharing-tile.jpg": {
 		"ft": 16384,
 		"iS": 35307,
@@ -884,6 +3994,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/images\/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/site.webmanifest",
+		"oF": 0
 		},
 	"\/index.html": {
 		"cB": 0,
@@ -942,11 +4059,11 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/places.html": {
+	"\/places\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/places.html",
+		"oAP": "\/places\/index.html",
 		"oF": 0
 		},
 	"\/portfolio\/film-arieloninstitute.jpg": {
@@ -1739,7 +4856,7 @@
 	"creationDate": 546559949,
 	"displayValue": "bradleysiefert.com",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "\/images\/favicons\/apple-touch-icon-120x120.png",
+	"iconImageName": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-120x120.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {

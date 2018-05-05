@@ -1,0 +1,30 @@
+## EXPIRES CACHING ##
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpeg "access 1 year"
+ExpiresByType image/gif "access 1 year"
+ExpiresByType image/png "access 1 year"
+ExpiresByType text/css "access 1 month"
+ExpiresByType text/html "access 1 month"
+ExpiresByType application/pdf "access 1 month"
+ExpiresByType text/x-javascript "access 1 month"
+ExpiresByType application/x-shockwave-flash "access 1 month"
+ExpiresByType image/x-icon "access 1 year"
+ExpiresDefault "access 1 month"
+</IfModule>
+## EXPIRES CACHING ##
+
+RewriteEngine on 
+
+RewriteCond %{HTTP_HOST} ^(www.)?bradleysiefert.com$ 
+RewriteCond %{REQUEST_URI} !^/2.1/ 
+
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d 
+ 
+RewriteRule ^(.*)$ /2.1/$1 
+
+RewriteCond %{HTTP_HOST} ^(www.)?bradleysiefert.com$ 
+RewriteRule ^(/)?$ 2.1/index.php [L]
+

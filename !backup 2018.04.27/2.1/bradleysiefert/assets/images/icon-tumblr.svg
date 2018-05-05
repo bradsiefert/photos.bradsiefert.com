@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-tumblr</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Middle-Aligned" sketch:type="MSArtboardGroup" transform="translate(-226.000000, -402.000000)">
+            <g id="Sidebar" sketch:type="MSLayerGroup" transform="translate(140.000000, 90.000000)">
+                <g id="Social" transform="translate(0.000000, 312.000000)" sketch:type="MSShapeGroup">
+                    <g id="icon-tumblr" transform="translate(86.000000, 0.000000)">
+                        <rect id="Social-Bg" fill="#333333" x="0" y="0" width="24" height="24" rx="3"></rect>
+                        <path d="M15.0066667,15.628 C14.7593333,15.7453333 14.286,15.8486667 13.9333333,15.8573333 C12.868,15.886 12.662,15.1093333 12.6526667,14.5453333 L12.6526667,10.404 L15.3246667,10.404 L15.3246667,8.38933333 L12.6626667,8.38933333 L12.6626667,5 L10.7133333,5 C10.6813333,5 10.6253333,5.028 10.6173333,5.09933333 C10.504,6.13666667 10.018,7.95733333 8,8.68466667 L8,10.404 L9.346,10.404 L9.346,14.7513333 C9.346,16.2393333 10.4446667,18.354 13.3426667,18.3046667 C14.3206667,18.288 15.4066667,17.878 15.6466667,17.5253333 L15.0066667,15.628" id="Tumblr-Icon" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

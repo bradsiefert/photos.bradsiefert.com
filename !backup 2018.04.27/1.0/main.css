@@ -1,0 +1,235 @@
+/* ---------- Eric Meyer's CSS Reset * v1.0 | 20080212 ---------- */
+	html, body, div, span, applet, object, iframe,
+	h1, h2, h3, h4, h5, h6, blockquote, pre,
+	a, abbr, acronym, address, big, cite, code,
+	del, dfn, em, font, img, ins, kbd, q, s, samp,
+	small, strike, strong, sub, sup, tt, var,
+	b, u, i, center,
+	dl, dt, dd, ol, ul, li,
+	fieldset, form, label, legend,
+	table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent;	}
+	body { line-height: 1;		}
+	ol, ul { list-style: none;	}
+	blockquote, q { quotes: none;	}
+	blockquote:before, blockquote:after,
+	q:before, q:after { content: ''; content: none;	}
+	p 	{ padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent; }
+
+	/* ---------- Structure --------- */
+
+	html, body { 
+		margin:0; 
+		padding:0; 
+		height:100%; 
+		-webkit-font-smoothing: antialiased;
+		background-color: #ccc;
+	}
+	 
+	body {
+		background-color: #ccc;
+		background-image: url('http://www.bradleysiefert.com/images/grainbg.jpg');
+		font:normal normal normal 14px/normal 'LocatorRegular', 'LocatorLight', 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;
+		color: #fff;
+		-webkit-font-smoothing: antialiased;
+		letter-spacing: -0.03em;
+		font-weight: 200;
+	}
+	
+	#floater {
+		position:relative; 
+		float:left;
+		height:50%;	
+		margin-bottom:-328px;
+		width:1px;
+	}
+	 
+	#centered {
+		position:relative; 
+		clear:left;
+		height:656px; 
+		width:80%; 
+		max-width:870px; 
+		min-width:435px;
+		margin:0 auto;
+	}
+	
+	#box { 	
+		width: 870px;
+		height: 586px;
+		background-color: #fff;
+		padding: 0px; 
+		-webkit-box-shadow: 0px 0px 5px #555;
+		-moz-box-shadow: 0px 0px 5px #555;
+		box-shadow: 0px 0px 5px #555; 
+		-webkit-animation-name: fade;
+	    -webkit-animation-duration: 1.3s;
+	    -webkit-animation-iteration-count: 1;
+	    -webkit-animation-timing-function: ease-in-out;}
+
+	#masthead { 
+		margin: 0 auto; 
+		width: 870px; 
+		height: 40px; 
+		background-color: transparent; 
+		-webkit-animation-name: fade;
+	    -webkit-animation-duration: 1.3s;
+	    -webkit-animation-iteration-count: 1;
+	    -webkit-animation-timing-function: ease-in-out; }
+	
+	#logo 	{ float: left; width: 50%; height: 35px; }
+	#nav 	{ float: right; width: 50%; height: 35px; text-align: right; margin-top: 15px; }
+	
+	#contact { 
+		width: 380px;
+		color: #000; 
+		padding: 15px;
+		border: 0px solid #000;
+		text-align: justify;
+	}
+	
+	/* ---------- Text --------- */
+	
+	h1 { font-size: 26px; 	font-weight: 200; padding: 0px; margin-top: 3px; margin-bottom: 0px; }
+	h2 { font-size: 2em; 	font-weight: 200; padding: 0px; margin-top: 3px; margin-bottom: 0px; }
+	h3 { font-size: 1.8em; 	font-weight: 200; padding: 0px; margin-top: 3px; margin-bottom: 0px; }
+	h4 { font-size: 1.5em; 	font-weight: 200; padding: 0px; margin-top: 3px; margin-bottom: 0px; }
+	h5 { font-size: 1.2em; 	font-weight: normal; padding: 0px; margin-top: 3px; margin-bottom: 0px; }
+	h6 { font-size: 1em; 	font-weight: normal; padding: 0px; margin-top: 3px; margin-bottom: 0px; }
+	
+	/* ---------- Links --------- */
+							
+	a:link		{	color: #fff; 	text-decoration: none;
+									-webkit-transition:text-shadow .5s ease-out, background .5s ease-out; 
+									-moz-transition:text-shadow .5s ease-out, background .5s ease-out;
+									-o-transition:text-shadow .5s ease-out, background .5s ease-out;
+									transition:text-shadow .5s ease-out, background .5s ease-out;  }
+	a:active 	{	color: #fff; 	text-decoration: none; }
+	a:visited 	{	color: #fff; 	text-decoration: none; }
+	a:hover 	{	color: #fff; 	text-decoration: none; text-shadow: #ff0 0 0 2px;}
+	
+	
+	a.white:link	{	color: #fff; 	text-decoration: none; }
+	a.white:active 	{	color: #fff; 	text-decoration: none; }
+	a.white:visited {	color: #fff; 	text-decoration: none; }
+	a.white:hover 	{	color: #fff; 	text-decoration: none; }
+	
+	#contact a{	text-decoration: none;
+				color: #000;
+				-webkit-transition:text-shadow .5s ease-out, background .5s ease-out; }
+		
+	#contact a:hover { text-shadow: #ff0 0 0 5px; }
+	
+
+	/* ---------- Slideshow --------- */
+
+	#slideshow { margin: 0 auto; top:10px; _top: -286px; /* IE 6 and below */ }
+	
+	#gallery_btn {
+		position: relative;
+	}
+	
+	.prev_btn {
+		position: absolute;
+		left: -78px;
+		width: 78px;
+		height: 362px;
+		margin-top: 114px;
+		background: url("http://www.bradleysiefert.com/images/prev.png") left top no-repeat;
+		clear: both;
+	}
+	.next_btn {
+		position: absolute;
+		right: -87px;
+		width: 87px;
+		height: 379px;
+		margin-top: 105px;
+		background: url("http://www.bradleysiefert.com/images/next.png") right top no-repeat;
+	}
+	
+	a.prev_btn:hover {background: url("http://www.bradleysiefert.com/images/prev.png") left bottom no-repeat;}
+	a.next_btn:hover {background: url("http://www.bradleysiefert.com/images/next.png") right bottom no-repeat;}
+	
+	#count 		{ display: block; float: left; font-size: 14px; margin-left: 10px;}
+	#caption 	{ display: block; float: left; font-size: 14px; }
+	#copyright 	{ display: block; float: right; font-size: 14px; margin-right: 92px; }
+	
+	/* ---------- Navigation --------- */
+	
+	ul#menu {
+		padding: 0px;
+		font-size: 14px;
+	}
+	
+	ul#menu li {
+		display: inline;
+		padding-left: 30px;
+	}
+	
+	ul#menu a {
+		color: #fff;
+		text-decoration: none;
+		padding: 1px;
+		padding-left: 2px;
+	}
+	
+	ul#menu a:hover { 
+
+		}
+		
+	ul#menu a.active {
+		color: #fff;
+	}
+	
+	/* ---------- Footer --------- */
+	
+	#footer {
+		width: 960px;
+		margin: 10px auto;
+		_position: relative; /* IE 6 and below */
+		_top: -286px; /* IE 6 and below */
+	}
+	
+	/* ---------- @Font-Face Stuff --------- */
+	@font-face {
+	    font-family: 'LocatorRegular';
+	    src: url('http://www.bradleysiefert.com/type/locatorregular-webfont.eot');
+	    src: url('http://www.bradleysiefert.com/type/locatorregular-webfont.eot?#iefix') format('embedded-opentype'),
+	         url('http://www.bradleysiefert.com/type/locatorregular-webfont.woff') format('woff'),
+	         url('http://www.bradleysiefert.com/type/locatorregular-webfont.ttf') format('truetype'),
+	         url('http://www.bradleysiefert.com/type/locatorregular-webfont.svg#locatorregular') format('svg');
+	    font-weight: normal;
+	    font-style: normal;
+	}
+	
+	@font-face {
+	    font-family: 'LocatorLight';
+	    src: url('http://www.bradleysiefert.com/type/locator-light-webfont.eot');
+	    src: url('http://www.bradleysiefert.com/type/locator-light-webfont.eot?#iefix') format('eot'),
+	         url('http://www.bradleysiefert.com/type/locator-light-webfont.woff') format('woff'),
+	         url('http://www.bradleysiefert.com/type/locator-light-webfont.ttf') format('truetype'),
+	         url('http://www.bradleysiefert.com/type/locator-light-webfont.svg#webfontIy1r82xG') format('svg');
+	    font-weight: normal;
+	    font-style: normal;
+	}
+	
+	/* ---------- Fade-In Stuff --------- */
+	
+	@-webkit-keyframes loaded {
+         0% {
+           opacity: 0;
+           top: 0;
+         }
+         100% {
+           opacity: 1;
+           top: 50px;
+         }
+        }
+
+        @-webkit-keyframes fade {
+         0% {
+           opacity: 0;
+         }
+         100% {
+           opacity: 1;
+         }
+        }

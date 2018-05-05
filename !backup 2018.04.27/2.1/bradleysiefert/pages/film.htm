@@ -1,0 +1,60 @@
+title = "film"
+url = "/film"
+is_hidden = 0
+meta_title = "Photographer Bradley Siefert / Film"
+meta_description = "Portraits, places and polaroids from Chicago based photographer Bradley Siefert."
+==
+{% partial 'header.htm' %}
+
+<div id="floater"></div>
+<div id="centered">
+	<div class="sidebar-nav">
+		<div class="navbar navbar-default" role="navigation">
+			<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<div class="navbar-brand"><img src="{{ 'assets/images/logo-icon.svg'|theme }}" alt="Bradley Siefert Photogrpahy Logo"/><a href="http://www.bradleysiefert.com/">Bradley Siefert</a></div>
+		</div>
+		
+		<div class="navbar-collapse collapse sidebar-navbar-collapse">
+			<ul class="nav navbar-nav navbar-right">
+				<!-- <li><a href="http://bradleysiefert.tumblr.com">Blog</a></li> -->
+				<li><a href="{{ 'landing-page'|page }}">People</a></li>
+				<li><a href="{{ 'places'|page }}">Places</a></li>
+				<li class="active"><a href="{{ 'film'|page }}">Film</a></li>
+				<li><a href="{{ 'about'|page }}">About</a></li>
+				<li>
+					<ul class="nav-social">
+					    <h2 class="dn">Social Media Links</h2>
+						{% partial 'nav-social.htm' %}
+					</ul>	
+				</li>
+			</ul>
+		</div><!--/.nav-collapse -->
+		</div>
+	</div><!-- /sidebar-nav -->
+	
+	<div class="portfolio">
+		<section class="slider">
+			<div class="flexslider loading">
+				<ul class="slides">
+				    <h1 class="dn">Film</h1>
+				    {% content 'portfolio-film' %}
+				</ul>
+			</div>
+		</section>
+	</div><!-- /portfolio -->
+</div><!-- /centered -->
+
+<div class="container-fluid portfolio-mobile">
+	<div class="row">
+		<ul class="list-unstyled">
+			{% content 'portfolio-film' %}
+		</ul>
+	</div>
+</div>
+
+{% partial 'footer.htm' %}
