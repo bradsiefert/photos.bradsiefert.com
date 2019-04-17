@@ -1,5 +1,5 @@
 {
-"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
 "buildSteps": [
 	{
 		"name": "Process All Remaining Files and Folders",
@@ -7,4841 +7,5013 @@
 		"uuidString": "CB6A8BB7-2F17-477A-9BED-36CB3AAC1FBA"
 		}
 	],
-"creatorBuild": "26680",
+"creatorBuild": "29156",
 "files": {
-	"\/!backup 2018.04.27\/.htaccess": {
+	"/!backup 2018.04.27/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/.htaccess",
+		"oAP": "/!backup 2018.04.27/.htaccess",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/contact\/index.html": {
+	"/!backup 2018.04.27/1.0/contact/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/contact\/index.html",
+		"oAP": "/!backup 2018.04.27/1.0/contact/index.html",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/docs\/Bradley_Siefert_Wedding_Proposal.pdf": {
+	"/!backup 2018.04.27/1.0/docs/Bradley_Siefert_Wedding_Proposal.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/docs\/Bradley_Siefert_Wedding_Proposal.pdf",
+		"oAP": "/!backup 2018.04.27/1.0/docs/Bradley_Siefert_Wedding_Proposal.pdf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/favicon.ico": {
+	"/!backup 2018.04.27/1.0/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/favicon.ico",
+		"oAP": "/!backup 2018.04.27/1.0/favicon.ico",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/bradley.jpg": {
+	"/!backup 2018.04.27/1.0/images/bradley.jpg": {
 		"ft": 16384,
 		"iS": 9812,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/bradley.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/bradley.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/bradley2.jpg": {
+	"/!backup 2018.04.27/1.0/images/bradley2.jpg": {
 		"ft": 16384,
 		"iS": 25392,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/bradley2.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/bradley2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/featheredbg.png": {
+	"/!backup 2018.04.27/1.0/images/featheredbg.png": {
 		"ft": 32768,
 		"iS": 44406,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/featheredbg.png",
+		"oAP": "/!backup 2018.04.27/1.0/images/featheredbg.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/grainbg.jpg": {
+	"/!backup 2018.04.27/1.0/images/grainbg.jpg": {
 		"ft": 16384,
 		"iS": 23939,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/grainbg.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/grainbg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/next.png": {
+	"/!backup 2018.04.27/1.0/images/next.png": {
 		"ft": 32768,
 		"iS": 5588,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/next.png",
+		"oAP": "/!backup 2018.04.27/1.0/images/next.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/pdf_logo.png": {
+	"/!backup 2018.04.27/1.0/images/pdf_logo.png": {
 		"ft": 32768,
 		"iS": 17548,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/pdf_logo.png",
+		"oAP": "/!backup 2018.04.27/1.0/images/pdf_logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-badveins.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-badveins.jpg": {
 		"ft": 16384,
 		"iS": 189982,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-badveins.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-badveins.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-bigboi.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-bigboi.jpg": {
 		"ft": 16384,
 		"iS": 145993,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-bigboi.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-bigboi.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-copeland.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-copeland.jpg": {
 		"ft": 16384,
 		"iS": 79371,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-copeland.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-copeland.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-dozens.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-dozens.jpg": {
 		"ft": 16384,
 		"iS": 104277,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-dozens.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-dozens.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-elasticsummer.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-elasticsummer.jpg": {
 		"ft": 16384,
 		"iS": 218488,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-elasticsummer.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-elasticsummer.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-icanmakeamess.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-icanmakeamess.jpg": {
 		"ft": 16384,
 		"iS": 180170,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-icanmakeamess.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-icanmakeamess.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-keatonsimons.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-keatonsimons.jpg": {
 		"ft": 16384,
 		"iS": 296841,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-keatonsimons.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-keatonsimons.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-miguel.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-miguel.jpg": {
 		"ft": 16384,
 		"iS": 88756,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-miguel.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-miguel.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-milano.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-milano.jpg": {
 		"ft": 16384,
 		"iS": 206754,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-milano.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-milano.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-milano2.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-milano2.jpg": {
 		"ft": 16384,
 		"iS": 215374,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-milano2.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-milano2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-reospeedwagon.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-reospeedwagon.jpg": {
 		"ft": 16384,
 		"iS": 344100,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-reospeedwagon.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-reospeedwagon.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-rkelly1.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-rkelly1.jpg": {
 		"ft": 16384,
 		"iS": 205777,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-rkelly1.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-rkelly1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-rkelly2.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-rkelly2.jpg": {
 		"ft": 16384,
 		"iS": 149639,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-rkelly2.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-rkelly2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-sleepinggiant.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-sleepinggiant.jpg": {
 		"ft": 16384,
 		"iS": 249669,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-sleepinggiant.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-sleepinggiant.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-thrice.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-thrice.jpg": {
 		"ft": 16384,
 		"iS": 195873,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-thrice.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-thrice.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-tomfest09.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-tomfest09.jpg": {
 		"ft": 16384,
 		"iS": 231434,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-tomfest09.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-tomfest09.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-traviemccoy.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-traviemccoy.jpg": {
 		"ft": 16384,
 		"iS": 188194,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-traviemccoy.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-traviemccoy.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-music-wale.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-music-wale.jpg": {
 		"ft": 16384,
 		"iS": 192258,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-music-wale.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-music-wale.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-abby.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-abby.jpg": {
 		"ft": 16384,
 		"iS": 189655,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-abby.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-abby.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ariel.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-ariel.jpg": {
 		"ft": 16384,
 		"iS": 273424,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ariel.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-ariel.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ariel1.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-ariel1.jpg": {
 		"ft": 16384,
 		"iS": 217310,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ariel1.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-ariel1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ashleytrefelner.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-ashleytrefelner.jpg": {
 		"ft": 16384,
 		"iS": 225398,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ashleytrefelner.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-ashleytrefelner.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-blue.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-blue.jpg": {
 		"ft": 16384,
 		"iS": 263694,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-blue.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-blue.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-bosh.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-bosh.jpg": {
 		"ft": 16384,
 		"iS": 322348,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-bosh.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-bosh.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ed.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-ed.jpg": {
 		"ft": 16384,
 		"iS": 171270,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ed.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-ed.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-estherdoo.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-estherdoo.jpg": {
 		"ft": 16384,
 		"iS": 239125,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-estherdoo.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-estherdoo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-estherdoo1.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-estherdoo1.jpg": {
 		"ft": 16384,
 		"iS": 227590,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-estherdoo1.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-estherdoo1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-hilaryrushford1.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-hilaryrushford1.jpg": {
 		"ft": 16384,
 		"iS": 213282,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-hilaryrushford1.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-hilaryrushford1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-hilaryrushford2.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-hilaryrushford2.jpg": {
 		"ft": 16384,
 		"iS": 328216,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-hilaryrushford2.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-hilaryrushford2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-jared.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-jared.jpg": {
 		"ft": 16384,
 		"iS": 254203,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-jared.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-jared.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-jeff1.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-jeff1.jpg": {
 		"ft": 16384,
 		"iS": 221793,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-jeff1.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-jeff1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-jeff2.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-jeff2.jpg": {
 		"ft": 16384,
 		"iS": 158834,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-jeff2.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-jeff2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-johnstoffer.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-johnstoffer.jpg": {
 		"ft": 16384,
 		"iS": 140025,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-johnstoffer.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-johnstoffer.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ki.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-ki.jpg": {
 		"ft": 16384,
 		"iS": 139181,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-ki.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-ki.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-sharon.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-sharon.jpg": {
 		"ft": 16384,
 		"iS": 213725,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-sharon.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-sharon.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-soriyah.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-soriyah.jpg": {
 		"ft": 16384,
 		"iS": 104053,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-soriyah.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-soriyah.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-spencer.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-spencer.jpg": {
 		"ft": 16384,
 		"iS": 244735,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-spencer.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-spencer.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-the83rd.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-portrait-the83rd.jpg": {
 		"ft": 16384,
 		"iS": 143746,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-portrait-the83rd.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-portrait-the83rd.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-abandla1.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-abandla1.jpg": {
 		"ft": 16384,
 		"iS": 230354,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-abandla1.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-abandla1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-abandla2.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-abandla2.jpg": {
 		"ft": 16384,
 		"iS": 338491,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-abandla2.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-abandla2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-brentandnicole.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-brentandnicole.jpg": {
 		"ft": 16384,
 		"iS": 309721,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-brentandnicole.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-brentandnicole.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-chadandmelodie1.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-chadandmelodie1.jpg": {
 		"ft": 16384,
 		"iS": 130744,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-chadandmelodie1.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-chadandmelodie1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-chadandmichelle.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-chadandmichelle.jpg": {
 		"ft": 16384,
 		"iS": 293571,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-chadandmichelle.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-chadandmichelle.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-kevinandliz1.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-kevinandliz1.jpg": {
 		"ft": 16384,
 		"iS": 283316,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-kevinandliz1.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-kevinandliz1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-kevinandliz2.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-kevinandliz2.jpg": {
 		"ft": 16384,
 		"iS": 244502,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-kevinandliz2.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-kevinandliz2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-paulandsadie1.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-paulandsadie1.jpg": {
 		"ft": 16384,
 		"iS": 189411,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-paulandsadie1.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-paulandsadie1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-paulandsadie2.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-paulandsadie2.jpg": {
 		"ft": 16384,
 		"iS": 177715,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-paulandsadie2.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-paulandsadie2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon1.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-philandsharon1.jpg": {
 		"ft": 16384,
 		"iS": 200932,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon1.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-philandsharon1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon2.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-philandsharon2.jpg": {
 		"ft": 16384,
 		"iS": 186172,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon2.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-philandsharon2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon3.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-philandsharon3.jpg": {
 		"ft": 16384,
 		"iS": 332060,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon3.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-philandsharon3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon4.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-philandsharon4.jpg": {
 		"ft": 16384,
 		"iS": 191875,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon4.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-philandsharon4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon5.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-philandsharon5.jpg": {
 		"ft": 16384,
 		"iS": 247039,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-philandsharon5.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-philandsharon5.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-ryanandmallory1.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-ryanandmallory1.jpg": {
 		"ft": 16384,
 		"iS": 173044,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-ryanandmallory1.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-ryanandmallory1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-tommyandmichelle1.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-tommyandmichelle1.jpg": {
 		"ft": 16384,
 		"iS": 316779,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-tommyandmichelle1.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-tommyandmichelle1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-tommyandmichelle2.jpg": {
+	"/!backup 2018.04.27/1.0/images/portfolio-wedding-tommyandmichelle2.jpg": {
 		"ft": 16384,
 		"iS": 260117,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/portfolio-wedding-tommyandmichelle2.jpg",
+		"oAP": "/!backup 2018.04.27/1.0/images/portfolio-wedding-tommyandmichelle2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/images\/prev.png": {
+	"/!backup 2018.04.27/1.0/images/prev.png": {
 		"ft": 32768,
 		"iS": 4657,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/images\/prev.png",
+		"oAP": "/!backup 2018.04.27/1.0/images/prev.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/1.0\/index.html": {
+	"/!backup 2018.04.27/1.0/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/index.html",
+		"oAP": "/!backup 2018.04.27/1.0/index.html",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/js\/imageSlider_options.js": {
+	"/!backup 2018.04.27/1.0/js/imageSlider_options.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/js\/imageSlider_options-min.js",
+		"oAP": "/!backup 2018.04.27/1.0/js/imageSlider_options-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/js\/jquery-1.4.1.min.js": {
+	"/!backup 2018.04.27/1.0/js/jquery-1.4.1.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/js\/jquery-1.4.1.min-min.js",
+		"oAP": "/!backup 2018.04.27/1.0/js/jquery-1.4.1.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/js\/jquery.cycle.js": {
+	"/!backup 2018.04.27/1.0/js/jquery.cycle.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/js\/jquery.cycle-min.js",
+		"oAP": "/!backup 2018.04.27/1.0/js/jquery.cycle-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/js\/keyboard_shortcuts.js": {
+	"/!backup 2018.04.27/1.0/js/keyboard_shortcuts.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/js\/keyboard_shortcuts-min.js",
+		"oAP": "/!backup 2018.04.27/1.0/js/keyboard_shortcuts-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/main.css": {
+	"/!backup 2018.04.27/1.0/main.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/main-min.css",
+		"oAP": "/!backup 2018.04.27/1.0/main-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/!backup 2018.04.27\/1.0\/music\/index.html": {
+	"/!backup 2018.04.27/1.0/music/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/music\/index.html",
+		"oAP": "/!backup 2018.04.27/1.0/music/index.html",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.eot": {
+	"/!backup 2018.04.27/1.0/type/BrandonText-Medium.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.eot",
+		"oAP": "/!backup 2018.04.27/1.0/type/BrandonText-Medium.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.otf": {
+	"/!backup 2018.04.27/1.0/type/BrandonText-Medium.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.otf",
+		"oAP": "/!backup 2018.04.27/1.0/type/BrandonText-Medium.otf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.svg": {
+	"/!backup 2018.04.27/1.0/type/BrandonText-Medium.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.svg",
+		"oAP": "/!backup 2018.04.27/1.0/type/BrandonText-Medium.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.ttf": {
+	"/!backup 2018.04.27/1.0/type/BrandonText-Medium.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.ttf",
+		"oAP": "/!backup 2018.04.27/1.0/type/BrandonText-Medium.ttf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.woff": {
+	"/!backup 2018.04.27/1.0/type/BrandonText-Medium.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Medium.woff",
+		"oAP": "/!backup 2018.04.27/1.0/type/BrandonText-Medium.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.eot": {
+	"/!backup 2018.04.27/1.0/type/BrandonText-Regular.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.eot",
+		"oAP": "/!backup 2018.04.27/1.0/type/BrandonText-Regular.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.otf": {
+	"/!backup 2018.04.27/1.0/type/BrandonText-Regular.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.otf",
+		"oAP": "/!backup 2018.04.27/1.0/type/BrandonText-Regular.otf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.svg": {
+	"/!backup 2018.04.27/1.0/type/BrandonText-Regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.svg",
+		"oAP": "/!backup 2018.04.27/1.0/type/BrandonText-Regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.ttf": {
+	"/!backup 2018.04.27/1.0/type/BrandonText-Regular.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.ttf",
+		"oAP": "/!backup 2018.04.27/1.0/type/BrandonText-Regular.ttf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.woff": {
+	"/!backup 2018.04.27/1.0/type/BrandonText-Regular.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/BrandonText-Regular.woff",
+		"oAP": "/!backup 2018.04.27/1.0/type/BrandonText-Regular.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.eot": {
+	"/!backup 2018.04.27/1.0/type/locator-light-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.eot",
+		"oAP": "/!backup 2018.04.27/1.0/type/locator-light-webfont.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.svg": {
+	"/!backup 2018.04.27/1.0/type/locator-light-webfont.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.svg",
+		"oAP": "/!backup 2018.04.27/1.0/type/locator-light-webfont.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.ttf": {
+	"/!backup 2018.04.27/1.0/type/locator-light-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.ttf",
+		"oAP": "/!backup 2018.04.27/1.0/type/locator-light-webfont.ttf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.woff": {
+	"/!backup 2018.04.27/1.0/type/locator-light-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-light-webfont.woff",
+		"oAP": "/!backup 2018.04.27/1.0/type/locator-light-webfont.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.eot": {
+	"/!backup 2018.04.27/1.0/type/locator-ultralight-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.eot",
+		"oAP": "/!backup 2018.04.27/1.0/type/locator-ultralight-webfont.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.svg": {
+	"/!backup 2018.04.27/1.0/type/locator-ultralight-webfont.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.svg",
+		"oAP": "/!backup 2018.04.27/1.0/type/locator-ultralight-webfont.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.ttf": {
+	"/!backup 2018.04.27/1.0/type/locator-ultralight-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.ttf",
+		"oAP": "/!backup 2018.04.27/1.0/type/locator-ultralight-webfont.ttf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.woff": {
+	"/!backup 2018.04.27/1.0/type/locator-ultralight-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locator-ultralight-webfont.woff",
+		"oAP": "/!backup 2018.04.27/1.0/type/locator-ultralight-webfont.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.eot": {
+	"/!backup 2018.04.27/1.0/type/locatormedium-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.eot",
+		"oAP": "/!backup 2018.04.27/1.0/type/locatormedium-webfont.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.svg": {
+	"/!backup 2018.04.27/1.0/type/locatormedium-webfont.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.svg",
+		"oAP": "/!backup 2018.04.27/1.0/type/locatormedium-webfont.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.ttf": {
+	"/!backup 2018.04.27/1.0/type/locatormedium-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.ttf",
+		"oAP": "/!backup 2018.04.27/1.0/type/locatormedium-webfont.ttf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.woff": {
+	"/!backup 2018.04.27/1.0/type/locatormedium-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatormedium-webfont.woff",
+		"oAP": "/!backup 2018.04.27/1.0/type/locatormedium-webfont.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.eot": {
+	"/!backup 2018.04.27/1.0/type/locatorregular-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.eot",
+		"oAP": "/!backup 2018.04.27/1.0/type/locatorregular-webfont.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.svg": {
+	"/!backup 2018.04.27/1.0/type/locatorregular-webfont.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.svg",
+		"oAP": "/!backup 2018.04.27/1.0/type/locatorregular-webfont.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.ttf": {
+	"/!backup 2018.04.27/1.0/type/locatorregular-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.ttf",
+		"oAP": "/!backup 2018.04.27/1.0/type/locatorregular-webfont.ttf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.woff": {
+	"/!backup 2018.04.27/1.0/type/locatorregular-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/locatorregular-webfont.woff",
+		"oAP": "/!backup 2018.04.27/1.0/type/locatorregular-webfont.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.eot": {
+	"/!backup 2018.04.27/1.0/type/Relay-Medium.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.eot",
+		"oAP": "/!backup 2018.04.27/1.0/type/Relay-Medium.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.svg": {
+	"/!backup 2018.04.27/1.0/type/Relay-Medium.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.svg",
+		"oAP": "/!backup 2018.04.27/1.0/type/Relay-Medium.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.ttf": {
+	"/!backup 2018.04.27/1.0/type/Relay-Medium.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.ttf",
+		"oAP": "/!backup 2018.04.27/1.0/type/Relay-Medium.ttf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.woff": {
+	"/!backup 2018.04.27/1.0/type/Relay-Medium.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Medium.woff",
+		"oAP": "/!backup 2018.04.27/1.0/type/Relay-Medium.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.eot": {
+	"/!backup 2018.04.27/1.0/type/Relay-Regular.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.eot",
+		"oAP": "/!backup 2018.04.27/1.0/type/Relay-Regular.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.svg": {
+	"/!backup 2018.04.27/1.0/type/Relay-Regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.svg",
+		"oAP": "/!backup 2018.04.27/1.0/type/Relay-Regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.ttf": {
+	"/!backup 2018.04.27/1.0/type/Relay-Regular.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.ttf",
+		"oAP": "/!backup 2018.04.27/1.0/type/Relay-Regular.ttf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.woff": {
+	"/!backup 2018.04.27/1.0/type/Relay-Regular.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/Relay-Regular.woff",
+		"oAP": "/!backup 2018.04.27/1.0/type/Relay-Regular.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.eot": {
+	"/!backup 2018.04.27/1.0/type/RelayCond-Medium.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.eot",
+		"oAP": "/!backup 2018.04.27/1.0/type/RelayCond-Medium.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.svg": {
+	"/!backup 2018.04.27/1.0/type/RelayCond-Medium.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.svg",
+		"oAP": "/!backup 2018.04.27/1.0/type/RelayCond-Medium.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.ttf": {
+	"/!backup 2018.04.27/1.0/type/RelayCond-Medium.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.ttf",
+		"oAP": "/!backup 2018.04.27/1.0/type/RelayCond-Medium.ttf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.woff": {
+	"/!backup 2018.04.27/1.0/type/RelayCond-Medium.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Medium.woff",
+		"oAP": "/!backup 2018.04.27/1.0/type/RelayCond-Medium.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.eot": {
+	"/!backup 2018.04.27/1.0/type/RelayCond-Regular.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.eot",
+		"oAP": "/!backup 2018.04.27/1.0/type/RelayCond-Regular.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.svg": {
+	"/!backup 2018.04.27/1.0/type/RelayCond-Regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.svg",
+		"oAP": "/!backup 2018.04.27/1.0/type/RelayCond-Regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.ttf": {
+	"/!backup 2018.04.27/1.0/type/RelayCond-Regular.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.ttf",
+		"oAP": "/!backup 2018.04.27/1.0/type/RelayCond-Regular.ttf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.woff": {
+	"/!backup 2018.04.27/1.0/type/RelayCond-Regular.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/type\/RelayCond-Regular.woff",
+		"oAP": "/!backup 2018.04.27/1.0/type/RelayCond-Regular.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/1.0\/weddings\/index.html": {
+	"/!backup 2018.04.27/1.0/weddings/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/1.0\/weddings\/index.html",
+		"oAP": "/!backup 2018.04.27/1.0/weddings/index.html",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/about\/index.html": {
+	"/!backup 2018.04.27/2.0/about/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/about\/index.html",
+		"oAP": "/!backup 2018.04.27/2.0/about/index.html",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/css\/bootstrap.css": {
+	"/!backup 2018.04.27/2.0/css/bootstrap.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/css\/bootstrap-min.css",
+		"oAP": "/!backup 2018.04.27/2.0/css/bootstrap-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/!backup 2018.04.27\/2.0\/css\/bootstrap.min.css": {
+	"/!backup 2018.04.27/2.0/css/bootstrap.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/css\/bootstrap.min-min.css",
+		"oAP": "/!backup 2018.04.27/2.0/css/bootstrap.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/!backup 2018.04.27\/2.0\/css\/customize.css": {
+	"/!backup 2018.04.27/2.0/css/customize.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/css\/customize-min.css",
+		"oAP": "/!backup 2018.04.27/2.0/css/customize-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/!backup 2018.04.27\/2.0\/css\/flexslider.css": {
+	"/!backup 2018.04.27/2.0/css/flexslider.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/css\/flexslider-min.css",
+		"oAP": "/!backup 2018.04.27/2.0/css/flexslider-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/!backup 2018.04.27\/2.0\/css\/fontfaces.css": {
+	"/!backup 2018.04.27/2.0/css/fontfaces.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/css\/fontfaces-min.css",
+		"oAP": "/!backup 2018.04.27/2.0/css/fontfaces-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/!backup 2018.04.27\/2.0\/favicon.ico": {
+	"/!backup 2018.04.27/2.0/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/favicon.ico",
+		"oAP": "/!backup 2018.04.27/2.0/favicon.ico",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/film\/index.html": {
+	"/!backup 2018.04.27/2.0/film/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/film\/index.html",
+		"oAP": "/!backup 2018.04.27/2.0/film/index.html",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.eot": {
+	"/!backup 2018.04.27/2.0/fonts/glyphicons-halflings-regular.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.eot",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/glyphicons-halflings-regular.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.svg": {
+	"/!backup 2018.04.27/2.0/fonts/glyphicons-halflings-regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.svg",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/glyphicons-halflings-regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.ttf": {
+	"/!backup 2018.04.27/2.0/fonts/glyphicons-halflings-regular.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.ttf",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/glyphicons-halflings-regular.ttf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.woff": {
+	"/!backup 2018.04.27/2.0/fonts/glyphicons-halflings-regular.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.woff",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/glyphicons-halflings-regular.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.woff2": {
+	"/!backup 2018.04.27/2.0/fonts/glyphicons-halflings-regular.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/glyphicons-halflings-regular.woff2",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/glyphicons-halflings-regular.woff2",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.eot": {
+	"/!backup 2018.04.27/2.0/fonts/Verlag-Light.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.eot",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/Verlag-Light.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.otf": {
+	"/!backup 2018.04.27/2.0/fonts/Verlag-Light.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.otf",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/Verlag-Light.otf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.svg": {
+	"/!backup 2018.04.27/2.0/fonts/Verlag-Light.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.svg",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/Verlag-Light.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.woff": {
+	"/!backup 2018.04.27/2.0/fonts/Verlag-Light.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/Verlag-Light.woff",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/Verlag-Light.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFBook.otf": {
+	"/!backup 2018.04.27/2.0/fonts/WhitneyHTFBook.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFBook.otf",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/WhitneyHTFBook.otf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFBook.svg": {
+	"/!backup 2018.04.27/2.0/fonts/WhitneyHTFBook.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFBook.svg",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/WhitneyHTFBook.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFBook.woff": {
+	"/!backup 2018.04.27/2.0/fonts/WhitneyHTFBook.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFBook.woff",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/WhitneyHTFBook.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFLight.otf": {
+	"/!backup 2018.04.27/2.0/fonts/WhitneyHTFLight.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFLight.otf",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/WhitneyHTFLight.otf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFLight.svg": {
+	"/!backup 2018.04.27/2.0/fonts/WhitneyHTFLight.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFLight.svg",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/WhitneyHTFLight.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFLight.woff": {
+	"/!backup 2018.04.27/2.0/fonts/WhitneyHTFLight.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFLight.woff",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/WhitneyHTFLight.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFMedium.otf": {
+	"/!backup 2018.04.27/2.0/fonts/WhitneyHTFMedium.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFMedium.otf",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/WhitneyHTFMedium.otf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFMedium.svg": {
+	"/!backup 2018.04.27/2.0/fonts/WhitneyHTFMedium.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFMedium.svg",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/WhitneyHTFMedium.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFMedium.woff": {
+	"/!backup 2018.04.27/2.0/fonts/WhitneyHTFMedium.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/fonts\/WhitneyHTFMedium.woff",
+		"oAP": "/!backup 2018.04.27/2.0/fonts/WhitneyHTFMedium.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/index.html": {
+	"/!backup 2018.04.27/2.0/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/index.html",
+		"oAP": "/!backup 2018.04.27/2.0/index.html",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/js\/bootstrap.js": {
+	"/!backup 2018.04.27/2.0/js/bootstrap.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/js\/bootstrap-min.js",
+		"oAP": "/!backup 2018.04.27/2.0/js/bootstrap-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/js\/bootstrap.min.js": {
+	"/!backup 2018.04.27/2.0/js/bootstrap.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/js\/bootstrap.min-min.js",
+		"oAP": "/!backup 2018.04.27/2.0/js/bootstrap.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/js\/jquery.easing.js": {
+	"/!backup 2018.04.27/2.0/js/jquery.easing.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/js\/jquery.easing-min.js",
+		"oAP": "/!backup 2018.04.27/2.0/js/jquery.easing-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/js\/jquery.flexslider.js": {
+	"/!backup 2018.04.27/2.0/js/jquery.flexslider.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/js\/jquery.flexslider-min.js",
+		"oAP": "/!backup 2018.04.27/2.0/js/jquery.flexslider-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/js\/jquery.mousewheel.js": {
+	"/!backup 2018.04.27/2.0/js/jquery.mousewheel.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/js\/jquery.mousewheel-min.js",
+		"oAP": "/!backup 2018.04.27/2.0/js/jquery.mousewheel-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/!backup 2018.04.27\/2.0\/places\/index.html": {
+	"/!backup 2018.04.27/2.0/places/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.0\/places\/index.html",
+		"oAP": "/!backup 2018.04.27/2.0/places/index.html",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/bootstrap.min.css": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/css/bootstrap.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/bootstrap.min-min.css",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/css/bootstrap.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/customize.css": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/css/customize.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/customize-min.css",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/css/customize-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/customize.min.css": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/css/customize.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/customize.min-min.css",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/css/customize.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/flexslider.css": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/css/flexslider.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/flexslider-min.css",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/css/flexslider-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/flexslider.min.css": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/css/flexslider.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/flexslider.min-min.css",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/css/flexslider.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/fontfaces.css": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/css/fontfaces.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/css\/fontfaces-min.css",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/css/fontfaces-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.eot": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/glyphicons-halflings-regular.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.eot",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/glyphicons-halflings-regular.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/glyphicons-halflings-regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/glyphicons-halflings-regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.ttf": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/glyphicons-halflings-regular.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.ttf",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/glyphicons-halflings-regular.ttf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.woff": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/glyphicons-halflings-regular.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.woff",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/glyphicons-halflings-regular.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.woff2": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/glyphicons-halflings-regular.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/glyphicons-halflings-regular.woff2",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/glyphicons-halflings-regular.woff2",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFBook.otf": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFBook.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFBook.otf",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFBook.otf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFBook.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFBook.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFBook.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFBook.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFBook.woff": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFBook.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFBook.woff",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFBook.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.eot": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFLight.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.eot",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFLight.eot",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.otf": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFLight.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.otf",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFLight.otf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFLight.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFLight.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.woff": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFLight.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFLight.woff",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFLight.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFMedium.otf": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFMedium.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFMedium.otf",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFMedium.otf",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFMedium.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFMedium.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFMedium.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFMedium.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFMedium.woff": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFMedium.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/fonts\/WhitneyHTFMedium.woff",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/fonts/WhitneyHTFMedium.woff",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-144x144.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/android-chrome-144x144.png": {
 		"ft": 32768,
 		"iS": 2677,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-144x144.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/android-chrome-144x144.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-192x192.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 4278,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-192x192.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/android-chrome-192x192.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-36x36.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/android-chrome-36x36.png": {
 		"ft": 32768,
 		"iS": 579,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-36x36.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/android-chrome-36x36.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-48x48.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/android-chrome-48x48.png": {
 		"ft": 32768,
 		"iS": 737,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-48x48.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/android-chrome-48x48.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-72x72.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/android-chrome-72x72.png": {
 		"ft": 32768,
 		"iS": 1106,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-72x72.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/android-chrome-72x72.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-96x96.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/android-chrome-96x96.png": {
 		"ft": 32768,
 		"iS": 1632,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/android-chrome-96x96.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/android-chrome-96x96.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-114x114.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-114x114.png": {
 		"ft": 32768,
 		"iS": 1939,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-114x114.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-114x114.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-120x120.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-120x120.png": {
 		"ft": 32768,
 		"iS": 2139,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-120x120.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-120x120.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-144x144.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 2677,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-144x144.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-144x144.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-152x152.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-152x152.png": {
 		"ft": 32768,
 		"iS": 2980,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-152x152.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-152x152.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-180x180.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-180x180.png": {
 		"ft": 32768,
 		"iS": 3923,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-180x180.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-180x180.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-57x57.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-57x57.png": {
 		"ft": 32768,
 		"iS": 839,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-57x57.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-57x57.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-60x60.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-60x60.png": {
 		"ft": 32768,
 		"iS": 916,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-60x60.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-60x60.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-72x72.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-72x72.png": {
 		"ft": 32768,
 		"iS": 1106,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-72x72.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-72x72.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-76x76.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-76x76.png": {
 		"ft": 32768,
 		"iS": 1168,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-76x76.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-76x76.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-precomposed.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-precomposed.png": {
 		"ft": 32768,
 		"iS": 4688,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-precomposed.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-precomposed.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 3923,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/browserconfig.xml": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/browserconfig.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/browserconfig.xml",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/browserconfig.xml",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-16x16.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 453,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-16x16.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/favicon-16x16.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-194x194.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/favicon-194x194.png": {
 		"ft": 32768,
 		"iS": 5181,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-194x194.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/favicon-194x194.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-32x32.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/favicon-32x32.png": {
 		"ft": 32768,
 		"iS": 744,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-32x32.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/favicon-32x32.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-96x96.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/favicon-96x96.png": {
 		"ft": 32768,
 		"iS": 2065,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon-96x96.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/favicon-96x96.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon.ico": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/favicon.ico",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/favicon.ico",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/headshot.jpg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/headshot.jpg": {
 		"ft": 16384,
 		"iS": 64047,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/headshot.jpg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/headshot.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-500px.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-500px.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-500px.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-500px.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-next-dark.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-arrow-next-dark.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-next-dark.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-arrow-next-dark.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-next.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-arrow-next.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-next.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-arrow-next.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-prev-dark.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-arrow-prev-dark.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-prev-dark.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-arrow-prev-dark.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-prev.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-arrow-prev.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-arrow-prev.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-arrow-prev.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-flickr.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-flickr.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-flickr.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-flickr.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-instagram.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-instagram.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-instagram.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-instagram.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-tumblr.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-tumblr.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-tumblr.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-tumblr.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-twitter.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-twitter.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/icon-twitter.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/icon-twitter.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/logo-icon.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/logo-icon.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/logo-icon.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/logo-icon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/manifest.json": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/manifest.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/manifest-min.json",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/manifest-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-144x144.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/mstile-144x144.png": {
 		"ft": 32768,
 		"iS": 3447,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-144x144.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/mstile-144x144.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-150x150.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/mstile-150x150.png": {
 		"ft": 32768,
 		"iS": 2717,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-150x150.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/mstile-150x150.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-310x150.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/mstile-310x150.png": {
 		"ft": 32768,
 		"iS": 2741,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-310x150.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/mstile-310x150.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-310x310.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/mstile-310x310.png": {
 		"ft": 32768,
 		"iS": 8398,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-310x310.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/mstile-310x310.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-70x70.png": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/mstile-70x70.png": {
 		"ft": 32768,
 		"iS": 2135,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/mstile-70x70.png",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/mstile-70x70.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/social-500px-48.svg": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/images/social-500px-48.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/social-500px-48.svg",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/social-500px-48.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/js\/bootstrap.min.js": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/js/bootstrap.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/js\/bootstrap.min-min.js",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/js/bootstrap.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/js\/jquery.flexslider.js": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/js/jquery.flexslider.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/js\/jquery.flexslider-min.js",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/js/jquery.flexslider-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/js\/jquery.flexslider.min.js": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/assets/js/jquery.flexslider.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/js\/jquery.flexslider.min-min.js",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/assets/js/jquery.flexslider.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/content\/portfolio-film.htm": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/content/portfolio-film.htm": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/content\/portfolio-film.htm",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/content/portfolio-film.htm",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/content\/portfolio-places.htm": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/content/portfolio-places.htm": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/content\/portfolio-places.htm",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/content/portfolio-places.htm",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/content\/portofolio-landing-page.htm": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/content/portofolio-landing-page.htm": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/content\/portofolio-landing-page.htm",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/content/portofolio-landing-page.htm",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/about.htm": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/pages/about.htm": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/about.htm",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/pages/about.htm",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/film.htm": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/pages/film.htm": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/film.htm",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/pages/film.htm",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/landing-page.htm": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/pages/landing-page.htm": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/landing-page.htm",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/pages/landing-page.htm",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/places.htm": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/pages/places.htm": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/pages\/places.htm",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/pages/places.htm",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/partials\/footer.htm": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/partials/footer.htm": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/partials\/footer.htm",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/partials/footer.htm",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/partials\/header.htm": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/partials/header.htm": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/partials\/header.htm",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/partials/header.htm",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/partials\/nav-social.htm": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/partials/nav-social.htm": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/partials\/nav-social.htm",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/partials/nav-social.htm",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/2.1\/bradleysiefert\/theme.yaml": {
+	"/!backup 2018.04.27/2.1/bradleysiefert/theme.yaml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/theme.yaml",
+		"oAP": "/!backup 2018.04.27/2.1/bradleysiefert/theme.yaml",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/images\/android-chrome-144x144.png": {
+	"/!backup 2018.04.27/images/android-chrome-144x144.png": {
 		"ft": 32768,
 		"iS": 2677,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/android-chrome-144x144.png",
+		"oAP": "/!backup 2018.04.27/images/android-chrome-144x144.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/android-chrome-192x192.png": {
+	"/!backup 2018.04.27/images/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 4278,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/android-chrome-192x192.png",
+		"oAP": "/!backup 2018.04.27/images/android-chrome-192x192.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/android-chrome-36x36.png": {
+	"/!backup 2018.04.27/images/android-chrome-36x36.png": {
 		"ft": 32768,
 		"iS": 579,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/android-chrome-36x36.png",
+		"oAP": "/!backup 2018.04.27/images/android-chrome-36x36.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/android-chrome-48x48.png": {
+	"/!backup 2018.04.27/images/android-chrome-48x48.png": {
 		"ft": 32768,
 		"iS": 737,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/android-chrome-48x48.png",
+		"oAP": "/!backup 2018.04.27/images/android-chrome-48x48.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/android-chrome-72x72.png": {
+	"/!backup 2018.04.27/images/android-chrome-72x72.png": {
 		"ft": 32768,
 		"iS": 1106,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/android-chrome-72x72.png",
+		"oAP": "/!backup 2018.04.27/images/android-chrome-72x72.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/android-chrome-96x96.png": {
+	"/!backup 2018.04.27/images/android-chrome-96x96.png": {
 		"ft": 32768,
 		"iS": 1632,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/android-chrome-96x96.png",
+		"oAP": "/!backup 2018.04.27/images/android-chrome-96x96.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/apple-touch-icon-114x114.png": {
+	"/!backup 2018.04.27/images/apple-touch-icon-114x114.png": {
 		"ft": 32768,
 		"iS": 1939,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-114x114.png",
+		"oAP": "/!backup 2018.04.27/images/apple-touch-icon-114x114.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/apple-touch-icon-120x120.png": {
+	"/!backup 2018.04.27/images/apple-touch-icon-120x120.png": {
 		"ft": 32768,
 		"iS": 2139,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-120x120.png",
+		"oAP": "/!backup 2018.04.27/images/apple-touch-icon-120x120.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/apple-touch-icon-144x144.png": {
+	"/!backup 2018.04.27/images/apple-touch-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 2677,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-144x144.png",
+		"oAP": "/!backup 2018.04.27/images/apple-touch-icon-144x144.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/apple-touch-icon-152x152.png": {
+	"/!backup 2018.04.27/images/apple-touch-icon-152x152.png": {
 		"ft": 32768,
 		"iS": 2980,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-152x152.png",
+		"oAP": "/!backup 2018.04.27/images/apple-touch-icon-152x152.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/apple-touch-icon-180x180.png": {
+	"/!backup 2018.04.27/images/apple-touch-icon-180x180.png": {
 		"ft": 32768,
 		"iS": 3923,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-180x180.png",
+		"oAP": "/!backup 2018.04.27/images/apple-touch-icon-180x180.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/apple-touch-icon-57x57.png": {
+	"/!backup 2018.04.27/images/apple-touch-icon-57x57.png": {
 		"ft": 32768,
 		"iS": 839,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-57x57.png",
+		"oAP": "/!backup 2018.04.27/images/apple-touch-icon-57x57.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/apple-touch-icon-60x60.png": {
+	"/!backup 2018.04.27/images/apple-touch-icon-60x60.png": {
 		"ft": 32768,
 		"iS": 916,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-60x60.png",
+		"oAP": "/!backup 2018.04.27/images/apple-touch-icon-60x60.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/apple-touch-icon-72x72.png": {
+	"/!backup 2018.04.27/images/apple-touch-icon-72x72.png": {
 		"ft": 32768,
 		"iS": 1106,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-72x72.png",
+		"oAP": "/!backup 2018.04.27/images/apple-touch-icon-72x72.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/apple-touch-icon-76x76.png": {
+	"/!backup 2018.04.27/images/apple-touch-icon-76x76.png": {
 		"ft": 32768,
 		"iS": 1168,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-76x76.png",
+		"oAP": "/!backup 2018.04.27/images/apple-touch-icon-76x76.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/apple-touch-icon-precomposed.png": {
+	"/!backup 2018.04.27/images/apple-touch-icon-precomposed.png": {
 		"ft": 32768,
 		"iS": 4688,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon-precomposed.png",
+		"oAP": "/!backup 2018.04.27/images/apple-touch-icon-precomposed.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/apple-touch-icon.png": {
+	"/!backup 2018.04.27/images/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 3923,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/apple-touch-icon.png",
+		"oAP": "/!backup 2018.04.27/images/apple-touch-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/browserconfig.xml": {
+	"/!backup 2018.04.27/images/browserconfig.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/browserconfig.xml",
+		"oAP": "/!backup 2018.04.27/images/browserconfig.xml",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/images\/estherdoo.jpg": {
+	"/!backup 2018.04.27/images/estherdoo.jpg": {
 		"ft": 16384,
 		"iS": 211702,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/estherdoo.jpg",
+		"oAP": "/!backup 2018.04.27/images/estherdoo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/favicon-16x16.png": {
+	"/!backup 2018.04.27/images/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 453,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/favicon-16x16.png",
+		"oAP": "/!backup 2018.04.27/images/favicon-16x16.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/favicon-194x194.png": {
+	"/!backup 2018.04.27/images/favicon-194x194.png": {
 		"ft": 32768,
 		"iS": 5181,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/favicon-194x194.png",
+		"oAP": "/!backup 2018.04.27/images/favicon-194x194.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/favicon-32x32.png": {
+	"/!backup 2018.04.27/images/favicon-32x32.png": {
 		"ft": 32768,
 		"iS": 744,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/favicon-32x32.png",
+		"oAP": "/!backup 2018.04.27/images/favicon-32x32.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/favicon-96x96.png": {
+	"/!backup 2018.04.27/images/favicon-96x96.png": {
 		"ft": 32768,
 		"iS": 2065,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/favicon-96x96.png",
+		"oAP": "/!backup 2018.04.27/images/favicon-96x96.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/favicon.ico": {
+	"/!backup 2018.04.27/images/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/favicon.ico",
+		"oAP": "/!backup 2018.04.27/images/favicon.ico",
 		"oF": 0
 		},
-	"\/!backup 2018.04.27\/images\/film-arieloninstitute.jpg": {
+	"/!backup 2018.04.27/images/film-arieloninstitute.jpg": {
 		"ft": 16384,
 		"iS": 214831,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-arieloninstitute.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-arieloninstitute.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/film-arieloninstitute2.jpg": {
+	"/!backup 2018.04.27/images/film-arieloninstitute2.jpg": {
 		"ft": 16384,
 		"iS": 129236,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-arieloninstitute2.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-arieloninstitute2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/film-bjchicagoave.jpg": {
+	"/!backup 2018.04.27/images/film-bjchicagoave.jpg": {
 		"ft": 16384,
 		"iS": 175187,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-bjchicagoave.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-bjchicagoave.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/film-doubleexposurejason.jpg": {
+	"/!backup 2018.04.27/images/film-doubleexposurejason.jpg": {
 		"ft": 16384,
 		"iS": 193116,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-doubleexposurejason.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-doubleexposurejason.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/film-doubleexposurejason2.jpg": {
+	"/!backup 2018.04.27/images/film-doubleexposurejason2.jpg": {
 		"ft": 16384,
 		"iS": 279789,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-doubleexposurejason2.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-doubleexposurejason2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/film-doubleexposurejosh.jpg": {
+	"/!backup 2018.04.27/images/film-doubleexposurejosh.jpg": {
 		"ft": 16384,
 		"iS": 194937,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-doubleexposurejosh.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-doubleexposurejosh.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/film-fnanonmagmile.jpg": {
+	"/!backup 2018.04.27/images/film-fnanonmagmile.jpg": {
 		"ft": 16384,
 		"iS": 109620,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-fnanonmagmile.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-fnanonmagmile.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/film-goyita.jpg": {
+	"/!backup 2018.04.27/images/film-goyita.jpg": {
 		"ft": 16384,
 		"iS": 144833,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-goyita.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-goyita.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/film-lawerence.jpg": {
+	"/!backup 2018.04.27/images/film-lawerence.jpg": {
 		"ft": 16384,
 		"iS": 156008,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-lawerence.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-lawerence.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/film-nathanaeldunes.jpg": {
+	"/!backup 2018.04.27/images/film-nathanaeldunes.jpg": {
 		"ft": 16384,
 		"iS": 148484,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-nathanaeldunes.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-nathanaeldunes.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/film-saintjohnlutheranchurch.jpg": {
+	"/!backup 2018.04.27/images/film-saintjohnlutheranchurch.jpg": {
 		"ft": 16384,
 		"iS": 149051,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-saintjohnlutheranchurch.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-saintjohnlutheranchurch.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/film-shirad.jpg": {
+	"/!backup 2018.04.27/images/film-shirad.jpg": {
 		"ft": 16384,
 		"iS": 199913,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-shirad.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-shirad.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/film-the83rdinChicago.jpg": {
+	"/!backup 2018.04.27/images/film-the83rdinChicago.jpg": {
 		"ft": 16384,
 		"iS": 171589,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-the83rdinChicago.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-the83rdinChicago.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/film-tonyandjimmy.jpg": {
+	"/!backup 2018.04.27/images/film-tonyandjimmy.jpg": {
 		"ft": 16384,
 		"iS": 110731,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/film-tonyandjimmy.jpg",
+		"oAP": "/!backup 2018.04.27/images/film-tonyandjimmy.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/headshot.jpg": {
+	"/!backup 2018.04.27/images/headshot.jpg": {
 		"ft": 16384,
 		"iS": 64047,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/headshot.jpg",
+		"oAP": "/!backup 2018.04.27/images/headshot.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/icon-500px.svg": {
+	"/!backup 2018.04.27/images/icon-500px.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/images\/icon-500px.svg",
+		"oAP": "/!backup 2018.04.27/images/icon-500px.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/images\/icon-arrow-next-dark.svg": {
+	"/!backup 2018.04.27/images/icon-arrow-next-dark.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/images\/icon-arrow-next-dark.svg",
+		"oAP": "/!backup 2018.04.27/images/icon-arrow-next-dark.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/images\/icon-arrow-next.svg": {
+	"/!backup 2018.04.27/images/icon-arrow-next.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/images\/icon-arrow-next.svg",
+		"oAP": "/!backup 2018.04.27/images/icon-arrow-next.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/images\/icon-arrow-prev-dark.svg": {
+	"/!backup 2018.04.27/images/icon-arrow-prev-dark.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/images\/icon-arrow-prev-dark.svg",
+		"oAP": "/!backup 2018.04.27/images/icon-arrow-prev-dark.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/images\/icon-arrow-prev.svg": {
+	"/!backup 2018.04.27/images/icon-arrow-prev.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/images\/icon-arrow-prev.svg",
+		"oAP": "/!backup 2018.04.27/images/icon-arrow-prev.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/images\/icon-flickr.svg": {
+	"/!backup 2018.04.27/images/icon-flickr.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/images\/icon-flickr.svg",
+		"oAP": "/!backup 2018.04.27/images/icon-flickr.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/images\/icon-instagram.svg": {
+	"/!backup 2018.04.27/images/icon-instagram.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/images\/icon-instagram.svg",
+		"oAP": "/!backup 2018.04.27/images/icon-instagram.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/images\/icon-twitter.svg": {
+	"/!backup 2018.04.27/images/icon-twitter.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/images\/icon-twitter.svg",
+		"oAP": "/!backup 2018.04.27/images/icon-twitter.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/images\/johnstoffer.jpg": {
+	"/!backup 2018.04.27/images/johnstoffer.jpg": {
 		"ft": 16384,
 		"iS": 133180,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/johnstoffer.jpg",
+		"oAP": "/!backup 2018.04.27/images/johnstoffer.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/logo-icon.svg": {
+	"/!backup 2018.04.27/images/logo-icon.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/!backup 2018.04.27\/images\/logo-icon.svg",
+		"oAP": "/!backup 2018.04.27/images/logo-icon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/!backup 2018.04.27\/images\/logo.png": {
+	"/!backup 2018.04.27/images/logo.png": {
 		"ft": 32768,
 		"iS": 7608,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/logo.png",
+		"oAP": "/!backup 2018.04.27/images/logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/manifest.json": {
+	"/!backup 2018.04.27/images/manifest.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/!backup 2018.04.27\/images\/manifest-min.json",
+		"oAP": "/!backup 2018.04.27/images/manifest-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/!backup 2018.04.27\/images\/mstile-144x144.png": {
+	"/!backup 2018.04.27/images/mstile-144x144.png": {
 		"ft": 32768,
 		"iS": 3447,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/mstile-144x144.png",
+		"oAP": "/!backup 2018.04.27/images/mstile-144x144.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/mstile-150x150.png": {
+	"/!backup 2018.04.27/images/mstile-150x150.png": {
 		"ft": 32768,
 		"iS": 2717,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/mstile-150x150.png",
+		"oAP": "/!backup 2018.04.27/images/mstile-150x150.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/mstile-310x150.png": {
+	"/!backup 2018.04.27/images/mstile-310x150.png": {
 		"ft": 32768,
 		"iS": 2741,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/mstile-310x150.png",
+		"oAP": "/!backup 2018.04.27/images/mstile-310x150.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/mstile-310x310.png": {
+	"/!backup 2018.04.27/images/mstile-310x310.png": {
 		"ft": 32768,
 		"iS": 8398,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/mstile-310x310.png",
+		"oAP": "/!backup 2018.04.27/images/mstile-310x310.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/mstile-70x70.png": {
+	"/!backup 2018.04.27/images/mstile-70x70.png": {
 		"ft": 32768,
 		"iS": 2135,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/mstile-70x70.png",
+		"oAP": "/!backup 2018.04.27/images/mstile-70x70.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-abby.jpg": {
+	"/!backup 2018.04.27/images/people-abby.jpg": {
 		"ft": 16384,
 		"iS": 298539,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-abby.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-abby.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-bigboi.jpg": {
+	"/!backup 2018.04.27/images/people-bigboi.jpg": {
 		"ft": 16384,
 		"iS": 247413,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-bigboi.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-bigboi.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-colorjar.jpg": {
+	"/!backup 2018.04.27/images/people-colorjar.jpg": {
 		"ft": 16384,
 		"iS": 176776,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-colorjar.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-colorjar.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-doublejon.jpg": {
+	"/!backup 2018.04.27/images/people-doublejon.jpg": {
 		"ft": 16384,
 		"iS": 337976,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-doublejon.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-doublejon.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-dozens.jpg": {
+	"/!backup 2018.04.27/images/people-dozens.jpg": {
 		"ft": 16384,
 		"iS": 147569,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-dozens.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-dozens.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-estherdoo.jpg": {
+	"/!backup 2018.04.27/images/people-estherdoo.jpg": {
 		"ft": 16384,
 		"iS": 329740,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-estherdoo.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-estherdoo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-graceandcassie.jpg": {
+	"/!backup 2018.04.27/images/people-graceandcassie.jpg": {
 		"ft": 16384,
 		"iS": 343916,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-graceandcassie.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-graceandcassie.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-hilaryrushford.jpg": {
+	"/!backup 2018.04.27/images/people-hilaryrushford.jpg": {
 		"ft": 16384,
 		"iS": 325780,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-hilaryrushford.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-hilaryrushford.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-jared.jpg": {
+	"/!backup 2018.04.27/images/people-jared.jpg": {
 		"ft": 16384,
 		"iS": 193806,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-jared.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-jared.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-jeffmidweststyle1.jpg": {
+	"/!backup 2018.04.27/images/people-jeffmidweststyle1.jpg": {
 		"ft": 16384,
 		"iS": 215237,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-jeffmidweststyle1.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-jeffmidweststyle1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-johnstoffer1.jpg": {
+	"/!backup 2018.04.27/images/people-johnstoffer1.jpg": {
 		"ft": 16384,
 		"iS": 181922,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-johnstoffer1.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-johnstoffer1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-johnstoffer2.jpg": {
+	"/!backup 2018.04.27/images/people-johnstoffer2.jpg": {
 		"ft": 16384,
 		"iS": 246205,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-johnstoffer2.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-johnstoffer2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-joshkettlemoranforest.jpg": {
+	"/!backup 2018.04.27/images/people-joshkettlemoranforest.jpg": {
 		"ft": 16384,
 		"iS": 289506,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-joshkettlemoranforest.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-joshkettlemoranforest.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-Levi.jpg": {
+	"/!backup 2018.04.27/images/people-Levi.jpg": {
 		"ft": 16384,
 		"iS": 417049,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-Levi.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-Levi.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-lydia.jpg": {
+	"/!backup 2018.04.27/images/people-lydia.jpg": {
 		"ft": 16384,
 		"iS": 148090,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-lydia.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-lydia.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-miguel.jpg": {
+	"/!backup 2018.04.27/images/people-miguel.jpg": {
 		"ft": 16384,
 		"iS": 181392,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-miguel.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-miguel.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-nicoledunes.jpg": {
+	"/!backup 2018.04.27/images/people-nicoledunes.jpg": {
 		"ft": 16384,
 		"iS": 351214,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-nicoledunes.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-nicoledunes.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-rkelly.jpg": {
+	"/!backup 2018.04.27/images/people-rkelly.jpg": {
 		"ft": 16384,
 		"iS": 177826,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-rkelly.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-rkelly.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-sharonirving.jpg": {
+	"/!backup 2018.04.27/images/people-sharonirving.jpg": {
 		"ft": 16384,
 		"iS": 233602,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-sharonirving.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-sharonirving.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-shiraz1.jpg": {
+	"/!backup 2018.04.27/images/people-shiraz1.jpg": {
 		"ft": 16384,
 		"iS": 317214,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-shiraz1.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-shiraz1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-temi.jpg": {
+	"/!backup 2018.04.27/images/people-temi.jpg": {
 		"ft": 16384,
 		"iS": 155906,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-temi.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-temi.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-the83rd.jpg": {
+	"/!backup 2018.04.27/images/people-the83rd.jpg": {
 		"ft": 16384,
 		"iS": 272479,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-the83rd.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-the83rd.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-The83rdinChicago1.jpg": {
+	"/!backup 2018.04.27/images/people-The83rdinChicago1.jpg": {
 		"ft": 16384,
 		"iS": 251007,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-The83rdinChicago1.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-The83rdinChicago1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-The83rdinChicago2.jpg": {
+	"/!backup 2018.04.27/images/people-The83rdinChicago2.jpg": {
 		"ft": 16384,
 		"iS": 342320,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-The83rdinChicago2.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-The83rdinChicago2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-thelonebellow.jpg": {
+	"/!backup 2018.04.27/images/people-thelonebellow.jpg": {
 		"ft": 16384,
 		"iS": 206565,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-thelonebellow.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-thelonebellow.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-tonycampolo.jpg": {
+	"/!backup 2018.04.27/images/people-tonycampolo.jpg": {
 		"ft": 16384,
 		"iS": 240894,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-tonycampolo.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-tonycampolo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/people-traviemccoy.jpg": {
+	"/!backup 2018.04.27/images/people-traviemccoy.jpg": {
 		"ft": 16384,
 		"iS": 282317,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/people-traviemccoy.jpg",
+		"oAP": "/!backup 2018.04.27/images/people-traviemccoy.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-2013tetons1.jpg": {
+	"/!backup 2018.04.27/images/places-2013tetons1.jpg": {
 		"ft": 16384,
 		"iS": 300514,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons1.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-2013tetons1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-2013tetons2.jpg": {
+	"/!backup 2018.04.27/images/places-2013tetons2.jpg": {
 		"ft": 16384,
 		"iS": 287252,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons2.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-2013tetons2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-2013tetons3.jpg": {
+	"/!backup 2018.04.27/images/places-2013tetons3.jpg": {
 		"ft": 16384,
 		"iS": 230523,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons3.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-2013tetons3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-2013tetons4.jpg": {
+	"/!backup 2018.04.27/images/places-2013tetons4.jpg": {
 		"ft": 16384,
 		"iS": 250958,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons4.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-2013tetons4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-2013tetons5.jpg": {
+	"/!backup 2018.04.27/images/places-2013tetons5.jpg": {
 		"ft": 16384,
 		"iS": 238312,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons5.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-2013tetons5.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-2013tetons6.jpg": {
+	"/!backup 2018.04.27/images/places-2013tetons6.jpg": {
 		"ft": 16384,
 		"iS": 281726,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons6.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-2013tetons6.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-2013tetons7.jpg": {
+	"/!backup 2018.04.27/images/places-2013tetons7.jpg": {
 		"ft": 16384,
 		"iS": 278541,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons7.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-2013tetons7.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-2013tetons8.jpg": {
+	"/!backup 2018.04.27/images/places-2013tetons8.jpg": {
 		"ft": 16384,
 		"iS": 274449,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-2013tetons8.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-2013tetons8.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-corktown.jpg": {
+	"/!backup 2018.04.27/images/places-corktown.jpg": {
 		"ft": 16384,
 		"iS": 222572,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-corktown.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-corktown.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-fallinindiana.jpg": {
+	"/!backup 2018.04.27/images/places-fallinindiana.jpg": {
 		"ft": 16384,
 		"iS": 234025,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-fallinindiana.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-fallinindiana.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-GLine.jpg": {
+	"/!backup 2018.04.27/images/places-GLine.jpg": {
 		"ft": 16384,
 		"iS": 256427,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-GLine.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-GLine.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-gooderhambuilding.jpg": {
+	"/!backup 2018.04.27/images/places-gooderhambuilding.jpg": {
 		"ft": 16384,
 		"iS": 329672,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-gooderhambuilding.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-gooderhambuilding.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-grandtetonmountains.jpg": {
+	"/!backup 2018.04.27/images/places-grandtetonmountains.jpg": {
 		"ft": 16384,
 		"iS": 183698,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-grandtetonmountains.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-grandtetonmountains.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-grandtetonsmoose.jpg": {
+	"/!backup 2018.04.27/images/places-grandtetonsmoose.jpg": {
 		"ft": 16384,
 		"iS": 370350,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-grandtetonsmoose.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-grandtetonsmoose.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-lakemichigandriftwood.jpg": {
+	"/!backup 2018.04.27/images/places-lakemichigandriftwood.jpg": {
 		"ft": 16384,
 		"iS": 180580,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-lakemichigandriftwood.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-lakemichigandriftwood.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-logansquaredestinyschild.jpg": {
+	"/!backup 2018.04.27/images/places-logansquaredestinyschild.jpg": {
 		"ft": 16384,
 		"iS": 297696,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-logansquaredestinyschild.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-logansquaredestinyschild.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-logantheatre.jpg": {
+	"/!backup 2018.04.27/images/places-logantheatre.jpg": {
 		"ft": 16384,
 		"iS": 154992,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-logantheatre.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-logantheatre.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-milwaukeeinwinter1.jpg": {
+	"/!backup 2018.04.27/images/places-milwaukeeinwinter1.jpg": {
 		"ft": 16384,
 		"iS": 167067,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-milwaukeeinwinter1.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-milwaukeeinwinter1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-milwaukeeinwinter2.jpg": {
+	"/!backup 2018.04.27/images/places-milwaukeeinwinter2.jpg": {
 		"ft": 16384,
 		"iS": 127503,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-milwaukeeinwinter2.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-milwaukeeinwinter2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-montrealjunk.jpg": {
+	"/!backup 2018.04.27/images/places-montrealjunk.jpg": {
 		"ft": 16384,
 		"iS": 222865,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-montrealjunk.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-montrealjunk.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-navypier.jpg": {
+	"/!backup 2018.04.27/images/places-navypier.jpg": {
 		"ft": 16384,
 		"iS": 241027,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-navypier.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-navypier.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-peaceonearth.jpg": {
+	"/!backup 2018.04.27/images/places-peaceonearth.jpg": {
 		"ft": 16384,
 		"iS": 281167,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-peaceonearth.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-peaceonearth.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-QuincyDredgeNumberTwo.jpg": {
+	"/!backup 2018.04.27/images/places-QuincyDredgeNumberTwo.jpg": {
 		"ft": 16384,
 		"iS": 208299,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-QuincyDredgeNumberTwo.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-QuincyDredgeNumberTwo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-rabbitisland1.jpg": {
+	"/!backup 2018.04.27/images/places-rabbitisland1.jpg": {
 		"ft": 16384,
 		"iS": 122679,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-rabbitisland1.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-rabbitisland1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-rabbitisland2.jpg": {
+	"/!backup 2018.04.27/images/places-rabbitisland2.jpg": {
 		"ft": 16384,
 		"iS": 510896,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-rabbitisland2.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-rabbitisland2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-rabbitisland3.jpg": {
+	"/!backup 2018.04.27/images/places-rabbitisland3.jpg": {
 		"ft": 16384,
 		"iS": 232545,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-rabbitisland3.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-rabbitisland3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-rabbitisland4.jpg": {
+	"/!backup 2018.04.27/images/places-rabbitisland4.jpg": {
 		"ft": 16384,
 		"iS": 303713,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-rabbitisland4.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-rabbitisland4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-racismincentralil1.jpg": {
+	"/!backup 2018.04.27/images/places-racismincentralil1.jpg": {
 		"ft": 16384,
 		"iS": 206269,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-racismincentralil1.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-racismincentralil1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-saintjohnevangelicallutheranchurch.jpg": {
+	"/!backup 2018.04.27/images/places-saintjohnevangelicallutheranchurch.jpg": {
 		"ft": 16384,
 		"iS": 183097,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-saintjohnevangelicallutheranchurch.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-saintjohnevangelicallutheranchurch.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/places-voyeursilhouette.jpg": {
+	"/!backup 2018.04.27/images/places-voyeursilhouette.jpg": {
 		"ft": 16384,
 		"iS": 343838,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/places-voyeursilhouette.jpg",
+		"oAP": "/!backup 2018.04.27/images/places-voyeursilhouette.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/images\/sharing-tile.jpg": {
+	"/!backup 2018.04.27/images/sharing-tile.jpg": {
 		"ft": 16384,
 		"iS": 165805,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/images\/sharing-tile.jpg",
+		"oAP": "/!backup 2018.04.27/images/sharing-tile.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/!backup 2018.04.27\/robots.txt": {
+	"/!backup 2018.04.27/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/!backup 2018.04.27\/robots.txt",
+		"oAP": "/!backup 2018.04.27/robots.txt",
 		"oF": 0
 		},
-	"\/.htaccess": {
+	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/.htaccess",
+		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"\/about\/index.html": {
+	"/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/about\/index.html",
+		"oAP": "/.htaccess",
 		"oF": 0
 		},
-	"\/blog.html": {
+	"/about/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/blog.html",
+		"oAP": "/about/index.html",
 		"oF": 0
 		},
-	"\/css\/bootstrap-min.css": {
+	"/blog.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/blog.html",
+		"oF": 0
+		},
+	"/css/bootstrap-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap-min-min.css",
+		"oAP": "/css/bootstrap-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/bootstrap-min.css.map": {
+	"/css/bootstrap-min.css.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap-min.css.map",
+		"oAP": "/css/bootstrap-min.css.map",
 		"oF": 0
 		},
-	"\/css\/bootstrap.css": {
+	"/css/bootstrap.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap-min.css",
+		"oAP": "/css/bootstrap-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/customize-min.css": {
+	"/css/customize-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/customize-min-min.css",
+		"oAP": "/css/customize-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/customize-min.css.map": {
+	"/css/customize-min.css.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/css\/customize-min.css.map",
+		"oAP": "/css/customize-min.css.map",
 		"oF": 0
 		},
-	"\/css\/customize.css": {
+	"/css/customize.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/css\/customize-min.css",
+		"oAP": "/css/customize-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/flexslider-min.css": {
+	"/css/flexslider-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/flexslider-min-min.css",
+		"oAP": "/css/flexslider-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/flexslider-min.css.map": {
+	"/css/flexslider-min.css.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/css\/flexslider-min.css.map",
+		"oAP": "/css/flexslider-min.css.map",
 		"oF": 0
 		},
-	"\/css\/flexslider.css": {
+	"/css/flexslider.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/css\/flexslider-min.css",
+		"oAP": "/css/flexslider-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/fontfaces-min.css": {
+	"/css/fontfaces-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/fontfaces-min-min.css",
+		"oAP": "/css/fontfaces-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/fontfaces-min.css.map": {
+	"/css/fontfaces-min.css.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/css\/fontfaces-min.css.map",
+		"oAP": "/css/fontfaces-min.css.map",
 		"oF": 0
 		},
-	"\/css\/fontfaces.css": {
+	"/css/fontfaces.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/css\/fontfaces-min.css",
+		"oAP": "/css/fontfaces-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/film\/index.html": {
+	"/film/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/film\/index.html",
+		"oAP": "/film/index.html",
 		"oF": 0
 		},
-	"\/fonts\/glyphicons-halflings-regular.eot": {
+	"/fonts/glyphicons-halflings-regular.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/glyphicons-halflings-regular.eot",
+		"oAP": "/fonts/glyphicons-halflings-regular.eot",
 		"oF": 0
 		},
-	"\/fonts\/glyphicons-halflings-regular.svg": {
+	"/fonts/glyphicons-halflings-regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/fonts\/glyphicons-halflings-regular.svg",
+		"oAP": "/fonts/glyphicons-halflings-regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/fonts\/glyphicons-halflings-regular.ttf": {
+	"/fonts/glyphicons-halflings-regular.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/glyphicons-halflings-regular.ttf",
+		"oAP": "/fonts/glyphicons-halflings-regular.ttf",
 		"oF": 0
 		},
-	"\/fonts\/glyphicons-halflings-regular.woff": {
+	"/fonts/glyphicons-halflings-regular.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/glyphicons-halflings-regular.woff",
+		"oAP": "/fonts/glyphicons-halflings-regular.woff",
 		"oF": 0
 		},
-	"\/fonts\/glyphicons-halflings-regular.woff2": {
+	"/fonts/glyphicons-halflings-regular.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/glyphicons-halflings-regular.woff2",
+		"oAP": "/fonts/glyphicons-halflings-regular.woff2",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Black.eot": {
+	"/fonts/Texta-Black.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Black.eot",
+		"oAP": "/fonts/Texta-Black.eot",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Black.otf": {
+	"/fonts/Texta-Black.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Black.otf",
+		"oAP": "/fonts/Texta-Black.otf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Black.svg": {
+	"/fonts/Texta-Black.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/fonts\/Texta-Black.svg",
+		"oAP": "/fonts/Texta-Black.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/fonts\/Texta-Black.ttf": {
+	"/fonts/Texta-Black.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Black.ttf",
+		"oAP": "/fonts/Texta-Black.ttf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Black.woff": {
+	"/fonts/Texta-Black.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Black.woff",
+		"oAP": "/fonts/Texta-Black.woff",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Black.woff2": {
+	"/fonts/Texta-Black.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Black.woff2",
+		"oAP": "/fonts/Texta-Black.woff2",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Bold.eot": {
+	"/fonts/Texta-Bold.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Bold.eot",
+		"oAP": "/fonts/Texta-Bold.eot",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Bold.otf": {
+	"/fonts/Texta-Bold.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Bold.otf",
+		"oAP": "/fonts/Texta-Bold.otf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Bold.svg": {
+	"/fonts/Texta-Bold.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/fonts\/Texta-Bold.svg",
+		"oAP": "/fonts/Texta-Bold.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/fonts\/Texta-Bold.ttf": {
+	"/fonts/Texta-Bold.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Bold.ttf",
+		"oAP": "/fonts/Texta-Bold.ttf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Bold.woff": {
+	"/fonts/Texta-Bold.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Bold.woff",
+		"oAP": "/fonts/Texta-Bold.woff",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Bold.woff2": {
+	"/fonts/Texta-Bold.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Bold.woff2",
+		"oAP": "/fonts/Texta-Bold.woff2",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Book.eot": {
+	"/fonts/Texta-Book.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Book.eot",
+		"oAP": "/fonts/Texta-Book.eot",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Book.otf": {
+	"/fonts/Texta-Book.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Book.otf",
+		"oAP": "/fonts/Texta-Book.otf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Book.svg": {
+	"/fonts/Texta-Book.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/fonts\/Texta-Book.svg",
+		"oAP": "/fonts/Texta-Book.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/fonts\/Texta-Book.ttf": {
+	"/fonts/Texta-Book.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Book.ttf",
+		"oAP": "/fonts/Texta-Book.ttf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Book.woff": {
+	"/fonts/Texta-Book.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Book.woff",
+		"oAP": "/fonts/Texta-Book.woff",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Book.woff2": {
+	"/fonts/Texta-Book.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Book.woff2",
+		"oAP": "/fonts/Texta-Book.woff2",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Heavy.eot": {
+	"/fonts/Texta-Heavy.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Heavy.eot",
+		"oAP": "/fonts/Texta-Heavy.eot",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Heavy.otf": {
+	"/fonts/Texta-Heavy.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Heavy.otf",
+		"oAP": "/fonts/Texta-Heavy.otf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Heavy.svg": {
+	"/fonts/Texta-Heavy.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/fonts\/Texta-Heavy.svg",
+		"oAP": "/fonts/Texta-Heavy.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/fonts\/Texta-Heavy.ttf": {
+	"/fonts/Texta-Heavy.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Heavy.ttf",
+		"oAP": "/fonts/Texta-Heavy.ttf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Heavy.woff": {
+	"/fonts/Texta-Heavy.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Heavy.woff",
+		"oAP": "/fonts/Texta-Heavy.woff",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Heavy.woff2": {
+	"/fonts/Texta-Heavy.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Heavy.woff2",
+		"oAP": "/fonts/Texta-Heavy.woff2",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Light.eot": {
+	"/fonts/Texta-Light.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Light.eot",
+		"oAP": "/fonts/Texta-Light.eot",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Light.otf": {
+	"/fonts/Texta-Light.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Light.otf",
+		"oAP": "/fonts/Texta-Light.otf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Light.svg": {
+	"/fonts/Texta-Light.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/fonts\/Texta-Light.svg",
+		"oAP": "/fonts/Texta-Light.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/fonts\/Texta-Light.ttf": {
+	"/fonts/Texta-Light.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Light.ttf",
+		"oAP": "/fonts/Texta-Light.ttf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Light.woff": {
+	"/fonts/Texta-Light.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Light.woff",
+		"oAP": "/fonts/Texta-Light.woff",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Light.woff2": {
+	"/fonts/Texta-Light.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Light.woff2",
+		"oAP": "/fonts/Texta-Light.woff2",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Medium.eot": {
+	"/fonts/Texta-Medium.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Medium.eot",
+		"oAP": "/fonts/Texta-Medium.eot",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Medium.otf": {
+	"/fonts/Texta-Medium.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Medium.otf",
+		"oAP": "/fonts/Texta-Medium.otf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Medium.svg": {
+	"/fonts/Texta-Medium.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/fonts\/Texta-Medium.svg",
+		"oAP": "/fonts/Texta-Medium.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/fonts\/Texta-Medium.ttf": {
+	"/fonts/Texta-Medium.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Medium.ttf",
+		"oAP": "/fonts/Texta-Medium.ttf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Medium.woff": {
+	"/fonts/Texta-Medium.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Medium.woff",
+		"oAP": "/fonts/Texta-Medium.woff",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Medium.woff2": {
+	"/fonts/Texta-Medium.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Medium.woff2",
+		"oAP": "/fonts/Texta-Medium.woff2",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Regular.eot": {
+	"/fonts/Texta-Regular.eot": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Regular.eot",
+		"oAP": "/fonts/Texta-Regular.eot",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Regular.otf": {
+	"/fonts/Texta-Regular.otf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Regular.otf",
+		"oAP": "/fonts/Texta-Regular.otf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Regular.svg": {
+	"/fonts/Texta-Regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/fonts\/Texta-Regular.svg",
+		"oAP": "/fonts/Texta-Regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/fonts\/Texta-Regular.ttf": {
+	"/fonts/Texta-Regular.ttf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Regular.ttf",
+		"oAP": "/fonts/Texta-Regular.ttf",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Regular.woff": {
+	"/fonts/Texta-Regular.woff": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Regular.woff",
+		"oAP": "/fonts/Texta-Regular.woff",
 		"oF": 0
 		},
-	"\/fonts\/Texta-Regular.woff2": {
+	"/fonts/Texta-Regular.woff2": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/fonts\/Texta-Regular.woff2",
+		"oAP": "/fonts/Texta-Regular.woff2",
 		"oF": 0
 		},
-	"\/images\/android-chrome-192x192.png": {
+	"/images/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 8529,
 		"oA": 0,
-		"oAP": "\/images\/android-chrome-192x192.png",
+		"oAP": "/images/android-chrome-192x192.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/android-chrome-256x256.png": {
+	"/images/android-chrome-256x256.png": {
 		"ft": 32768,
 		"iS": 13881,
 		"oA": 0,
-		"oAP": "\/images\/android-chrome-256x256.png",
+		"oAP": "/images/android-chrome-256x256.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/apple-touch-icon.png": {
+	"/images/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 5534,
 		"oA": 0,
-		"oAP": "\/images\/apple-touch-icon.png",
+		"oAP": "/images/apple-touch-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/browserconfig.xml": {
+	"/images/browserconfig.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/images\/browserconfig.xml",
+		"oAP": "/images/browserconfig.xml",
 		"oF": 0
 		},
-	"\/images\/favicon-16x16.png": {
+	"/images/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 601,
 		"oA": 0,
-		"oAP": "\/images\/favicon-16x16.png",
+		"oAP": "/images/favicon-16x16.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/favicon-32x32.png": {
+	"/images/favicon-32x32.png": {
 		"ft": 32768,
 		"iS": 943,
 		"oA": 0,
-		"oAP": "\/images\/favicon-32x32.png",
+		"oAP": "/images/favicon-32x32.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/favicon.ico": {
+	"/images/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/images\/favicon.ico",
+		"oAP": "/images/favicon.ico",
 		"oF": 0
 		},
-	"\/images\/headshot.jpg": {
+	"/images/headshot-old.jpg": {
 		"ft": 16384,
 		"iS": 64047,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/headshot.jpg",
+		"oAP": "/images/headshot-old.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/icon-arrow-next-dark.svg": {
+	"/images/headshot.jpg": {
+		"ft": 16384,
+		"iS": 130447,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/headshot.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/icon-arrow-next-dark.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/images\/icon-arrow-next-dark.svg",
+		"oAP": "/images/icon-arrow-next-dark.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/icon-arrow-next.svg": {
+	"/images/icon-arrow-next.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/images\/icon-arrow-next.svg",
+		"oAP": "/images/icon-arrow-next.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/icon-arrow-prev-dark.svg": {
+	"/images/icon-arrow-prev-dark.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/images\/icon-arrow-prev-dark.svg",
+		"oAP": "/images/icon-arrow-prev-dark.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/icon-arrow-prev.svg": {
+	"/images/icon-arrow-prev.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/images\/icon-arrow-prev.svg",
+		"oAP": "/images/icon-arrow-prev.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/logo-icon.svg": {
+	"/images/logo-icon.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/images\/logo-icon.svg",
+		"oAP": "/images/logo-icon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/mstile-150x150.png": {
+	"/images/mstile-150x150.png": {
 		"ft": 32768,
 		"iS": 4864,
 		"oA": 0,
-		"oAP": "\/images\/mstile-150x150.png",
+		"oAP": "/images/mstile-150x150.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/safari-pinned-tab.svg": {
+	"/images/safari-pinned-tab.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/images\/safari-pinned-tab.svg",
+		"oAP": "/images/safari-pinned-tab.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/sharing-tile.jpg": {
+	"/images/sharing-tile.jpg": {
 		"ft": 16384,
 		"iS": 35307,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/sharing-tile.jpg",
+		"oAP": "/images/sharing-tile.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/site.webmanifest": {
+	"/images/site.webmanifest": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/images\/site.webmanifest",
+		"oAP": "/images/site.webmanifest",
 		"oF": 0
 		},
-	"\/index.html": {
+	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/index.html",
+		"oAP": "/index.html",
 		"oF": 0
 		},
-	"\/js\/bootstrap.js": {
+	"/js/bootstrap.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/bootstrap-min.js",
+		"oAP": "/js/bootstrap-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/bootstrap.min.js": {
+	"/js/bootstrap.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/bootstrap.min-min.js",
+		"oAP": "/js/bootstrap.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/jquery.easing.js": {
+	"/js/jquery.easing.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/jquery.easing-min.js",
+		"oAP": "/js/jquery.easing-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/jquery.flexslider.js": {
+	"/js/jquery.flexslider.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/jquery.flexslider-min.js",
+		"oAP": "/js/jquery.flexslider-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/jquery.mousewheel.js": {
+	"/js/jquery.mousewheel.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/jquery.mousewheel-min.js",
+		"oAP": "/js/jquery.mousewheel-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/places\/index.html": {
+	"/places/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/places\/index.html",
+		"oAP": "/places/index.html",
 		"oF": 0
 		},
-	"\/portfolio\/film-arieloninstitute.jpg": {
+	"/portfolio/film-arieloninstitute.jpg": {
 		"ft": 16384,
 		"iS": 214831,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-arieloninstitute.jpg",
+		"oAP": "/portfolio/film-arieloninstitute.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/film-arieloninstitute2.jpg": {
+	"/portfolio/film-arieloninstitute2.jpg": {
 		"ft": 16384,
 		"iS": 129236,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-arieloninstitute2.jpg",
+		"oAP": "/portfolio/film-arieloninstitute2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/film-bjchicagoave.jpg": {
+	"/portfolio/film-bjchicagoave.jpg": {
 		"ft": 16384,
 		"iS": 175187,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-bjchicagoave.jpg",
+		"oAP": "/portfolio/film-bjchicagoave.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/film-doubleexposurejason.jpg": {
+	"/portfolio/film-doubleexposurejason.jpg": {
 		"ft": 16384,
 		"iS": 193116,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-doubleexposurejason.jpg",
+		"oAP": "/portfolio/film-doubleexposurejason.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/film-doubleexposurejason2.jpg": {
+	"/portfolio/film-doubleexposurejason2.jpg": {
 		"ft": 16384,
 		"iS": 279789,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-doubleexposurejason2.jpg",
+		"oAP": "/portfolio/film-doubleexposurejason2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/film-doubleexposurejosh.jpg": {
+	"/portfolio/film-doubleexposurejosh.jpg": {
 		"ft": 16384,
 		"iS": 194937,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-doubleexposurejosh.jpg",
+		"oAP": "/portfolio/film-doubleexposurejosh.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/film-fnanonmagmile.jpg": {
+	"/portfolio/film-fnanonmagmile.jpg": {
 		"ft": 16384,
 		"iS": 109620,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-fnanonmagmile.jpg",
+		"oAP": "/portfolio/film-fnanonmagmile.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/film-goyita.jpg": {
+	"/portfolio/film-goyita.jpg": {
 		"ft": 16384,
 		"iS": 144833,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-goyita.jpg",
+		"oAP": "/portfolio/film-goyita.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/film-lawerence.jpg": {
+	"/portfolio/film-lawerence.jpg": {
 		"ft": 16384,
 		"iS": 156008,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-lawerence.jpg",
+		"oAP": "/portfolio/film-lawerence.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/film-nathanaeldunes.jpg": {
+	"/portfolio/film-nathanaeldunes.jpg": {
 		"ft": 16384,
 		"iS": 148484,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-nathanaeldunes.jpg",
+		"oAP": "/portfolio/film-nathanaeldunes.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/film-saintjohnlutheranchurch.jpg": {
+	"/portfolio/film-saintjohnlutheranchurch.jpg": {
 		"ft": 16384,
 		"iS": 149051,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-saintjohnlutheranchurch.jpg",
+		"oAP": "/portfolio/film-saintjohnlutheranchurch.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/film-shirad.jpg": {
+	"/portfolio/film-shirad.jpg": {
 		"ft": 16384,
 		"iS": 199913,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-shirad.jpg",
+		"oAP": "/portfolio/film-shirad.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/film-the83rdinChicago.jpg": {
+	"/portfolio/film-the83rdinChicago.jpg": {
 		"ft": 16384,
 		"iS": 171589,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-the83rdinChicago.jpg",
+		"oAP": "/portfolio/film-the83rdinChicago.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/film-tonyandjimmy.jpg": {
+	"/portfolio/film-tonyandjimmy.jpg": {
 		"ft": 16384,
 		"iS": 110731,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/film-tonyandjimmy.jpg",
+		"oAP": "/portfolio/film-tonyandjimmy.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-abby.jpg": {
+	"/portfolio/people-abby.jpg": {
 		"ft": 16384,
 		"iS": 298539,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-abby.jpg",
+		"oAP": "/portfolio/people-abby.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-bigboi.jpg": {
+	"/portfolio/people-bigboi.jpg": {
 		"ft": 16384,
 		"iS": 247413,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-bigboi.jpg",
+		"oAP": "/portfolio/people-bigboi.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-colorjar.jpg": {
+	"/portfolio/people-colorjar.jpg": {
 		"ft": 16384,
 		"iS": 176776,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-colorjar.jpg",
+		"oAP": "/portfolio/people-colorjar.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-doublejon.jpg": {
+	"/portfolio/people-doublejon.jpg": {
 		"ft": 16384,
 		"iS": 322362,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-doublejon.jpg",
+		"oAP": "/portfolio/people-doublejon.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-dozens.jpg": {
+	"/portfolio/people-dozens.jpg": {
 		"ft": 16384,
 		"iS": 147569,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-dozens.jpg",
+		"oAP": "/portfolio/people-dozens.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-estherdoo.jpg": {
+	"/portfolio/people-estherdoo.jpg": {
 		"ft": 16384,
 		"iS": 213925,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-estherdoo.jpg",
+		"oAP": "/portfolio/people-estherdoo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-graceandcassie.jpg": {
+	"/portfolio/people-graceandcassie.jpg": {
 		"ft": 16384,
 		"iS": 199090,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-graceandcassie.jpg",
+		"oAP": "/portfolio/people-graceandcassie.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-hilaryrushford.jpg": {
+	"/portfolio/people-hilaryrushford.jpg": {
 		"ft": 16384,
 		"iS": 224913,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-hilaryrushford.jpg",
+		"oAP": "/portfolio/people-hilaryrushford.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-jared.jpg": {
+	"/portfolio/people-jared.jpg": {
 		"ft": 16384,
 		"iS": 193806,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-jared.jpg",
+		"oAP": "/portfolio/people-jared.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-jeffmidweststyle1.jpg": {
+	"/portfolio/people-jeffmidweststyle1.jpg": {
 		"ft": 16384,
 		"iS": 215237,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-jeffmidweststyle1.jpg",
+		"oAP": "/portfolio/people-jeffmidweststyle1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-johnstoffer1.jpg": {
+	"/portfolio/people-johnstoffer1.jpg": {
 		"ft": 16384,
 		"iS": 181922,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-johnstoffer1.jpg",
+		"oAP": "/portfolio/people-johnstoffer1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-johnstoffer2.jpg": {
+	"/portfolio/people-johnstoffer2.jpg": {
 		"ft": 16384,
 		"iS": 246205,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-johnstoffer2.jpg",
+		"oAP": "/portfolio/people-johnstoffer2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-joshkettlemoranforest.jpg": {
+	"/portfolio/people-joshkettlemoranforest.jpg": {
 		"ft": 16384,
 		"iS": 289506,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-joshkettlemoranforest.jpg",
+		"oAP": "/portfolio/people-joshkettlemoranforest.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-Levi.jpg": {
+	"/portfolio/people-Levi.jpg": {
 		"ft": 16384,
 		"iS": 199026,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-Levi.jpg",
+		"oAP": "/portfolio/people-Levi.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-lydia.jpg": {
+	"/portfolio/people-lydia.jpg": {
 		"ft": 16384,
 		"iS": 148090,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-lydia.jpg",
+		"oAP": "/portfolio/people-lydia.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-miguel.jpg": {
+	"/portfolio/people-miguel.jpg": {
 		"ft": 16384,
 		"iS": 181392,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-miguel.jpg",
+		"oAP": "/portfolio/people-miguel.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-nicoledunes.jpg": {
+	"/portfolio/people-nicoledunes.jpg": {
 		"ft": 16384,
 		"iS": 143119,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-nicoledunes.jpg",
+		"oAP": "/portfolio/people-nicoledunes.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-rkelly.jpg": {
+	"/portfolio/people-rkelly.jpg": {
 		"ft": 16384,
 		"iS": 177826,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-rkelly.jpg",
+		"oAP": "/portfolio/people-rkelly.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-sharonirving.jpg": {
+	"/portfolio/people-sharonirving.jpg": {
 		"ft": 16384,
 		"iS": 233602,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-sharonirving.jpg",
+		"oAP": "/portfolio/people-sharonirving.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-shiraz1.jpg": {
+	"/portfolio/people-shiraz1.jpg": {
 		"ft": 16384,
 		"iS": 206858,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-shiraz1.jpg",
+		"oAP": "/portfolio/people-shiraz1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-temi.jpg": {
+	"/portfolio/people-temi.jpg": {
 		"ft": 16384,
 		"iS": 155906,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-temi.jpg",
+		"oAP": "/portfolio/people-temi.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-the83rd.jpg": {
+	"/portfolio/people-the83rd.jpg": {
 		"ft": 16384,
 		"iS": 241488,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-the83rd.jpg",
+		"oAP": "/portfolio/people-the83rd.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-The83rdinChicago1.jpg": {
+	"/portfolio/people-The83rdinChicago1.jpg": {
 		"ft": 16384,
 		"iS": 251007,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-The83rdinChicago1.jpg",
+		"oAP": "/portfolio/people-The83rdinChicago1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-The83rdinChicago2.jpg": {
+	"/portfolio/people-The83rdinChicago2.jpg": {
 		"ft": 16384,
 		"iS": 260027,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-The83rdinChicago2.jpg",
+		"oAP": "/portfolio/people-The83rdinChicago2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-thelonebellow.jpg": {
+	"/portfolio/people-thelonebellow.jpg": {
 		"ft": 16384,
 		"iS": 206565,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-thelonebellow.jpg",
+		"oAP": "/portfolio/people-thelonebellow.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-tonycampolo.jpg": {
+	"/portfolio/people-tonycampolo.jpg": {
 		"ft": 16384,
 		"iS": 228895,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-tonycampolo.jpg",
+		"oAP": "/portfolio/people-tonycampolo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/people-traviemccoy.jpg": {
+	"/portfolio/people-traviemccoy.jpg": {
 		"ft": 16384,
 		"iS": 282317,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/people-traviemccoy.jpg",
+		"oAP": "/portfolio/people-traviemccoy.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-2013tetons1.jpg": {
+	"/portfolio/places-2013tetons1.jpg": {
 		"ft": 16384,
 		"iS": 290392,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-2013tetons1.jpg",
+		"oAP": "/portfolio/places-2013tetons1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-2013tetons2.jpg": {
+	"/portfolio/places-2013tetons2.jpg": {
 		"ft": 16384,
 		"iS": 287252,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-2013tetons2.jpg",
+		"oAP": "/portfolio/places-2013tetons2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-2013tetons3.jpg": {
+	"/portfolio/places-2013tetons3.jpg": {
 		"ft": 16384,
 		"iS": 230523,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-2013tetons3.jpg",
+		"oAP": "/portfolio/places-2013tetons3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-2013tetons4.jpg": {
+	"/portfolio/places-2013tetons4.jpg": {
 		"ft": 16384,
 		"iS": 250958,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-2013tetons4.jpg",
+		"oAP": "/portfolio/places-2013tetons4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-2013tetons5.jpg": {
+	"/portfolio/places-2013tetons5.jpg": {
 		"ft": 16384,
 		"iS": 238312,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-2013tetons5.jpg",
+		"oAP": "/portfolio/places-2013tetons5.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-2013tetons6.jpg": {
+	"/portfolio/places-2013tetons6.jpg": {
 		"ft": 16384,
 		"iS": 281726,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-2013tetons6.jpg",
+		"oAP": "/portfolio/places-2013tetons6.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-2013tetons7.jpg": {
+	"/portfolio/places-2013tetons7.jpg": {
 		"ft": 16384,
 		"iS": 278541,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-2013tetons7.jpg",
+		"oAP": "/portfolio/places-2013tetons7.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-2013tetons8.jpg": {
+	"/portfolio/places-2013tetons8.jpg": {
 		"ft": 16384,
 		"iS": 274449,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-2013tetons8.jpg",
+		"oAP": "/portfolio/places-2013tetons8.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-corktown.jpg": {
+	"/portfolio/places-corktown.jpg": {
 		"ft": 16384,
 		"iS": 222572,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-corktown.jpg",
+		"oAP": "/portfolio/places-corktown.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-fallinindiana.jpg": {
+	"/portfolio/places-fallinindiana.jpg": {
 		"ft": 16384,
 		"iS": 234025,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-fallinindiana.jpg",
+		"oAP": "/portfolio/places-fallinindiana.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-GLine.jpg": {
+	"/portfolio/places-GLine.jpg": {
 		"ft": 16384,
 		"iS": 181898,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-GLine.jpg",
+		"oAP": "/portfolio/places-GLine.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-gooderhambuilding.jpg": {
+	"/portfolio/places-gooderhambuilding.jpg": {
 		"ft": 16384,
 		"iS": 329672,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-gooderhambuilding.jpg",
+		"oAP": "/portfolio/places-gooderhambuilding.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-grandtetonmountains.jpg": {
+	"/portfolio/places-grandtetonmountains.jpg": {
 		"ft": 16384,
 		"iS": 183698,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-grandtetonmountains.jpg",
+		"oAP": "/portfolio/places-grandtetonmountains.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-grandtetonsmoose.jpg": {
+	"/portfolio/places-grandtetonsmoose.jpg": {
 		"ft": 16384,
 		"iS": 370350,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-grandtetonsmoose.jpg",
+		"oAP": "/portfolio/places-grandtetonsmoose.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-lakemichigandriftwood.jpg": {
+	"/portfolio/places-lakemichigandriftwood.jpg": {
 		"ft": 16384,
 		"iS": 180580,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-lakemichigandriftwood.jpg",
+		"oAP": "/portfolio/places-lakemichigandriftwood.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-logansquaredestinyschild.jpg": {
+	"/portfolio/places-logansquaredestinyschild.jpg": {
 		"ft": 16384,
 		"iS": 297696,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-logansquaredestinyschild.jpg",
+		"oAP": "/portfolio/places-logansquaredestinyschild.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-logantheatre.jpg": {
+	"/portfolio/places-logantheatre.jpg": {
 		"ft": 16384,
 		"iS": 154992,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-logantheatre.jpg",
+		"oAP": "/portfolio/places-logantheatre.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-milwaukeeinwinter1.jpg": {
+	"/portfolio/places-milwaukeeinwinter1.jpg": {
 		"ft": 16384,
 		"iS": 167067,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-milwaukeeinwinter1.jpg",
+		"oAP": "/portfolio/places-milwaukeeinwinter1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-milwaukeeinwinter2.jpg": {
+	"/portfolio/places-milwaukeeinwinter2.jpg": {
 		"ft": 16384,
 		"iS": 127503,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-milwaukeeinwinter2.jpg",
+		"oAP": "/portfolio/places-milwaukeeinwinter2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-montrealjunk.jpg": {
+	"/portfolio/places-montrealjunk.jpg": {
 		"ft": 16384,
 		"iS": 222865,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-montrealjunk.jpg",
+		"oAP": "/portfolio/places-montrealjunk.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-navypier.jpg": {
+	"/portfolio/places-navypier.jpg": {
 		"ft": 16384,
 		"iS": 241027,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-navypier.jpg",
+		"oAP": "/portfolio/places-navypier.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-peaceonearth.jpg": {
+	"/portfolio/places-peaceonearth.jpg": {
 		"ft": 16384,
 		"iS": 153727,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-peaceonearth.jpg",
+		"oAP": "/portfolio/places-peaceonearth.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-QuincyDredgeNumberTwo.jpg": {
+	"/portfolio/places-QuincyDredgeNumberTwo.jpg": {
 		"ft": 16384,
 		"iS": 208299,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-QuincyDredgeNumberTwo.jpg",
+		"oAP": "/portfolio/places-QuincyDredgeNumberTwo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-rabbitisland1.jpg": {
+	"/portfolio/places-rabbitisland1.jpg": {
 		"ft": 16384,
 		"iS": 122679,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-rabbitisland1.jpg",
+		"oAP": "/portfolio/places-rabbitisland1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-rabbitisland2.jpg": {
+	"/portfolio/places-rabbitisland2.jpg": {
 		"ft": 16384,
 		"iS": 301756,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-rabbitisland2.jpg",
+		"oAP": "/portfolio/places-rabbitisland2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-rabbitisland3.jpg": {
+	"/portfolio/places-rabbitisland3.jpg": {
 		"ft": 16384,
 		"iS": 232545,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-rabbitisland3.jpg",
+		"oAP": "/portfolio/places-rabbitisland3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-rabbitisland4.jpg": {
+	"/portfolio/places-rabbitisland4.jpg": {
 		"ft": 16384,
 		"iS": 201592,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-rabbitisland4.jpg",
+		"oAP": "/portfolio/places-rabbitisland4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-racismincentralil1.jpg": {
+	"/portfolio/places-racismincentralil1.jpg": {
 		"ft": 16384,
 		"iS": 206269,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-racismincentralil1.jpg",
+		"oAP": "/portfolio/places-racismincentralil1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-saintjohnevangelicallutheranchurch.jpg": {
+	"/portfolio/places-saintjohnevangelicallutheranchurch.jpg": {
 		"ft": 16384,
 		"iS": 183097,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-saintjohnevangelicallutheranchurch.jpg",
+		"oAP": "/portfolio/places-saintjohnevangelicallutheranchurch.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/portfolio\/places-voyeursilhouette.jpg": {
+	"/portfolio/places-voyeursilhouette.jpg": {
 		"ft": 16384,
 		"iS": 343838,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/portfolio\/places-voyeursilhouette.jpg",
+		"oAP": "/portfolio/places-voyeursilhouette.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4856,7 +5028,7 @@
 	"creationDate": 546559949,
 	"displayValue": "bradleysiefert.com",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "\/!backup 2018.04.27\/2.1\/bradleysiefert\/assets\/images\/apple-touch-icon-120x120.png",
+	"iconImageName": "/!backup 2018.04.27/2.1/bradleysiefert/assets/images/apple-touch-icon-120x120.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -4864,141 +5036,100 @@
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoprefixerEnableIEGrid": 0,
+	"babel7PresetType": 1,
+	"babelAllowRCFiles": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
-	"babelConfigFileHandlingType": 0,
+	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"arrow-functions": {
+			"active": 0
+			},
 		"async-generator-functions": {
 			"active": 0
 			},
 		"async-to-generator": {
 			"active": 0
 			},
-		"async-to-module-method": {
+		"block-scoped-functions": {
+			"active": 0
+			},
+		"block-scoping": {
 			"active": 0
 			},
 		"class-properties": {
 			"active": 0
 			},
+		"classes": {
+			"active": 0
+			},
+		"computed-properties": {
+			"active": 0
+			},
 		"decorators": {
 			"active": 0
 			},
-		"decorators-legacy": {
+		"destructuring": {
 			"active": 0
 			},
 		"do-expressions": {
 			"active": 0
 			},
-		"es2015-arrow-functions": {
+		"dotall-regex": {
 			"active": 0
 			},
-		"es2015-block-scoped-functions": {
-			"active": 0
-			},
-		"es2015-block-scoping": {
-			"active": 0
-			},
-		"es2015-classes": {
-			"active": 0
-			},
-		"es2015-computed-properties": {
-			"active": 0
-			},
-		"es2015-constants": {
-			"active": 0
-			},
-		"es2015-destructuring": {
-			"active": 0
-			},
-		"es2015-duplicate-keys": {
-			"active": 0
-			},
-		"es2015-for-of": {
-			"active": 0
-			},
-		"es2015-function-name": {
-			"active": 0
-			},
-		"es2015-literals": {
-			"active": 0
-			},
-		"es2015-modules-amd": {
-			"active": 0
-			},
-		"es2015-modules-commonjs": {
-			"active": 0
-			},
-		"es2015-modules-systemjs": {
-			"active": 0
-			},
-		"es2015-modules-umd": {
-			"active": 0
-			},
-		"es2015-object-super": {
-			"active": 0
-			},
-		"es2015-parameters": {
-			"active": 0
-			},
-		"es2015-shorthand-properties": {
-			"active": 0
-			},
-		"es2015-spread": {
-			"active": 0
-			},
-		"es2015-sticky-regex": {
-			"active": 0
-			},
-		"es2015-template-literals": {
-			"active": 0
-			},
-		"es2015-typeof-symbol": {
-			"active": 0
-			},
-		"es2015-unicode-regex": {
-			"active": 0
-			},
-		"es3-member-expression-literals": {
-			"active": 0
-			},
-		"es3-property-literals": {
-			"active": 0
-			},
-		"es5-property-mutators": {
-			"active": 0
-			},
-		"eval": {
+		"duplicate-keys": {
 			"active": 0
 			},
 		"exponentiation-operator": {
 			"active": 0
 			},
-		"export-extensions": {
+		"export-default-from": {
+			"active": 0
+			},
+		"export-namespace-from": {
 			"active": 0
 			},
 		"external-helpers": {
 			"active": 0
 			},
-		"flow-comments": {
+		"flow-strip-types": {
 			"active": 0
 			},
-		"flow-strip-types": {
+		"for-of": {
 			"active": 0
 			},
 		"function-bind": {
 			"active": 0
 			},
+		"function-name": {
+			"active": 0
+			},
+		"function-sent": {
+			"active": 0
+			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
 		"inline-environment-variables": {
 			"active": 0
 			},
+		"instanceof": {
+			"active": 0
+			},
 		"jscript": {
+			"active": 0
+			},
+		"literals": {
+			"active": 0
+			},
+		"logical-assignment-operators": {
 			"active": 0
 			},
 		"member-expression-literals": {
@@ -5010,7 +5141,58 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
+			"active": 0
+			},
+		"modules-amd": {
+			"active": 0
+			},
+		"modules-commonjs": {
+			"active": 0
+			},
+		"modules-systemjs": {
+			"active": 0
+			},
+		"modules-umd": {
+			"active": 0
+			},
+		"new-target": {
+			"active": 0
+			},
 		"node-env-inline": {
+			"active": 0
+			},
+		"nullish-coalescing-operator": {
+			"active": 0
+			},
+		"numeric-separator": {
 			"active": 0
 			},
 		"object-assign": {
@@ -5022,7 +5204,28 @@
 		"object-set-prototype-of-to-assign": {
 			"active": 0
 			},
+		"object-super": {
+			"active": 0
+			},
+		"optional-catch-binding": {
+			"active": 0
+			},
+		"optional-chaining": {
+			"active": 0
+			},
+		"parameters": {
+			"active": 0
+			},
+		"pipeline-operator": {
+			"active": 0
+			},
+		"private-methods": {
+			"active": 0
+			},
 		"property-literals": {
+			"active": 0
+			},
+		"property-mutators": {
 			"active": 0
 			},
 		"proto-to-assign": {
@@ -5052,59 +5255,58 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
 			"active": 0
 			},
+		"remove-undefined": {
+			"active": 0
+			},
+		"reserved-words": {
+			"active": 0
+			},
 		"runtime": {
+			"active": 0
+			},
+		"shorthand-properties": {
 			"active": 0
 			},
 		"simplify-comparison-operators": {
 			"active": 0
 			},
+		"spread": {
+			"active": 0
+			},
+		"sticky-regex": {
+			"active": 0
+			},
 		"strict-mode": {
 			"active": 0
 			},
-		"syntax-async-generators": {
+		"template-literals": {
 			"active": 0
 			},
-		"syntax-class-properties": {
+		"throw-expressions": {
 			"active": 0
 			},
-		"syntax-decorators": {
-			"active": 0
-			},
-		"syntax-do-expressions": {
-			"active": 0
-			},
-		"syntax-export-extensions": {
-			"active": 0
-			},
-		"syntax-flow": {
-			"active": 0
-			},
-		"syntax-function-bind": {
-			"active": 0
-			},
-		"syntax-function-sent": {
-			"active": 0
-			},
-		"syntax-jsx": {
-			"active": 0
-			},
-		"syntax-object-rest-spread": {
-			"active": 0
-			},
-		"undeclared-variables-check": {
+		"typeof-symbol": {
 			"active": 0
 			},
 		"undefined-to-void": {
 			"active": 0
+			},
+		"unicode-property-regex": {
+			"active": 0
+			},
+		"unicode-regex": {
+			"active": 0
 			}
 		},
-	"babelPresetType": 193,
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
@@ -5113,6 +5315,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
+	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
@@ -5470,6 +5673,10 @@
 			"active": 0,
 			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
+		"max-classes-per-file": {
+			"active": 0,
+			"optionString": "1"
+			},
 		"max-depth": {
 			"active": 0,
 			"optionString": "{'max': 4}"
@@ -5481,6 +5688,10 @@
 		"max-lines": {
 			"active": 0,
 			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-lines-per-function": {
+			"active": 0,
+			"optionString": "{'max': 50, 'skipBlankLines': true, 'skipComments': true, 'IIFEs': false}"
 			},
 		"max-nested-callbacks": {
 			"active": 0,
@@ -5526,6 +5737,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-async-promise-executor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-await-in-loop": {
 			"active": 0,
 			"optionString": ""
@@ -5544,10 +5759,6 @@
 			},
 		"no-case-declarations": {
 			"active": 1,
-			"optionString": ""
-			},
-		"no-catch-shadow": {
-			"active": 0,
 			"optionString": ""
 			},
 		"no-class-assign": {
@@ -5746,9 +5957,13 @@
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
 			},
+		"no-misleading-character-class": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-mixed-operators": {
 			"active": 0,
-			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			"optionString": "{'groups': [['+', '-', '*', '/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
 			},
 		"no-mixed-requires": {
 			"active": 0,
@@ -5998,6 +6213,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-useless-computed-key": {
 			"active": 0,
 			"optionString": ""
@@ -6102,6 +6321,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-object-spread": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
@@ -6130,6 +6353,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"require-atomic-updates": {
+			"active": 0,
+			"optionString": ""
+			},
 		"require-await": {
 			"active": 0,
 			"optionString": ""
@@ -6137,6 +6364,10 @@
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-unicode-regexp": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-yield": {
 			"active": 1,
@@ -6192,7 +6423,7 @@
 			},
 		"spaced-comment": {
 			"active": 0,
-			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			"optionString": "'always', {'line': {'markers': ['/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
 			},
 		"strict": {
 			"active": 0,
@@ -6252,7 +6483,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -6647,8 +6878,8 @@
 		"escapeHTMLCharacters": 0,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
-		"outputStyle": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -6666,10 +6897,11 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 3,
@@ -6692,25 +6924,26 @@
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"disableJavascript": 0,
+		"enableJavascript": 0,
 		"ieCompatibility": 1,
+		"mathStyle": 0,
 		"outputStyle": 0,
-		"relativeURLS": 0,
+		"rewriteURLStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"strictImports": 0,
-		"strictMath": 0,
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
@@ -6731,6 +6964,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -6740,7 +6974,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -6761,12 +6996,13 @@
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -6790,12 +7026,13 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -6819,36 +7056,70 @@
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathRelativePath": "/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
-		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
 		"moduleType": 2,
-		"noImplicitAny": 0,
-		"preserveConstEnums": 0,
 		"removeComments": 0,
-		"suppressImplicitAnyIndexErrors": 0,
 		"targetECMAVersion": 0
 		},
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
+	"tsAllowSyntheticDefaultImports": 0,
+	"tsAllowUnreachableCode": 0,
+	"tsAllowUnusedLabels": 0,
+	"tsAlwaysStrict": 0,
+	"tsDownlevelIteration": 0,
+	"tsEmitBOM": 0,
+	"tsEmitDecoratorMetadata": 0,
+	"tsESModuleInterop": 0,
+	"tsForceConsistentCasingInFileNames": 0,
+	"tsImportHelpers": 0,
+	"tsIsolatedModules": 0,
+	"tsJSXFactory": "React.createElement",
+	"tsKeyofStringsOnly": 0,
+	"tsNoEmitHelpers": 0,
+	"tsNoFallthroughCasesInSwitch": 0,
+	"tsNoImplicitAny": 0,
+	"tsNoImplicitReturns": 0,
+	"tsNoImplicitThis": 0,
+	"tsNoImplicitUseStrict": 0,
+	"tsNoLib": 0,
+	"tsNoResolve": 0,
+	"tsNoStrictGenericChecks": 0,
+	"tsNoUnusedLocals": 0,
+	"tsNoUnusedParameters": 0,
+	"tsPreserveConstEnums": 0,
+	"tsPreserveSymlinks": 0,
+	"tsResolveJsonModule": 0,
+	"tsSkipLibCheck": 0,
+	"tsStrictFunctionTypes": 0,
+	"tsStrictNullChecks": 0,
+	"tsStrictPropertyInitialization": 0,
+	"tsStripInternal": 0,
+	"tsSuppressExcessPropertyErrors": 0,
+	"tsSuppressImplicitAnyIndexErrors": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
-		"ascii-only": {
-			"active": 0,
+		"arguments": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare-returns": {
+		"arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -6856,23 +7127,27 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"bracketize": {
+		"booleans_as_integers": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"cascade": {
+		"braces": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"collapse_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -6884,6 +7159,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"directives": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"drop_console": {
 			"active": 0,
 			"flagValue": -1
@@ -6891,6 +7170,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -6900,7 +7183,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"expression": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -6908,24 +7199,36 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"if_return": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-level": {
+		"indent_level": {
 			"active": 0,
 			"flagValue": 4
 			},
-		"indent-start": {
+		"indent_start": {
 			"active": 0,
 			"flagValue": 0
 			},
-		"inline-script": {
-			"active": 0,
+		"inline": {
+			"active": 1,
+			"flagValue": 3
+			},
+		"inline_script": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -6936,21 +7239,33 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"keep_infinity": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_quoted_props": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
-		"max-line-len": {
+		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"passes": {
+			"active": 1,
+			"flagValue": 1
 			},
 		"properties": {
 			"active": 1,
@@ -6960,12 +7275,24 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"quote-keys": {
+		"quote_keys": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"screw-ie8": {
+		"quote_style": {
 			"active": 1,
+			"flagValue": 0
+			},
+		"reduce_funcs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"reduce_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -6976,23 +7303,59 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"sort": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"space-colon": {
+		"shebang": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"support-ie8": {
-			"active": 0,
+		"side_effects": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"switches": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"typeofs": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_comps": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_Function": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_undefined": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -7004,11 +7367,16 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
+		"webkit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wrap_iife": {
+			"active": 0,
+			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$",
 	"websiteRelativeRoot": ""
 	},
