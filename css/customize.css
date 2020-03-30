@@ -50,7 +50,8 @@ a:hover 	{	color: #333; text-decoration: none;
   }
   
   .content {
-    border: 1px solid #333 !important;
+    border: 1px solid #121212 !important;
+    background-color: #121212 !important;
   }
   
   .navbar-default .navbar-toggle .icon-bar {
@@ -117,22 +118,34 @@ body {
   float: left;
   width: 84.2105263%;
   min-height: 560px;
-  padding: 48px 80px 64px;
+  padding: 48px 80px;
   border: 1px solid #ddd;
   font-size: 16px;
   line-height: 20px;
+}
+
+.content a {
+  text-decoration: underline;
 }
 
 .content-blog {
   padding: 0;
 }
 
-.content h2,
-.content-blog h2 {
-  font-size: 18px;
-  margin: 16px 0 4px;
+h1, .h1 {
+  font-size: 30px;
+  margin: 0 0 16px;
+  font-family: 'Texta';
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+h2, .h2 {
+  font-size: 20px;
+  margin: 8px 0 4px;
   font-family: 'Texta';
   font-weight: 700;
+  /* text-transform: uppercase; */
 }
 
 .content p {
