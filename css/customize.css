@@ -118,8 +118,9 @@ body {
   float: left;
   width: 84.2105263%;
   min-height: 560px;
-  padding: 48px 80px;
-  border: 1px solid #ddd;
+  padding: 48px 64px;
+  /* border: 1px solid #ddd; */
+  background-color: #eee;
   font-size: 16px;
   line-height: 20px;
 }
@@ -310,7 +311,6 @@ h2, .h2 {
   }
 }
 
-
 /* ---------- Media Query for 1024px and Below --------- */
 @media (max-width: 1024px) {
 
@@ -319,7 +319,6 @@ h2, .h2 {
   }
 
 }
-
 
 /* ---------- Media Query for 1023px and Below --------- */
 
@@ -366,10 +365,10 @@ h2, .h2 {
 
   .content {
     float: none;
-    margin: 0 auto 20px;
+    margin: 0 auto 24px;
     width: 95%;
     min-height: none;
-    padding: 60px 80px;
+    padding: 32px;
   }
 
   .headshot {
@@ -416,6 +415,12 @@ h2, .h2 {
     padding-top: 5px;
     padding-bottom: 5px;
     line-height: 24px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  .navbar-nav > li:last-child > a {
+    display: none;
   }
 
   .navbar-brand {
@@ -475,13 +480,17 @@ h2, .h2 {
     line-height: 24px;
     margin-bottom: 2px;
   }
+  
+  .navbar-nav > li:last-child > a {
+    display: block;
+  }
 
   .content {
     float: none;
-    margin: 0 auto 20px;
+    margin: 0 auto 24px;
     width: 92%;
     min-height: none;
-    padding: 5% 7%;
+    padding: 32px 24px;
   }
 
   .navbar {
@@ -494,14 +503,14 @@ h2, .h2 {
 /* ---------- Hamburger --------- */
 
 .navbar-toggle {
-  margin: 36px 10px 0 0;
+  margin: 32px 12px 0 0;
   border: 0;
   border-radius: 0;
   padding: 0;
 }
 
 .navbar-toggle .icon-bar + .icon-bar {
-  margin-top: 6px;
+  margin-top: 8px;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
