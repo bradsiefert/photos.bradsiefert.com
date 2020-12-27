@@ -79,7 +79,7 @@ body {
   clear: left;
   max-height: 640px;
   width: 100%;
-  max-width: 1180px;
+  max-width: 1200px;
   padding: 0 20px;
   margin: 0 auto;
 }
@@ -116,13 +116,10 @@ body {
 .content {
   float: left;
   width: 84.2105263%;
-  min-height: 560px;
-  padding: 48px 64px;
+  min-height: 640px;
+  padding: 64px 64px 48px;
   background-color: #eee;
   font-size: 13px;
-
-  /* font-size: 16px;
-  line-height: 20px; */
 }
 
 .content a {
@@ -240,6 +237,7 @@ h2, .h2 {
   font-size: 13px;
   font-weight: 800;
   letter-spacing: 0.5px;
+  line-height: 1.25;
 }
 
 .badge {
@@ -271,7 +269,7 @@ h2, .h2 {
   }
 
   .sidebar-nav .navbar li a {
-    padding: 4px 12px;
+    padding: 4px 8px;
     margin: 4px 0;
   }
 
@@ -280,18 +278,20 @@ h2, .h2 {
   }
 
   .navbar-right {
-    float: none;
+    float: none !important;
+    margin: 0;
   }
 
   .navbar-brand {
     width: 100%;
     text-align: center;
     display: block;
-    margin-bottom: 40px;
+    margin-bottom: 48px;
+    line-height: 1.25;
   }
 
   .navbar-brand img {
-    margin: 0 auto 10px;
+    margin: 4px auto 12px;
   }
 
   .sidebar-nav .navbar .nav-social li {
@@ -312,7 +312,7 @@ h2, .h2 {
 
 @media (max-width: 1023px) {
 
-  /* Kills the Styles to Center and Vertially Align Sidebar/Portfolio */
+  /* Kills the Styles to Center and Vertically Align Sidebar/Portfolio */
   #centered {
     position: static;
     clear: none;
@@ -396,10 +396,6 @@ h2, .h2 {
     line-height: 24px;
     padding: 5px 15px;
   }
-  
-  .navbar-nav > li:last-child > a {
-    display: none;
-  }
 
   .navbar-brand {
     font-size: 15px;
@@ -412,7 +408,7 @@ h2, .h2 {
     display: inline-block;
     padding-left: 0;
     padding-right: 12px;
-    margin-top: -3px;
+    margin-top: -4px;
   }
 
   .portfolio-mobile img {
@@ -429,7 +425,7 @@ h2, .h2 {
   }
 }
 
-/* ---------- Media Query for 769px and above --------- */
+/* ---------- Media Query for above Mobile --------- */
 
 @media (min-width: 1024px) {
   .portfolio-mobile {
@@ -437,10 +433,9 @@ h2, .h2 {
   }
 }
 
-/* ---------- Media Query for 767px and below --------- */
+/* ---------- Media Query for Mobile --------- */
 
-@media (max-width: 767px) {
-
+@media (max-width: 1023px) {
   .nav-social li a > img {
     width: 30px;
     margin: 5px 2px;
@@ -453,10 +448,6 @@ h2, .h2 {
     margin-top: 2px;
     line-height: 24px;
     margin-bottom: 2px;
-  }
-  
-  .navbar-nav > li:last-child > a {
-    display: block;
   }
 
   .content {
@@ -496,7 +487,7 @@ h2, .h2 {
 /* ---------- Hamburger --------- */
 
 .navbar-toggle {
-  margin: 37px 0 36px;
+  margin: 39px 0 36px;
   border: 0;
   border-radius: 0;
   padding: 0;
@@ -517,7 +508,47 @@ h2, .h2 {
 
 .navbar-toggle .icon-bar {
   display: block;
-  width: 28px;
-  height: 3px;
+  width: 24px;
+  height: 2px;
   border-radius: 0;
+}
+
+/* ---------- Forms --------- */
+
+.form-control {
+  height: 40px;
+  font-size: 14px;
+  margin-bottom: 16px;
+  border-radius: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: none;
+}
+
+.form-control.input-sm {
+  height: 32px;
+  font-size: 12px;
+}
+
+.form-control.input-sm {
+  height: auto;
+}
+
+textarea.form-control.input-sm {
+  padding-top: 12px;
+}
+
+/* ---------- Buttons --------- */
+.btn {
+  letter-spacing: -0.25px;
+}
+
+.btn-rounded {
+  border-radius: 32px;
+}
+
+.btn-default {
+  border: none;
+  padding: 5px 16px;
+  font-weight: 600;
 }
