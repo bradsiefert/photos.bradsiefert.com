@@ -82,7 +82,7 @@
         Thanks for checking out my work. If you'd like to reach out to me, please use the form below. I'll do my best to get back to you shortly.
       </p>
       
-      <form
+      <!-- <form
         name="Brad Siefert Photography Contact Form"
         method="post"
         data-netlify="true"
@@ -145,6 +145,21 @@
         <div class="mb-4">
           <button type="submit" class="btn btn-default btn-rounded btn-sm">Send Message&nbsp; 📨</button>
         </div>
+      </form> -->
+      
+      <form name="Brad Siefert Photography Contact Form" method="POST" data-netlify="true">
+        <p>
+          <label>Your Name: <input type="text" name="name" /></label>   
+        </p>
+        <p>
+          <label>Your Email: <input type="email" name="email" /></label>
+        </p>
+        <p>
+          <label>Message: <textarea name="message"></textarea></label>
+        </p>
+        <p>
+          <button type="submit" class="btn btn-default">Send</button>
+        </p>
       </form>
       
     </div>
