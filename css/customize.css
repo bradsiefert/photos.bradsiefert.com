@@ -1,0 +1,560 @@
+body {
+  color: #333;
+  background-color: #fff;
+  font-family: 'SFM';
+  color: #333333;
+  letter-spacing: -0.1px;
+  line-height: 1.4em;
+}
+
+/* ---------- Personal --------- */
+.kill-row-padding { padding-left: 0; padding-right: 0; }
+.kill-row-margin { margin-left: 0; margin-right: 0; }
+@media (min-width: 481px) { .one-line { display: inline; } }
+.right-then-center { text-align: right;	}
+@media (max-width: 767px) {	.right-then-center { text-align: center; } }
+@media (max-width: 767px) {	.then-center { text-align: center; } }
+
+/* ---------- Links --------- */
+a 				{	color: #333; }
+a:active 	{	color: #333; position: relative; top: 2px; }
+a:hover 	{	color: #333; text-decoration: none;
+  -webkit-transition: text-shadow .5s ease-out, background .5s ease-out;
+  -moz-transition: text-shadow .5s ease-out, background .5s ease-out;
+  -o-transition: text-shadow .5s ease-out, background .5s ease-out;
+  transition: text-shadow .5s ease-out, background .5s ease-out;
+  text-shadow: #ff0 0 0 5px;
+}
+
+/* ---------- Dark Mode --------- */
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #fff;
+    background-color: #000;
+  }
+
+  a {
+      color: #fff !important;
+  }
+
+  .navbar-default .navbar-nav > .active > a,
+  .navbar-default .navbar-nav > .active > a:hover,
+  .navbar-default .navbar-nav > .router-link-active > a,
+  .navbar-default .navbar-nav > .router-link-active > a:hover {
+    background-color: #fff !important;
+    color: #000 !important;
+  }
+
+
+  .badge {
+    background-color: #fff !important;
+    color: #000 !important;
+  }
+
+  .content {
+    border: 1px solid #121212 !important;
+    background-color: #121212 !important;
+  }
+
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff !important;
+  }
+}
+
+@media (max-width: 1023px) and (prefers-color-scheme: dark) {
+  .navbar {
+    background-color: rgba(0, 0, 0, 0.88) !important;
+  }
+}
+
+/* ---------- Global --------- */
+html, body, #__nuxt {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#centered {
+  position: relative;
+  clear: left;
+  max-height: 640px;
+  width: 100%;
+  max-width: 1200px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+#floater {
+  position: relative;
+  float: left;
+  height: 50%;
+  margin-bottom: -320px;
+  width: 1px;
+}
+
+.sidebar-nav {
+  float: left;
+  width: 15.7894737%;
+}
+
+.portfolio {
+  float: left;
+  width: 84.2105263%;
+  padding: 0;
+}
+
+.flexslider {
+  max-height: 640px;
+  overflow: hidden;
+  background-color: transparent !important;
+}
+
+.portfolio img {
+  width: 100%;
+}
+
+.content {
+  float: left;
+  width: 84.2105263%;
+  min-height: 640px;
+  padding: 64px 64px 48px;
+  background-color: #eee;
+  font-size: 13px;
+}
+
+.content a {
+  text-decoration: underline;
+}
+
+h1, .h1 {
+  font-size: 27px;
+  margin: 0 0 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+h2, .h2 {
+  font-size: 15px;
+  margin: 8px 0 4px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.content p {
+  margin-bottom: 24px;
+}
+
+.post {
+  border-bottom: 1px solid #ddd;
+}
+
+.post-date,
+.post-settings,
+.post-tags {
+  display: inline-block;
+  margin-bottom: 10px;
+  padding-right: 20px;
+}
+
+.post-tags a {
+  padding-right: 8px;
+}
+
+.caption {
+  padding: 10px 30px;
+}
+
+.more-posts {
+  margin: 20px;
+}
+
+.btn-pager {
+  display: inline-block;
+  padding: 6px 15px 3px;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 15px;
+  color: #333;
+  font-size: 14px;
+}
+
+/* ---------- Navbar --------- */
+.nav-social {
+  list-style: none;
+  -webkit-padding-start: 0px;
+  margin-top: 24px;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.nav-social li {
+  display: inline-block;
+  margin: 0 2px;
+}
+
+.nav-social li img {
+  width: 32px;
+}
+
+.navbar-nav > li > a {
+  border-radius: 0;
+  border: none;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.navbar-default {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .router-link-active > a,
+.navbar-default .navbar-nav > .router-link-active > a:hover {
+  background-color: #333;
+  border-radius: 34px;
+  padding-left: 12px;
+  padding-right: 12px;
+  display: inline-block;
+  line-height: 24px;
+}
+
+.active > a:hover {
+  text-shadow: 0 0 0;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .router-link-active > a,
+.navbar-default .navbar-nav > .router-link-active > a:hover,
+.navbar-default .navbar-nav > .router-link-active > a:focus {
+  background-color: #333;
+  color: #fff;
+}
+
+.navbar-brand {
+  letter-spacing: 0.2px;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 1.25;
+}
+
+.badge {
+  font-size: 12px;
+  margin-left: 2px;
+  background-color: #333;
+  padding: 3px 7px 4px;
+}
+
+/* ---------- Media Query for 1024px and Above --------- */
+
+/* Make Sidebar Nav Vertical */
+@media (min-width: 1024px) {
+  .navbar-header {
+    float: none;
+  }
+
+  .sidebar-nav .navbar .navbar-collapse {
+    padding: 0;
+    max-height: none;
+  }
+
+  .sidebar-nav .navbar ul:not {
+    display: block;
+  }
+
+  .navbar-nav > li {
+    float: none;
+  }
+
+  .sidebar-nav .navbar li a {
+    padding: 4px 8px;
+    margin: 4px 0;
+  }
+
+  .sidebar-nav .nav-social li a {
+    padding: 0;
+  }
+
+  .navbar-right {
+    float: none !important;
+    margin: 0;
+  }
+
+  .navbar-brand {
+    width: 100%;
+    text-align: center;
+    display: block;
+    margin-bottom: 48px;
+    line-height: 1.25;
+  }
+
+  .navbar-brand img {
+    margin: 4px auto 12px;
+  }
+
+  .sidebar-nav .navbar .nav-social li {
+    display: inline-block;
+  }
+}
+
+/* ---------- Media Query for 1024px and Below --------- */
+@media (max-width: 1024px) {
+
+  #floater {
+    margin-bottom: -290px;
+  }
+
+}
+
+/* ---------- Media Query for 1023px and Below --------- */
+
+@media (max-width: 1023px) {
+
+  /* Kills the Styles to Center and Vertically Align Sidebar/Portfolio */
+  #centered {
+    position: static;
+    clear: none;
+    max-height: none;
+    width: auto;
+    max-width: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  #floater {
+    position: static;
+    float: none;
+    height: auto;
+    margin-bottom: 0;
+    width: 0;
+  }
+
+  .sidebar-nav {
+    float: none;
+    width: auto;
+  }
+
+  .portfolio {
+    float: none;
+    width: auto;
+    padding: 0;
+    float: none;
+  }
+
+  .portfolio {
+    display: none; /* Kills the Desktop Portfolio */
+  }
+
+  .content {
+    float: none;
+    margin: 0 auto 24px;
+    width: 95%;
+    min-height: 0;
+    padding: 32px;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  h1 {
+    font-size: 28px;
+  }
+
+  h2 {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+  .headshot {
+    margin: 20px auto 0;
+    text-align: center;
+  }
+
+  body {
+    margin-top: 96px;
+  }
+
+  .navbar {
+    text-align: center;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    z-index: 1030;
+    background-color: rgba(255, 255, 255, .9);
+    padding: 0 24px;
+  }
+
+  .navbar-collapse {
+    border-top: 0;
+    box-shadow: 0 0 0;
+  }
+
+  .navbar-nav > li > a {
+    margin-top: 30px;
+    line-height: 24px;
+    padding: 5px 15px;
+  }
+
+  .navbar-brand {
+    font-size: 15px;
+    float: none;
+    text-align: left;
+    padding: 35px 10px 0 0;
+  }
+
+  .navbar-brand img {
+    display: inline-block;
+    padding-left: 0;
+    padding-right: 12px;
+    margin-top: -4px;
+  }
+
+  .portfolio-mobile img {
+    width: 100%;
+  }
+
+  .portfolio-mobile li {
+    margin-bottom: 4px;
+  }
+
+  .navbar-nav > li > a {
+    font-size: 14px;
+    line-height: 24px;
+  }
+}
+
+/* ---------- Media Query for above Mobile --------- */
+
+@media (min-width: 1024px) {
+  .portfolio-mobile {
+    display: none; /* Kills the Mobile Portfolio */
+  }
+}
+
+/* ---------- Media Query for Mobile --------- */
+
+@media (max-width: 1023px) {
+  .nav-social li a > img {
+    width: 30px;
+    margin: 5px 2px;
+  }
+
+  .navbar-nav > li > a {
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 2px;
+    line-height: 24px;
+    margin-bottom: 2px;
+  }
+
+  .content {
+    float: none;
+    margin: 0 auto 32px;
+    width: 100%;
+    min-height: 0;
+    padding: 48px 16px;
+  }
+
+  .navbar-nav > li > a {
+    font-size: 16px;
+  }
+
+  .content {
+    font-size: 17px;
+    line-height: 1.5;
+  }
+
+  .content p {
+    margin-bottom: 32px;
+  }
+
+  h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 8px;
+  }
+}
+
+
+
+/* ---------- Hamburger --------- */
+
+.navbar-toggle {
+  margin: 39px 0 36px;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+}
+
+.navbar-toggle .icon-bar + .icon-bar {
+  margin-top: 6px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #333;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: transparent;
+}
+
+.navbar-toggle .icon-bar {
+  display: block;
+  width: 24px;
+  height: 2px;
+  border-radius: 0;
+}
+
+/* ---------- Forms --------- */
+
+.form-control {
+  height: 40px;
+  font-size: 14px;
+  margin-bottom: 16px;
+  border-radius: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: none;
+}
+
+.form-control.input-sm {
+  height: 32px;
+  font-size: 12px;
+}
+
+.form-control.input-sm {
+  height: auto;
+}
+
+textarea.form-control.input-sm {
+  padding-top: 12px;
+}
+
+/* ---------- Buttons --------- */
+.btn {
+  letter-spacing: -0.25px;
+}
+
+.btn-rounded {
+  border-radius: 32px;
+}
+
+.btn-default {
+  border: none;
+  padding: 5px 16px;
+  font-weight: 700;
+}
