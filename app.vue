@@ -10,14 +10,14 @@
           <span class="icon-bar"></span>
         </button>
         <div class="navbar-brand">
-          <img src="@/logo-icon.svg" alt="Brad Siefert Logo"/><NuxtLink to="/">Brad Siefert
-          Photography</NuxtLink>
+          <a href="/"><img src="@/logo-icon.svg" alt="Brad Siefert Logo"/>Brad Siefert
+          Photography</a>
         </div>
       </div>
 
       <div class="navbar-collapse collapse sidebar-navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li><NuxtLink target="_blank" href="https://10years.photos.bradsiefert.com">10 Years Photobook</NuxtLink></li>
+          <li><NuxtLink target="_blank" href="https://10years.photos.bradsiefert.com">10 Years</NuxtLink></li>
           <li><NuxtLink to="/">People</NuxtLink></li>
           <li><NuxtLink to="/places">Places</NuxtLink></li>
           <li><NuxtLink to="/instantfilm">Instant Film</NuxtLink></li>
