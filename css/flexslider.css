@@ -62,6 +62,7 @@ html[xmlns] .slides {display: block;}
   -webkit-transition: all .3s ease;
   -moz-transition: all .3s ease;
   transition: all .3s ease;
+  filter: drop-shadow(0 0 8px rgb(8, 8, 8));
 }
 
 .flex-direction-nav .flex-prev {
@@ -107,6 +108,7 @@ html[xmlns] .slides {display: block;}
   background-position: center;
   font-size: 0px;
   padding: 24px;
+  filter: drop-shadow(2px 4px 8px rgb(160, 0, 210));
 }
 
 .flexslider:hover .flex-prev { opacity: 0.88; left: 12px; }
