@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       charset: 'utf-8',
-      viewport: 'width=device-width, initial-scale=1"',
+      viewport: 'width=device-width, initial-scale=1',
       title: 'Photographer Brad Siefert',
       meta: [
         { name: 'description', content: 'Chicago based photographer Brad Siefert specializing in portraits, landscapes, and instant film photography.' },
