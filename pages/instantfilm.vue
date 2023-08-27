@@ -72,10 +72,12 @@
   <!-- /portfolio-mobile -->
 </template>
 
-<!--<script>
-  $(window).load(function(){
+<script>
+export default {
+  mounted() {
     $('.flexslider').flexslider({
       animation: "slide",
     });
-  });
-</script>-->
+  }
+}
+</script>

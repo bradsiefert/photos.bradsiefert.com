@@ -77,3 +77,13 @@
   </div>
   <!-- /portfolio-mobile -->
 </template>
+
+<script>
+export default {
+  mounted() {
+    $('.flexslider').flexslider({
+      animation: "slide",
+    });
+  }
+}
+</script>

@@ -10,18 +10,10 @@ export default defineNuxtConfig({
         { property: "og:image", content: 'https://photos.bradsiefert.com/sharing-tile.jpg' },
       ],
       script: [
-       { src: '/jquery-1.11.1.min.js',
-         body: true,
-       },
-       { src: '/bootstrap.min.js',
-         body: true,
-       },
-       { src: '/jquery.flexslider.js',
-         body: true,
-       },
-       { src: '/loading.js',
-         body: true,
-       }
+       { src: 'jquery-1.11.1.min.js', tagPosition: 'bodyClose' },
+       { src: 'bootstrap.min.js', tagPosition: 'bodyClose' },
+       { src: 'jquery.flexslider.js', tagPosition: 'bodyClose' },
+       { src: 'loading.js', tagPosition: 'bodyClose' }
       ]
     }
   },

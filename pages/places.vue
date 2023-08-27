@@ -1,7 +1,7 @@
 <template>
   <div class="portfolio">
     <section class="slider">
-      <div class="flexslider loading">
+      <div class="flexslider loading" id="nuxtslider">
         <ul class="slides">
           <li><img src="@/portfolio/places/places-triptowashington1.jpg" alt="Nicole at the beach in La Push, Washington" /></li>
           <li><img src="@/portfolio/places/places-summerjourneyswestcoasttrip2.jpg" alt="Matilija Dam near Ojai, CA" /></li>
@@ -99,3 +99,13 @@
   </div>
   <!-- /portfolio-mobile -->
 </template>
+
+<script>
+export default {
+  mounted() {
+    $('.flexslider').flexslider({
+      animation: "slide",
+    });
+  }
+}
+</script>
