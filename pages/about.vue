@@ -19,10 +19,7 @@
     </div>
 
     <div class="col-md-5 headshot">
-      <img
-        class="img-responsive"
-        src="../headshot.jpg"
-        alt="Brad Siefert Headshot"/>
+      <img src="@/images/headshot.jpg" class="img-responsive" alt="Brad Siefert Headshot"/>
     </div>
   </div>
 </template>

@@ -67,7 +67,7 @@ html[xmlns] .slides {display: block;}
 
 .flex-direction-nav .flex-prev {
   left: 24px;
-  background-image: url(../icon-arrow-prev.svg);
+  background-image: url(@/images/icon-arrow-prev.svg);
   background-repeat: no-repeat;
   background-position: center;
   font-size: 0px;
@@ -78,7 +78,7 @@ html[xmlns] .slides {display: block;}
 
 .flex-direction-nav .flex-next {
   right: 24px;
-  background-image: url(../icon-arrow-next.svg);
+  background-image: url(@/images/icon-arrow-next.svg);
   background-repeat: no-repeat;
   background-position: center;
   font-size: 0px;
@@ -92,7 +92,7 @@ html[xmlns] .slides {display: block;}
   left: 24px;
   height: 24px;
   width: 14px;
-  background-image: url(../icon-arrow-prev-dark.svg);
+  background-image: url(@/images/icon-arrow-prev-dark.svg);
   background-repeat: no-repeat;
   background-position: center;
   font-size: 0px;
@@ -103,7 +103,7 @@ html[xmlns] .slides {display: block;}
   right: 24px;
   height: 24px;
   width: 14px;
-  background-image: url(../icon-arrow-next-dark.svg);
+  background-image: url(@/images/icon-arrow-next-dark.svg);
   background-repeat: no-repeat;
   background-position: center;
   font-size: 0px;

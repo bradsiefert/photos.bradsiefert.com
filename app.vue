@@ -10,8 +10,9 @@
           <span class="icon-bar"></span>
         </button>
         <div class="navbar-brand">
-          <a href="/"><img src="@/logo-icon.svg" alt="Brad Siefert Logo"/>Brad Siefert
-          Photography</a>
+          <a href="/">
+            <img src="@/images/logo-icon.svg" alt="Brad Siefert Logo"/>Brad Siefert Photography
+          </a>
         </div>
       </div>
 
