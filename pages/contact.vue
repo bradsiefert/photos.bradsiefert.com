@@ -4,6 +4,10 @@
       <h1>Contact</h1>
 
       <p>
+        Coming soon.
+      </p>
+
+      <!--<p>
         Thanks for checking out my work. If you'd like to reach out to me, please use the form below. I'll do my best to get back to you shortly.
       </p>
 
@@ -30,7 +34,7 @@
         <div class="mb-4">
           <button type="submit" class="btn btn-default btn-rounded btn-sm">Send Message&nbsp;📨</button>
         </div>
-      </form>
+      </form>-->
 
     </div>
   </div>

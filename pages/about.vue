@@ -13,7 +13,7 @@
       </p>
 
       <h2>Get In Touch</h2>
-      <strong>SAY HELLO:</strong> <a href="/contact">Contact Me</a><br />
+      <!--<strong>SAY HELLO:</strong> <a href="/contact">Contact Me</a><br />-->
       <strong>INSTAGRAM:</strong> <a target="_new" href="https://instagram.com/bradsiefert/">@bradsiefert</a><br />
       <strong>MASTODON:</strong> <a rel="me" href="https://mas.to/@bradsiefert">@bradsiefert@mas.to</a><br />
     </div>
