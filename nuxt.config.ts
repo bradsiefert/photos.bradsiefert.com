@@ -17,15 +17,19 @@ export default defineNuxtConfig({
       ]
     }
   },
+
   router: {
     options: {
       linkExactActiveClass: 'active',
     }
   },
+
   css: [
     '@/css/fontfaces.css',
     '@/css/bootstrap.css',
     '@/css/customize.css',
     '@/css/flexslider.css'
-  ]
+  ],
+
+  compatibilityDate: '2024-12-24'
 })
