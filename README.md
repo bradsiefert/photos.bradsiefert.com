@@ -1,37 +1,29 @@
-# Nuxt 3 Minimal Starter
+# photos.bradsiefert.com / Nuxt 3 Website Setup
+This site is made using Nuxt 3, for more information, read their [documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
-
+## Setup the site locally
 Make sure to install the dependencies:
 
+1. Clone the site's repository
+2. In your terminal app, install the site's dependancies. (I use npm as my package manger to manage dependancies.):
 ```bash
-# yarn
-yarn install
-
-# npm
 npm install
-
-# pnpm
-pnpm install
 ```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
+3. In your terminal app, start the development server
 ```bash
 npm run dev
 ```
+This will on start the local development server at: http://localhost:3000
 
-## Production
+4. Navigate to the local development server in your web browser and confirm the site is running locally.
 
-Build the application for production:
+## Dealing with the production/live site
+The website is hosted at [Netlify](https://netlify.com) and has continuous integration setup with the Github repository. Anytime a change is pushed to a branch, the site is rebuilt and published on Netlify.
 
-```bash
-npm run build
-```
+If the change is pushed to the `main` branch, it will immediate go live to the internet at photos.bradsiefert.com. If the change is pushed to any other branch, the change will create a Deploy Preview in Netlify where the changes can be reviewed. The changes on that branch must be merged into the `main` branch for them to be built and to go live on the production site (photos.bradsiefert.com).
+
+## Nuxt 3 production build options
+Nuxt has a these options for building or previewing the site.
 
 Locally preview production build:
 
@@ -39,4 +31,8 @@ Locally preview production build:
 npm run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Build the application for production:
+
+```bash
+npm run build
+```
