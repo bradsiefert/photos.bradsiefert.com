@@ -1,5 +1,7 @@
-# photos.bradsiefert.com / Nuxt 3 Website Setup
-This site is made using Nuxt 3, for more information, read their [documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# photos.bradsiefert.com / Website Setup
+This is my personal photography portfolio website. It was originally made using flat HTML files, and updated to use a modern Javascript framework, Nuxt 3. For more information, read the [Nuxt Getting Started documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+---
 
 ## Setup the site locally
 Make sure to install the dependencies:
