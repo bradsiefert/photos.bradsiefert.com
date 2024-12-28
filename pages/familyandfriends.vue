@@ -1,6 +1,6 @@
 <template>
-  <div class="content">
-    <div class="col-md-10">
+  <div class="content friendsandfamily">
+    <div class="col">
       <h1>Family &amp; Friends</h1>
       <p>
         This page is a private compilation of links to photo projects I've shot over the years only for family and friends. It is not linked from my main website and is unlisted from search engines and LLMs to make it difficult to find. I will update this page with new links throughout the year so bookmark and check back to see updates.
@@ -8,6 +8,8 @@
       <p>
         I post them here because I want a place where folks can see these albums, but I don't want to over post to Facebook or other social media feeds. If you ever see anything you'd like removed from these albums for you own privacy, please let me know.
       </p>
+
+      <hr>
 
       <h2>2024</h2>
       <ul class="list-unstyled" style="margin-bottom: 32px;">

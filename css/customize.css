@@ -3,7 +3,7 @@ body {
   background-color: #fff;
   font-family: 'SFM';
   color: #333333;
-  letter-spacing: -0.1px;
+  letter-spacing: -0.25px;
   line-height: 1.4em;
 }
 
@@ -80,9 +80,23 @@ html, body, #__nuxt {
   float: left;
   width: 84.2105263%;
   min-height: 640px;
-  padding: 64px 64px 48px;
+  padding: 48px;
   background-color: #f5f5f5;
-  font-size: 13px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.content p {
+  margin-bottom: 24px;
+}
+
+.friendsandfamily .list-unstyled li {
+  margin-bottom: 12px;
+}
+
+.friendsandfamily h2, .h2 {
+  font-size: 18px;
+  margin-bottom: 12px;
 }
 
 h1, .h1 {
@@ -94,15 +108,11 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: 16px;
-  margin: 8px 0 4px;
+  font-size: 18px;
+  margin: 8px 0;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
-}
-
-.content p {
-  margin-bottom: 24px;
 }
 
 /* ---------- Navbar --------- */
