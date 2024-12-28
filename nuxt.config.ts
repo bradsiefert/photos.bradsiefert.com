@@ -7,9 +7,9 @@ export default defineNuxtConfig({
       },
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
-      title: 'Photographer Brad Siefert',
+      title: 'Brad Siefert / Photography',
       meta: [
-        { name: 'description', content: 'Chicago based photographer Brad Siefert specializing in portraits, landscapes, and instant film photography.' },
+        { name: 'description', content: "I'm a Chicago-based photographer and UI/UX Designer experienced in portraits, landscapes, travel, long-exposure, and instant film photography." },
         { property: "og:image", content: 'https://photos.bradsiefert.com/sharing-tile.jpg' },
       ],
       script: [
