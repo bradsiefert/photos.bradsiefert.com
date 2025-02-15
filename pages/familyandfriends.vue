@@ -13,12 +13,14 @@
 
       <h2>2024</h2>
       <ul class="list-unstyled" style="margin-bottom: 32px;">
+        <li>🆕 <a target="_new" href="https://adobe.ly/4i00GAY">2024-12-23 - Christmas @ Jiji's House</a></li>
+        <li>🆕 <a target="_new" href="https://adobe.ly/3CUKn9F">2024-12-22 - Christmas Trip to Pana and Mom's Grave</a></li>
         <li><a target="_new" href="https://adobe.ly/4gEKiFn">2024-12-15 - Lydia's 6th Birthday Birthday</a></li>
         <li><a target="_new" href="https://adobe.ly/3ZxKn6A">2024-12-14 - Lydia's 6th Birthday Birthday Party</a></li>
-        <li>🆕 <a target="_new" href="https://adobe.ly/419fw1l">2024-11-28 - Thanksgiving and Christmas Decorating</a></li>
+        <li><a target="_new" href="https://adobe.ly/419fw1l">2024-11-28 - Thanksgiving and Christmas Decorating</a></li>
         <li><a target="_new" href="https://adobe.ly/3YWSMS6">2024-10-31 - Halloween '24</a></li>
         <li><a target="_new" href="https://adobe.ly/3Dro0so">2024-10-20 - Annual Family Photoshoot (Casey &amp; Mars)</a></li>
-        <li>🆕 <a target="_new" href="https://adobe.ly/416xIcM">2024-10-20 - Annual Family Photoshoot (Brad, Nic, &amp; Lydia)</a></li>
+        <li><a target="_new" href="https://adobe.ly/416xIcM">2024-10-20 - Annual Family Photoshoot (Brad, Nic, &amp; Lydia)</a></li>
         <li><a target="_new" href="https://adobe.ly/3X3vqIj">2024-08-26 - Lydia's 1st Day of Kindergarten</a></li>
         <li><a target="_new" href="https://adobe.ly/3zrbB5U">2024-07-01 - July 4th Weekend</a></li>
         <li><a target="_new" href="https://adobe.ly/3TFR18N">2024-04-22 - Mom's Funeral in Pana</a></li>
