@@ -10,11 +10,15 @@
       </p>
 
       <hr>
+      <h2>2025</h2>
+      <ul class="list-unstyled" style="margin-bottom: 32px;">
+        <li>🆕 <a target="_new" href="https://adobe.ly/3XphDgf">2025-01-25 - Trip to Walt Disney World Magic Kingdom</a></li>
+      </ul>
 
       <h2>2024</h2>
       <ul class="list-unstyled" style="margin-bottom: 32px;">
-        <li>🆕 <a target="_new" href="https://adobe.ly/4i00GAY">2024-12-23 - Christmas @ Jiji's House</a></li>
-        <li>🆕 <a target="_new" href="https://adobe.ly/3CUKn9F">2024-12-22 - Christmas Trip to Pana and Mom's Grave</a></li>
+        <li><a target="_new" href="https://adobe.ly/4i00GAY">2024-12-23 - Christmas @ Jiji's House</a></li>
+        <li><a target="_new" href="https://adobe.ly/3CUKn9F">2024-12-22 - Christmas Trip to Pana and Mom's Grave</a></li>
         <li><a target="_new" href="https://adobe.ly/4gEKiFn">2024-12-15 - Lydia's 6th Birthday Birthday</a></li>
         <li><a target="_new" href="https://adobe.ly/3ZxKn6A">2024-12-14 - Lydia's 6th Birthday Birthday Party</a></li>
         <li><a target="_new" href="https://adobe.ly/419fw1l">2024-11-28 - Thanksgiving and Christmas Decorating</a></li>
