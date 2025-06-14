@@ -17,7 +17,6 @@
         <ul class="list-unstyled">
           <li><strong>BLUESKY:</strong> <a rel="me" href="https://bsky.app/profile/bradsiefert.bsky.social">@bradsiefert.bsky.social</a></li>
           <li><strong>INSTAGRAM:</strong> <a target="_new" href="https://instagram.com/bradsiefert/">@bradsiefert</a></li>
-          <li><strong>THREADS:</strong> <a rel="me" href="https://www.threads.net/@bradsiefert">@bradsiefert</a></li>
         </ul>
       </div>
 

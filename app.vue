@@ -23,7 +23,6 @@
           <li><NuxtLink to="/places">Places</NuxtLink></li>
           <li><NuxtLink to="/instantfilm">Instant Film</NuxtLink></li>
           <li><NuxtLink to="/about">About</NuxtLink></li>
-          <a rel="me" href="https://mas.to/@bradsiefert">&nbsp;</a>
         </ul>
       </div>
       </div>
