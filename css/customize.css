@@ -1,19 +1,10 @@
 body {
-  color: #333;
   background-color: #fff;
   font-family: 'SFM';
-  color: #333333;
+  color: #121212;
   letter-spacing: -0.25px;
   line-height: 1.4em;
 }
-
-/* ---------- Personal --------- */
-.kill-row-padding { padding-left: 0; padding-right: 0; }
-.kill-row-margin { margin-left: 0; margin-right: 0; }
-@media (min-width: 481px) { .one-line { display: inline; } }
-.right-then-center { text-align: right;	}
-@media (max-width: 767px) {	.right-then-center { text-align: center; } }
-@media (max-width: 767px) {	.then-center { text-align: center; } }
 
 /* ---------- Links --------- */
 a 				{	color: #333; }
@@ -37,53 +28,66 @@ html, body, #__nuxt {
   height: 100%;
 }
 
-#centered {
-  position: relative;
-  clear: left;
-  max-height: 640px;
-  width: 100%;
-  max-width: 1200px;
-  padding: 0 20px;
-  margin: 0 auto;
+/* Modern Flexbox wrapper for vertical centering */
+#app-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
 }
 
-#floater {
-  position: relative;
-  float: left;
-  height: 50%;
-  margin-bottom: -320px;
-  width: 1px;
+#centered {
+  display: flex;
+  gap: 0;
+  width: 100%;
+  max-width: 1600px;
 }
 
 .sidebar-nav {
-  float: left;
-  width: 15.7894737%;
+  flex-shrink: 0;
+  width: 14%;
+  min-width: 180px;
+  max-width: 224px;
 }
 
 .portfolio {
-  float: left;
-  width: 84.2105263%;
+  flex: 1;
   padding: 0;
+  min-width: 0;
+  opacity: 1;
+  transition: opacity 0.6s ease-in;
+}
+
+.portfolio:has(.loading) {
+  opacity: 0;
 }
 
 .flexslider {
-  max-height: 640px;
-  overflow: hidden;
+  max-height: 90vh;
+  overflow: visible;
   background-color: transparent !important;
+}
+
+.flexslider .slides > li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .portfolio img {
   width: 100%;
+  height: auto;
+  object-fit: contain;
 }
 
 .content {
-  float: left;
-  width: 84.2105263%;
-  min-height: 640px;
+  flex: 1;
   padding: 48px;
   background-color: #f5f5f5;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
+  min-width: 0;
 }
 
 .content p {
@@ -119,8 +123,8 @@ h2, .h2 {
 .navbar-nav > li > a {
   border-radius: 0;
   border: none;
-  font-size: 14px;
-  line-height: 24px;
+  font-size: 16px;
+  line-height: 28px;
 }
 
 .navbar-default,
@@ -210,54 +214,42 @@ h2, .h2 {
 
 /* ---------- Media Query for 1024px and Below --------- */
 @media (max-width: 1024px) {
-  #floater {
-    margin-bottom: -290px;
-  }
+  /* No floater needed with modern flexbox */
 }
 
 /* ---------- Media Query for 1023px and Below --------- */
 
 @media (max-width: 1023px) {
 
-  /* Kills the Styles to Center and Vertically Align Sidebar/Portfolio */
+  /* Mobile layout adjustments */
+  #app-wrapper {
+    display: block;
+    padding: 0;
+    min-height: auto;
+  }
+
   #centered {
-    position: static;
-    clear: none;
+    display: block;
     max-height: none;
     width: auto;
     max-width: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  #floater {
-    position: static;
-    float: none;
-    height: auto;
-    margin-bottom: 0;
-    width: 0;
   }
 
   .sidebar-nav {
-    float: none;
     width: auto;
   }
 
   .portfolio {
-    float: none;
     width: auto;
+    max-width: none;
     padding: 0;
-    float: none;
-  }
-
-  .portfolio {
     display: none; /* Kills the Desktop Portfolio */
   }
 
   .content {
-    float: none;
     margin: 0 auto 24px;
     width: 95%;
+    max-width: none;
     min-height: 0;
     padding: 32px;
     font-size: 15px;
@@ -353,9 +345,9 @@ h2, .h2 {
   }
 
   .content {
-    float: none;
     margin: 0 auto 32px;
     width: 100%;
+    max-width: none;
     min-height: 0;
     padding: 48px 16px;
   }
@@ -476,14 +468,8 @@ textarea.form-control.input-sm {
     border-radius: 24px;
   }
 
-  .badge {
-    background-color: #fff !important;
-    color: #121212 !important;
-  }
-
   .content {
-    border: 1px solid #121212 !important;
-    background-color: #1b1b1b !important;
+    background-color: #191B22 !important;
   }
 
   .navbar-default .navbar-toggle .icon-bar {

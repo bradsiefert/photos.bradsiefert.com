@@ -40,9 +40,22 @@ html[xmlns] .slides {display: block;}
 /* FlexSlider Default Theme
 *********************************/
 .flexslider { margin: 0; background: transparent; position: relative; }
-.flex-viewport { max-height: 2000px; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; -o-transition: all 1s ease; transition: all 1s ease; }
-.loading .flex-viewport { }
-.loading:after  { content: 'Loading...'; min-height: 640px; display: block; margin: 280px 0 0; text-align: center; color: #333; font-size: 1em; }
+@media (min-width: 1024px) {
+  .flexslider.loading, .content { min-height: 918.05px; }
+}
+.flex-viewport { opacity: 1; -webkit-transition: opacity 0.6s ease-in; -moz-transition: opacity 0.6s ease-in; -o-transition: opacity 0.6s ease-in; transition: opacity 0.6s ease-in; }
+.loading .flex-viewport { opacity: 0; }
+.loading:after  { 
+  content: 'Loading...'; 
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center; 
+  color: #333; 
+  font-size: 1em;
+  pointer-events: none;
+}
 .flexslider .slides { zoom: 1; }
 
 /* Direction Nav */
