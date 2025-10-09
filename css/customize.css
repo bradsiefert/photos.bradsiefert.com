@@ -1,20 +1,75 @@
+:root {
+  --primitive-gray-100: #f7f7f7;
+  --primitive-gray-200: #edeeef;
+  --primitive-gray-300: #d5d7db;
+  --primitive-gray-400: #b7bcc3;
+  --primitive-gray-500: #818791;
+  --primitive-gray-600: #6b7280;
+  --primitive-gray-700: #4f5562;
+  --primitive-gray-800: #343944;
+  --primitive-gray-900: #242831;
+  --primitive-gray-1000: #191b22;
+  --primitive-gray-black: #121212;
+  --primitive-gray-white: #ffffff;
+  --primitive-yellow-100: #fdfdd4;
+  --primitive-yellow-200: #f8f990;
+  --primitive-yellow-300: #efe85c;
+  --primitive-yellow-400: #dbd22d;
+  --primitive-yellow-500: #bfb81f;
+  --primitive-yellow-600: #a3a014;
+  --primitive-yellow-700: #817e0f;
+  --primitive-yellow-800: #66630a;
+  --primitive-yellow-900: #4a4706;
+  --primitive-yellow-1000: #302d03;
+  --color-neutral-100: var(--primitive-gray-100);
+  --color-neutral-200: var(--primitive-gray-200);
+  --color-neutral-300: var(--primitive-gray-300);
+  --color-neutral-400: var(--primitive-gray-400);
+  --color-neutral-500: var(--primitive-gray-500);
+  --color-neutral-600: var(--primitive-gray-600);
+  --color-neutral-700: var(--primitive-gray-700);
+  --color-neutral-800: var(--primitive-gray-800);
+  --color-neutral-900: var(--primitive-gray-900);
+  --color-neutral-1000: var(--primitive-gray-1000);
+  --color-neutral-darkest: var(--primitive-gray-black);
+  --color-neutral-lightest: var(--primitive-gray-white);
+  --color-neutral-100-alpha: rgba(56, 56, 56, 0.04);
+  --color-neutral-200-alpha: rgba(31, 44, 56, 0.08);
+  --color-neutral-300-alpha: rgba(8, 20, 43, 0.17);
+  --color-neutral-400-alpha: rgba(7, 25, 49, 0.29);
+  --color-neutral-500-alpha: rgba(2, 17, 44, 0.45);
+  --color-neutral-600-alpha: rgba(4, 17, 42, 0.59);
+  --color-neutral-700-alpha: rgba(4, 12, 32, 0.7);
+  --color-neutral-800-alpha: rgba(1, 7, 19, 0.8);
+  --color-neutral-900-alpha: rgba(0, 5, 15, 0.86);
+  --color-neutral-1000-alpha: rgba(2, 4, 13, 0.91);
+  --color-highlight-100: var(--primitive-yellow-100);
+  --color-highlight-200: var(--primitive-yellow-200);
+  --color-highlight-300: var(--primitive-yellow-300);
+  --color-highlight-400: var(--primitive-yellow-400);
+  --color-highlight-500: var(--primitive-yellow-500);
+  --color-highlight-600: var(--primitive-yellow-600);
+  --color-highlight-700: var(--primitive-yellow-700);
+  --color-highlight-800: var(--primitive-yellow-800);
+  --color-highlight-900: var(--primitive-yellow-900);
+  --color-highlight-1000: var(--primitive-yellow-1000);
+}
+
 body {
-  background-color: #fff;
+  background-color: var(--color-neutral-lightest);
   font-family: 'SFM';
-  color: #121212;
+  font-weight: 400;
+  color: var(--color-neutral-darkest);
   letter-spacing: -0.25px;
   line-height: 1.4em;
 }
 
 /* ---------- Links --------- */
-a 				{	color: #333; }
-a:active 	{	color: #333; position: relative; top: 2px; }
-a:hover 	{	color: #333; text-decoration: none;
-  -webkit-transition: text-shadow .5s ease-out, background .5s ease-out;
-  -moz-transition: text-shadow .5s ease-out, background .5s ease-out;
-  -o-transition: text-shadow .5s ease-out, background .5s ease-out;
+a 				{	color: var(--color-neutral-800); }
+a:active 	{	color: var(--color-neutral-800); position: relative; top: 2px; }
+a:hover 	{	color: var(--color-neutral-800); text-decoration: none;
   transition: text-shadow .5s ease-out, background .5s ease-out;
-  text-shadow: #ff0 0 0 5px;
+  text-shadow: var(--color-highlight-300) 0 0 6px;
 }
 
 .content a {
@@ -47,7 +102,7 @@ html, body, #__nuxt {
 .sidebar-nav {
   flex-shrink: 0;
   width: 14%;
-  min-width: 180px;
+  min-width: 176px;
   max-width: 224px;
 }
 
@@ -64,7 +119,7 @@ html, body, #__nuxt {
 }
 
 .flexslider {
-  max-height: 90vh;
+  max-height: 80vh;
   overflow: visible;
   background-color: transparent !important;
 }
@@ -84,7 +139,7 @@ html, body, #__nuxt {
 .content {
   flex: 1;
   padding: 64px;
-  background-color: #f5f5f5;
+  background-color: var(--color-neutral-100);
   font-size: 18px;
   line-height: 1.5;
   min-width: 0;
@@ -134,8 +189,8 @@ h2, .h2 {
 }
 
 .sidebar-nav .navbar li a.router-link-active.active {
-  color: #fff !important;
-  background-color: #333 !important;
+  color: var(--color-neutral-lightest) !important;
+  background-color: var(--color-neutral-800) !important;
   padding-left: 12px;
   padding-right: 12px;
   display: inline-block;
@@ -164,7 +219,7 @@ h2, .h2 {
 .badge {
   font-size: 12px;
   margin-left: 2px;
-  background-color: #333;
+  background-color: var(--color-neutral-800);
   padding: 3px 7px 4px;
 }
 
@@ -210,11 +265,6 @@ h2, .h2 {
   .navbar-brand img {
     margin: 4px auto 12px;
   }
-}
-
-/* ---------- Media Query for 1024px and Below --------- */
-@media (max-width: 1024px) {
-  /* No floater needed with modern flexbox */
 }
 
 /* ---------- Media Query for 1023px and Below --------- */
@@ -281,7 +331,7 @@ h2, .h2 {
     left: 0;
     top: 0;
     z-index: 1030;
-    background-color: rgba(255, 255, 255, .9);
+    background-color: var(--color-neutral-200-alpha);
     padding: 0 24px;
   }
 
@@ -301,6 +351,7 @@ h2, .h2 {
     float: none;
     text-align: left;
     padding: 35px 10px 0 0;
+    font-weight: 700 !important;
   }
 
   .navbar-brand img {
@@ -390,7 +441,7 @@ h2, .h2 {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #333;
+  background-color: var(--color-neutral-800);
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -405,78 +456,34 @@ h2, .h2 {
   border-radius: 0;
 }
 
-/* ---------- Forms --------- */
-
-.form-control {
-  height: 40px;
-  font-size: 14px;
-  margin-bottom: 16px;
-  border-radius: 4px;
-  padding-left: 12px;
-  padding-right: 12px;
-  border: 1px solid #ddd;
-}
-
-.form-control.input-sm {
-  height: 32px;
-  font-size: 12px;
-}
-
-.form-control.input-sm {
-  height: auto;
-}
-
-textarea.form-control.input-sm {
-  padding-top: 8px;
-}
-
-.form-control:focus {
-  border-color: #aeab00;
-  box-shadow: inset 0 1px 1px rgb(225 0 0 / 8%), 0 0 8px rgb(225 225 0 / 64%)
-}
-
-/* ---------- Buttons --------- */
-.btn {
-  letter-spacing: -0.25px;
-}
-
-.btn-rounded {
-  border-radius: 4px;
-}
-
-.btn-default {
-  padding: 5px 16px;
-  font-weight: 700;
-}
-
 /* ---------- Dark Mode --------- */
 
 @media (prefers-color-scheme: dark) {
   body {
-    color: #fff;
-    background-color: #121212;
+    color: var(--color-neutral-lightest);
+    background-color: var(--color-neutral-darkest);
   }
 
   a {
-    color: #fff !important;
+    color: var(--color-neutral-lightest) !important;
   }
 
   .sidebar-nav .navbar li a.router-link-active.active {
-    color: #121212 !important;
-    background-color: #fff !important;
+    color: var(--color-neutral-darkest) !important;
+    background-color: var(--color-neutral-lightest) !important;
   }
 
   .content {
-    background-color: #191B22 !important;
+    background-color: var(--color-neutral-1000) !important;
   }
 
   .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff !important;
+    background-color: var(--color-neutral-lightest) !important;
   }
 }
 
 @media (max-width: 1023px) and (prefers-color-scheme: dark) {
   .navbar {
-    background-color: rgba(0, 0, 0, 0.88) !important;
+    background-color: var(--color-neutral-900-alpha) !important;
   }
 }
