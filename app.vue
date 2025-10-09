@@ -10,9 +10,9 @@
             <span class="icon-bar"></span>
           </button>
           <div class="navbar-brand">
-            <a href="/">
+            <NuxtLink to="/">
               <img src="@/images/logo-icon.svg" alt="Brad Siefert Logo"/>Brad Siefert Photography
-            </a>
+            </NuxtLink>
           </div>
         </div>
 
