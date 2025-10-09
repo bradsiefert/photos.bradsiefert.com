@@ -83,7 +83,7 @@ html, body, #__nuxt {
 
 .content {
   flex: 1;
-  padding: 48px;
+  padding: 64px;
   background-color: #f5f5f5;
   font-size: 18px;
   line-height: 1.5;
@@ -139,7 +139,7 @@ h2, .h2 {
   padding-left: 12px;
   padding-right: 12px;
   display: inline-block;
-  border-radius: 24px;
+  border-radius: 6px;
   line-height: 24px;
 }
 
@@ -464,8 +464,6 @@ textarea.form-control.input-sm {
   .sidebar-nav .navbar li a.router-link-active.active {
     color: #121212 !important;
     background-color: #fff !important;
-    display: inline-block;
-    border-radius: 24px;
   }
 
   .content {
