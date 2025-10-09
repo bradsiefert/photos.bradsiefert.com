@@ -5,7 +5,7 @@
         <h1>About</h1>
         <h2>Bio</h2>
         <p style="margin-bottom: 32px;">
-          Hello 👋, I'm a Chicago-based photographer and <a target="_new" href="https://bradsiefert.com">UI/UX Designer</a>. I'm experienced in portraits, landscapes, travel, and long-exposure photography. I shoot instant film to keep analog alive.
+          Hello 👋, I'm a Chicago-based photographer and <a target="_new" href="https://bradsiefert.com">Product Designer</a>. I'm experienced in portraits, landscapes, travel, and long-exposure photography. I shoot instant film to keep analog alive.
         </p>
 
         <h2>Contributed to</h2>
@@ -15,7 +15,7 @@
 
         <h2>Get In Touch</h2>
         <ul class="list-unstyled">
-          <li><strong>BLUESKY:</strong> <a rel="me" href="https://bsky.app/profile/bradsiefert.bsky.social">@bradsiefert.bsky.social</a></li>
+          <li><strong>BLUESKY:</strong> <a rel="me" href="https://bsky.app/profile/bradsiefert.bsky.social">@bradsiefert</a></li>
           <li><strong>INSTAGRAM:</strong> <a target="_new" href="https://instagram.com/bradsiefert/">@bradsiefert</a></li>
         </ul>
       </div>
