@@ -15,8 +15,7 @@ export default defineNuxtConfig({
       script: [
        { src: 'jquery-1.11.1.min.js', tagPosition: 'bodyClose' },
        { src: 'bootstrap.min.js', tagPosition: 'bodyClose' },
-       { src: 'jquery.flexslider.js', tagPosition: 'bodyClose' },
-       { src: 'loading.js', tagPosition: 'bodyClose' }
+       { src: 'jquery.flexslider.js', tagPosition: 'bodyClose' }
       ]
     }
   },
