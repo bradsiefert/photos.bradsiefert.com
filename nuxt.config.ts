@@ -9,6 +9,7 @@ export default defineNuxtConfig({
       viewport: 'width=device-width, initial-scale=1',
       title: 'Brad Siefert / Photography',
       meta: [
+        { name: 'description', content: "I'm a Chicago-based photographer and Product Designer experienced in portraits, landscapes, travel, long-exposure, and instant film photography." },
         { property: "og:image", content: 'https://photos.bradsiefert.com/sharing-tile.jpg' },
       ],
       script: [
@@ -32,5 +33,31 @@ export default defineNuxtConfig({
     '@/css/flexslider.css'
   ],
 
-  compatibilityDate: '2024-12-24'
+  // Enable SSR for static site generation
+  ssr: true,
+
+  // Performance optimizations
+  nitro: {
+    compressPublicAssets: true, // Compress static assets with gzip/brotli
+  },
+
+  experimental: {
+    payloadExtraction: false, // Disable for better performance on mostly static sites
+  },
+
+  // Build optimizations
+  vite: {
+    build: {
+      cssMinify: 'esbuild',
+      rollupOptions: {
+        output: {
+          manualChunks: {
+            'jquery': ['jquery'],
+          }
+        }
+      }
+    }
+  },
+
+  compatibilityDate: '2025-10-09'
 })
