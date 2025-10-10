@@ -40,9 +40,6 @@ html[xmlns] .slides {display: block;}
 /* FlexSlider Default Theme
 *********************************/
 .flexslider { margin: 0; background: transparent; position: relative; }
-@media (min-width: 1024px) {
-  .flexslider.loading, .content { min-height: 918.05px; }
-}
 
 .flex-viewport { opacity: 1; transition: opacity 0.5s ease-in; border-radius: 12px; }
 .loading .flex-viewport { opacity: 0; }
