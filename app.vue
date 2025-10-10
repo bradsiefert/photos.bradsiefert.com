@@ -11,7 +11,7 @@
           </button>
           <div class="navbar-brand">
             <NuxtLink to="/">
-              <img src="@/images/logo-icon.svg" alt="Brad Siefert Logo"/>Brad Siefert Photography
+              <img src="@/images/logo-icon.svg" alt="Brad Siefert Logo"/>Brad Siefert / Photo<span class="hidden-xs">graphy</span>
             </NuxtLink>
           </div>
         </div>
@@ -23,6 +23,7 @@
             <li><NuxtLink to="/places">Places</NuxtLink></li>
             <li><NuxtLink to="/instantfilm">Instant Film</NuxtLink></li>
             <li><NuxtLink to="/about">About</NuxtLink></li>
+            <li><darkmode /></li>
           </ul>
         </div>
         </div>

@@ -9,7 +9,6 @@ export default defineNuxtConfig({
       viewport: 'width=device-width, initial-scale=1',
       title: 'Brad Siefert / Photography',
       meta: [
-        { name: 'description', content: "I'm a Chicago-based photographer and UI/UX Designer experienced in portraits, landscapes, travel, long-exposure, and instant film photography." },
         { property: "og:image", content: 'https://photos.bradsiefert.com/sharing-tile.jpg' },
       ],
       script: [
