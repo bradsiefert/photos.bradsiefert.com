@@ -37,27 +37,27 @@ export default defineNuxtConfig({
   ssr: true,
 
   // Performance optimizations
-  nitro: {
-    compressPublicAssets: true, // Compress static assets with gzip/brotli
-  },
+  // nitro: {
+  //   compressPublicAssets: true, // Compress static assets with gzip/brotli
+  // },
 
-  experimental: {
-    payloadExtraction: false, // Disable for better performance on mostly static sites
-  },
+  // experimental: {
+  //   payloadExtraction: false, // Disable for better performance on mostly static sites
+  // },
 
   // Build optimizations
-  vite: {
-    build: {
-      cssMinify: 'esbuild',
-      rollupOptions: {
-        output: {
-          manualChunks: {
-            'jquery': ['jquery'],
-          }
-        }
-      }
-    }
-  },
+  // vite: {
+  //   build: {
+  //     cssMinify: 'esbuild',
+  //     rollupOptions: {
+  //       output: {
+  //         manualChunks: {
+  //           'jquery': ['jquery'],
+  //         }
+  //       }
+  //     }
+  //   }
+  // },
 
   compatibilityDate: '2025-10-09'
 })
