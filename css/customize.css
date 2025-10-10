@@ -101,8 +101,7 @@ html, body, #__nuxt {
 
 .sidebar-nav {
   flex-shrink: 0;
-  width: 14%;
-  min-width: 176px;
+  min-width: 192px;
   max-width: 224px;
 }
 
@@ -139,10 +138,10 @@ html, body, #__nuxt {
 .content {
   flex: 1;
   padding: 64px;
-  background-color: var(--color-neutral-100);
+  background-color: var(--color-neutral-200);
   font-size: 18px;
   line-height: 1.5;
-  min-width: 0;
+  border-radius: 12px;
 }
 
 .content p {
@@ -206,7 +205,7 @@ h2, .h2 {
 .navbar-brand {
   letter-spacing: 0.2px;
   text-transform: uppercase;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 700;
   letter-spacing: 0.5px;
   line-height: 1.25;
@@ -331,7 +330,7 @@ h2, .h2 {
     left: 0;
     top: 0;
     z-index: 1030;
-    background-color: var(--color-neutral-200-alpha);
+    background-color: var(--color-neutral-lightest);
     padding: 0 24px;
   }
 
@@ -458,11 +457,9 @@ h2, .h2 {
 
 /* ---------- Dark Mode --------- */
 
-@media (prefers-color-scheme: dark) {
-  body {
-    color: var(--color-neutral-lightest);
-    background-color: var(--color-neutral-darkest);
-  }
+body[dark-mode] {
+  color: var(--color-neutral-lightest) !important;
+  background-color: var(--color-neutral-darkest) !important;
 
   a {
     color: var(--color-neutral-lightest) !important;
@@ -480,10 +477,10 @@ h2, .h2 {
   .navbar-default .navbar-toggle .icon-bar {
     background-color: var(--color-neutral-lightest) !important;
   }
-}
 
-@media (max-width: 1023px) and (prefers-color-scheme: dark) {
-  .navbar {
-    background-color: var(--color-neutral-900-alpha) !important;
+  @media (max-width: 1023px) {
+    .navbar {
+      background-color: var(--color-neutral-900-alpha) !important;
+    }
   }
 }

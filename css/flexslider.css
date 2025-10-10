@@ -43,7 +43,8 @@ html[xmlns] .slides {display: block;}
 @media (min-width: 1024px) {
   .flexslider.loading, .content { min-height: 918.05px; }
 }
-.flex-viewport { opacity: 1; transition: opacity 0.5s ease-in; }
+
+.flex-viewport { opacity: 1; transition: opacity 0.5s ease-in; border-radius: 12px; }
 .loading .flex-viewport { opacity: 0; }
 .loading:after  { 
   content: 'Loading...'; 
@@ -83,8 +84,8 @@ html[xmlns] .slides {display: block;}
   background-position: center;
   font-size: 0px;
   padding: 24px;
-  /*border-radius: 24px;
-  background-color: rgba(12,12,12,0.24);*/
+  /* border-radius: 24px;
+  background-color: var(--color-neutral-500-alpha); */
 }
 
 .flex-direction-nav .flex-next {
@@ -94,8 +95,8 @@ html[xmlns] .slides {display: block;}
   background-position: center;
   font-size: 0px;
   padding: 24px;
-  /*border-radius: 24px;
-  background-color: rgba(12,12,12,0.24);*/
+  /* border-radius: 24px;
+  background-color: var(--color-neutral-500-alpha); */
 }
 
 /* Dark Mode */
