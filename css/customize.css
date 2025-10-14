@@ -89,15 +89,41 @@ html, body, #__nuxt {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  padding: 20px;
+  padding: 8px;
 }
 
 #centered {
   display: flex;
   gap: 0;
   width: 100%;
-  max-width: 1600px;
-  min-height: 918.05px;
+}
+
+@media (min-width: 1024px) {
+  #centered {
+    max-width: 1200px;
+    min-height: 651.68px;
+  }
+}
+
+@media (min-width: 1440px) {
+  #centered {
+    max-width: 1280px;
+    min-height: 720.22px;
+  }
+}
+
+@media (min-width: 1600px) {
+  #centered {
+    max-width: 1440px;
+    min-height: 811.93px;
+  }
+}
+
+@media (min-width: 1920px) {
+  #centered {
+    max-width: 1600px;
+    min-height: 918.77px;
+  }
 }
 
 .sidebar-nav {
@@ -400,7 +426,7 @@ h2, .h2 {
     width: 100%;
     max-width: none;
     min-height: 0;
-    padding: 48px 16px;
+    padding: 48px 24px;
   }
 
   .navbar-nav > li > a {
