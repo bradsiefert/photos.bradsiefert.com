@@ -12,9 +12,10 @@
       <hr>
       <h2>2025</h2>
       <ul class="list-unstyled" style="margin-bottom: 32px;">
-        <li>🆕 <a target="_new" href="https://adobe.ly/4ks7sjX">2025-05-18 - Trip to Jackson, WY (TEASER)</a></li>
-        <li>🆕 <a target="_new" href="https://adobe.ly/3F5A8AA">2025-05-11 - Mother's Day '25</a></li>
-        <li>🆕 <a target="_new" href="https://adobe.ly/44z2jCi">2025-04-20 - Easter '25</a></li>
+        <li>🆕 <a target="_new" href="https://adobe.ly/47jy5Tu">2025-10-17 - Picture Day Practice</a></li>
+        <li><a target="_new" href="https://adobe.ly/4ks7sjX">2025-05-18 - Trip to Jackson, WY (TEASER)</a></li>
+        <li><a target="_new" href="https://adobe.ly/3F5A8AA">2025-05-11 - Mother's Day '25</a></li>
+        <li><a target="_new" href="https://adobe.ly/44z2jCi">2025-04-20 - Easter '25</a></li>
         <li><a target="_new" href="https://adobe.ly/3XphDgf">2025-01-25 - Trip to Walt Disney World Magic Kingdom</a></li>
       </ul>
 
