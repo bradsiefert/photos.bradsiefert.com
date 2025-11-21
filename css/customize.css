@@ -407,7 +407,6 @@ h2, .h2 {
     left: 0;
     top: 0;
     z-index: 1030;
-    /* background-color: rgba(255, 255, 255, 0.8); */
     background-color: rgba(247, 247, 247, 0.8);
     border-bottom: 1px solid var(--color-neutral-200);
     backdrop-filter: blur(4px);
@@ -562,6 +561,7 @@ body[dark-mode] {
     .navbar {
       background-color: rgba(25, 27, 34, 0.92) !important;
       backdrop-filter: blur(4px);
+      border-bottom: 1px solid var(--color-neutral-900);
     }
 
     .content {
