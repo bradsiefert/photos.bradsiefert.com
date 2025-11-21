@@ -1,0 +1,7 @@
+<template>
+  <div class="content">
+    <h1>The 10th Wolfpack Retreat</h1>
+    <p>Coming soon...</p>
+  </div>
+</template>
+
