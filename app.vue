@@ -1,5 +1,5 @@
 <template>
-  <div id="app-wrapper">
+  <div id="app-wrapper" :class="{ 'sticky-nav-wrapper': isStickyPage }">
     <div id="centered">
       <div class="sidebar-nav">
         <div class="navbar navbar-default" role="navigation">
@@ -22,6 +22,7 @@
             <li><NuxtLink to="/">People</NuxtLink></li>
             <li><NuxtLink to="/places">Places</NuxtLink></li>
             <li><NuxtLink to="/instantfilm">Instant Film</NuxtLink></li>
+            <li><NuxtLink to="/journal">Journal</NuxtLink></li>
             <li><NuxtLink to="/about">About</NuxtLink></li>
             <li><darkmode /></li>
           </ul>
@@ -34,3 +35,13 @@
     </div><!-- /centered -->
   </div><!-- /app-wrapper -->
 </template>
+
+<script>
+export default {
+  computed: {
+    isStickyPage() {
+      return this.$route.path.startsWith('/journal') || this.$route.path.startsWith('/familyandfriends')
+    }
+  }
+}
+</script>

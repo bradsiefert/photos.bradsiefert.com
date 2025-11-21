@@ -1,5 +1,5 @@
 <template>
-  <div class="content">
+  <div class="content page-fade">
     <div class="row">
       <div class="col-md-7">
         <h1>About</h1>
