@@ -139,8 +139,7 @@ html, body, #__nuxt {
   align-self: flex-start;
   max-height: 100vh;
   overflow-y: auto;
-  /* margin-top: 80px;
-  padding-top: 32px; */
+  margin-top: 32px;
   z-index: 10;
   background-color: var(--color-neutral-lightest);
 }
@@ -221,7 +220,7 @@ html, body, #__nuxt {
 
 @media (min-width: 1024px) {
   .friendsandfamily {
-    margin-top: 128px;
+    margin-top: 32px;
   }
 }
 
@@ -238,15 +237,14 @@ h1, .h1 {
   font-size: 28px;
   margin: 0 0 24px;
   font-weight: 700;
-  /* text-transform: uppercase; */
-  letter-spacing: 1.5px;
+  letter-spacing: -0.02px;
 }
 
 h2, .h2 {
   font-size: 18px;
   margin: 8px 0;
   font-weight: 700;
-  /* text-transform: uppercase; */
+  text-transform: uppercase;
   letter-spacing: 1px;
 }
 

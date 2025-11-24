@@ -5,7 +5,7 @@
         <h1>About</h1>
         <h2>Bio</h2>
         <p style="margin-bottom: 32px;">
-          Hello 👋, I'm a Chicago-based photographer and <a target="_new" href="https://bradsiefert.com">Product Designer</a>. I'm experienced shooting portraits, landscapes, travel, and long-exposure photography. I shoot instant film to keep analog alive. My headshot was taken by my daughter on her first day of kintergarten (I had to straighten the photo in post, a lot 😅).
+          Hello 👋, I'm a Chicago-based photographer and <a target="_new" href="https://bradsiefert.com">Product Designer ↗</a>. I'm experienced shooting portraits, landscapes, travel, and long-exposure photography. I shoot instant film to keep analog alive. My headshot was taken by my daughter on her first day of kintergarten (I had to straighten the photo in post, a lot 😅).
         </p>
 
         <h2>Contributed to</h2>
