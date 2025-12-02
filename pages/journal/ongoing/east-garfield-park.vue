@@ -1,6 +1,6 @@
 <template>
   <div class="content">
-    <h1>Winter City</h1>
+    <h1>East Garfield Park</h1>
     <p>Coming soon...</p>
   </div>
 </template>
