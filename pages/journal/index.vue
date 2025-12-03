@@ -6,7 +6,7 @@
     </div>
 
     <!-- Ongoing Section -->
-    <div class="journal-section" style="margin-top: 16px;">
+    <!-- <div class="journal-section" style="margin-top: 16px;">
       <div class="section-divider">
         <span class="section-label">Ongoing</span>
         <div class="divider-line"></div>
@@ -40,7 +40,7 @@
           </NuxtLink>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <!-- 2025 Section -->
     <div class="journal-section" style="margin-top: 16px;">
@@ -54,7 +54,7 @@
             <div class="journal-image-wrapper">
               <img src="@/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Grand Teton" class="journal-image" />
               <div class="image-scrim"></div>
-              <div class="image-title">Grand Teton</div>
+              <div class="image-title">Grand Teton National Park</div>
             </div>
           </NuxtLink>
         </div>
@@ -80,9 +80,9 @@
         <div class="journal-card">
           <NuxtLink to="/journal/2024/nye-24" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/places/places-nyetriptothestunkelfarm.jpg" alt="NYE 24" class="journal-image" />
+              <img src="@/portfolio/places/places-nyetriptothestunkelfarm.jpg" alt="NYE '24" class="journal-image" />
               <div class="image-scrim"></div>
-              <div class="image-title">NYE 24</div>
+              <div class="image-title">NYE '24</div>
             </div>
           </NuxtLink>
         </div>
@@ -309,13 +309,13 @@
 }
 
 .journal-card:hover .journal-image {
-  filter: brightness(0.64);
+  filter: brightness(0.48);
   opacity: 1;
 }
 
-.journal-card:hover .journal-image-wrapper {
+/* .journal-card:hover .journal-image-wrapper {
   box-shadow: 0 0 20px 4px var(--color-highlight-300);
-}
+} */
 
 .image-scrim {
   position: absolute;
