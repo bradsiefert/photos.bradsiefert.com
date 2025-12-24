@@ -1,5 +1,5 @@
 <template>
-  <div class="content friendsandfamily">
+  <div class="content friendsandfamily page-fade">
     <div class="col">
       <h1>Family &amp; Friends</h1>
       <p>

@@ -53,6 +53,10 @@
   --color-highlight-800: var(--primitive-yellow-800);
   --color-highlight-900: var(--primitive-yellow-900);
   --color-highlight-1000: var(--primitive-yellow-1000);
+  
+  /* Divider pattern - consistent dashed line */
+  --divider-pattern-light: repeating-linear-gradient(90deg, var(--color-neutral-500), var(--color-neutral-500) 6px, transparent 6px, transparent 12px);
+  --divider-pattern-dark: repeating-linear-gradient(90deg, var(--color-neutral-800), var(--color-neutral-800) 6px, transparent 6px, transparent 12px);
 }
 
 body {
@@ -132,6 +136,28 @@ html, body, #__nuxt {
   max-width: 224px;
 }
 
+/* Sticky navigation for sticky pages only */
+.sticky-nav-wrapper .sidebar-nav {
+  position: sticky;
+  top: 0;
+  align-self: flex-start;
+  max-height: 100vh;
+  overflow-y: auto;
+  margin-top: 32px;
+  z-index: 10;
+  background-color: var(--color-neutral-lightest);
+}
+
+@media (max-width: 1023px) {
+  .sticky-nav-wrapper .sidebar-nav {
+    padding-top: 0;
+  }
+}
+
+.sticky-nav-wrapper #centered {
+  align-items: flex-start;
+}
+
 .portfolio {
   flex: 1;
   padding: 0;
@@ -171,8 +197,35 @@ html, body, #__nuxt {
   border-radius: 12px;
 }
 
+@media (max-width: 1023px) {
+  .content {
+    background-color: var(--color-neutral-lightest) !important;
+    border-radius: 0 !important;
+  }
+}
+
+.page-fade {
+  opacity: 0;
+  animation: fadeIn 0.6s ease-in forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 .content p {
   margin-bottom: 24px;
+} 
+
+@media (min-width: 1024px) {
+  .friendsandfamily {
+    margin-top: 32px;
+  }
 }
 
 .friendsandfamily .list-unstyled li {
@@ -188,8 +241,7 @@ h1, .h1 {
   font-size: 28px;
   margin: 0 0 24px;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 1.5px;
+  letter-spacing: -0.02px;
 }
 
 h2, .h2 {
@@ -198,6 +250,13 @@ h2, .h2 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
+}
+
+.divider-line {
+  flex: 1;
+  min-width: 0;
+  height: 1px;
+  background: var(--divider-pattern-light);
 }
 
 /* ---------- Navbar --------- */
@@ -357,7 +416,9 @@ h2, .h2 {
     left: 0;
     top: 0;
     z-index: 1030;
-    background-color: var(--color-neutral-lightest);
+    background-color: rgba(247, 247, 247, 0.8);
+    border-bottom: 1px solid var(--color-neutral-200);
+    backdrop-filter: blur(4px);
     padding: 0 24px;
   }
 
@@ -507,7 +568,41 @@ body[dark-mode] {
 
   @media (max-width: 1023px) {
     .navbar {
-      background-color: var(--color-neutral-900-alpha) !important;
+      background-color: rgba(25, 27, 34, 0.92) !important;
+      backdrop-filter: blur(4px);
+      border-bottom: 1px solid var(--color-neutral-900);
     }
+
+    .content {
+      background-color: var(--color-neutral-darkest) !important;
+      border-radius: 0 !important;
+    }
+  }
+
+  /* Sticky nav dark mode background */
+  .sticky-nav-wrapper .sidebar-nav {
+    background-color: var(--color-neutral-darkest) !important;
+  }
+
+  /* Journal page dark mode styles */
+  .journal-page {
+    background-color: var(--color-neutral-darkest) !important;
+    color: var(--color-neutral-lightest) !important;
+  }
+
+  .journal-subtitle {
+    color: var(--color-neutral-lightest) !important;
+  }
+
+  .section-label {
+    color: var(--color-neutral-lightest) !important;
+  }
+
+  .divider-line {
+    background: var(--divider-pattern-dark) !important;
+  }
+  
+  .text-divider {
+    background: var(--divider-pattern-dark) !important;
   }
 }
