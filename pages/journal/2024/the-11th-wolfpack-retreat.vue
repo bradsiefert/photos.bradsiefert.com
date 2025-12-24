@@ -5,3 +5,9 @@
   </div>
 </template>
 
+<script setup>
+definePageMeta({
+  layout: 'journal-detail'
+})
+</script>
+
