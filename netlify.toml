@@ -1,6 +1,6 @@
 [build]
   command = "npm run generate"
-  publish = ".output/public"
+  publish = "dist"
 
 [build.environment]
   # Use Netlify Image CDN provider for production builds
