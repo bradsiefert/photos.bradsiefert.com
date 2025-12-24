@@ -19,27 +19,29 @@ export default defineNuxtConfig({
       ]
     }
   },
-
   router: {
     options: {
       linkExactActiveClass: 'active',
     }
   },
-
   css: [
     '@/css/fontfaces.css',
     '@/css/bootstrap.css',
     '@/css/customize.css',
     '@/css/flexslider.css'
   ],
-
+  modules: [
+    '@nuxt/image'
+  ],
+  image: {
+    quality: 81,
+    format: ['avif', 'webp'],
+    // Provider is set via NUXT_IMAGE_PROVIDER environment variable
+    // Defaults to 'ipx' for local dev, 'netlify' for Netlify builds (set in netlify.toml)
+    // @ts-ignore - process.env is available at build time
+    provider: process.env.NUXT_IMAGE_PROVIDER || 'ipx'
+  },
   // Enable SSR for static site generation
   ssr: true,
-
-  // Performance optimizations
-  // nitro: {
-  //   compressPublicAssets: true, // Compress static assets with gzip/brotli
-  // },
-
   compatibilityDate: '2025-10-09'
 })
