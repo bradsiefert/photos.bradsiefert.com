@@ -1,7 +1,7 @@
 <template>
   <div id="journal-detail-wrapper">
     <div id="journal-detail-centered">
-      <JournalDetailNavbar />
+      <JournalNavbar />
       <div class="journal-detail-page">
         <div class="nav-divider">
           <div class="divider-line"></div>
@@ -13,9 +13,6 @@
     </div>
   </div>
 </template>
-
-<script setup>
-</script>
 
 <style>
 #journal-detail-wrapper {
@@ -342,34 +339,6 @@ body[dark-mode] .journal-detail-page {
   height: 24px;
 }
 
-/* .journal-detail-page .nav-divider .divider-line {
-  flex: 1;
-  min-width: 0;
-  height: 1px;
-  background-image: var(--divider-pattern-light);
-  background-repeat: repeat-x;
-  background-size: auto;
-}
-
-body[dark-mode] .journal-detail-page .nav-divider .divider-line {
-  background-image: var(--divider-pattern-dark);
-}
-
-.journal-detail-page .nav-divider .divider-label {
-  font-family: 'SFM';
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 28px;
-  text-align: center;
-  letter-spacing: -0.25px;
-  color: var(--color-neutral-darkest);
-  white-space: nowrap;
-}
-
-body[dark-mode] .journal-detail-page .nav-divider .divider-label {
-  color: var(--color-neutral-lightest);
-} */
-
 .journal-title {
   text-align: center;
   padding-top: 0;
@@ -623,15 +592,11 @@ body[dark-mode] .footer-text {
 
 @media (max-width: 1023px) {
   .journal-detail-page {
-    padding: 16px;
-  }
-
-  .journal-detail-page .nav-divider {
     padding: 0 16px;
   }
 
   .journal-title h1 {
-    font-size: 28px;
+    font-size: 32px;
     line-height: 36px;
   }
 
@@ -642,7 +607,8 @@ body[dark-mode] .footer-text {
 
   .journal-text-section {
     width: 100%;
-    padding: 32px 0;
+    padding: 0;
+    margin: 16px 0;
   }
 
   .location-divider,
