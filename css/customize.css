@@ -53,6 +53,10 @@
   --color-highlight-800: var(--primitive-yellow-800);
   --color-highlight-900: var(--primitive-yellow-900);
   --color-highlight-1000: var(--primitive-yellow-1000);
+  
+  /* Divider pattern - consistent dashed line */
+  --divider-pattern-light: repeating-linear-gradient(90deg, var(--color-neutral-500), var(--color-neutral-500) 6px, transparent 6px, transparent 12px);
+  --divider-pattern-dark: repeating-linear-gradient(90deg, var(--color-neutral-800), var(--color-neutral-800) 6px, transparent 6px, transparent 12px);
 }
 
 body {
@@ -246,6 +250,13 @@ h2, .h2 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
+}
+
+.divider-line {
+  flex: 1;
+  min-width: 0;
+  height: 1px;
+  background: var(--divider-pattern-light);
 }
 
 /* ---------- Navbar --------- */
@@ -588,9 +599,10 @@ body[dark-mode] {
   }
 
   .divider-line {
-    background-image: repeating-linear-gradient(90deg, var(--color-neutral-800), var(--color-neutral-800) 6px, transparent 6px, transparent 12px) !important;
-    /* background-size: 100% 1px !important;
-    background-position: 0 0 !important;
-    background-repeat: no-repeat !important; */
+    background: var(--divider-pattern-dark) !important;
+  }
+  
+  .text-divider {
+    background: var(--divider-pattern-dark) !important;
   }
 }

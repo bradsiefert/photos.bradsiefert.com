@@ -50,7 +50,7 @@
       </div>
       <div class="journal-grid journal-grid-year">
         <div class="journal-card">
-          <NuxtLink to="/journal/2025/grand-teton" class="journal-link">
+          <NuxtLink to="/journal/2025/grand-teton-national-park" class="journal-link">
             <div class="journal-image-wrapper">
               <img src="@/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Grand Teton" class="journal-image" />
               <div class="image-scrim"></div>
@@ -227,7 +227,7 @@
 .divider-line {
   flex: 1;
   height: 1px;
-  background-image: repeating-linear-gradient(90deg, var(--color-neutral-400), var(--color-neutral-400) 6px, transparent 6px, transparent 12px);
+  background-image: var(--divider-pattern-light);
 }
 
 .journal-grid {
