@@ -13,9 +13,9 @@ export default defineNuxtConfig({
         { property: "og:image", content: 'https://photos.bradsiefert.com/sharing-tile.jpg' },
       ],
       script: [
-       { src: 'jquery-1.11.1.min.js', tagPosition: 'bodyClose' },
-       { src: 'bootstrap.min.js', tagPosition: 'bodyClose' },
-       { src: 'jquery.flexslider.js', tagPosition: 'bodyClose' }
+       { src: '/jquery-1.11.1.min.js', tagPosition: 'bodyClose' },
+       { src: '/bootstrap.min.js', tagPosition: 'bodyClose' },
+       { src: '/jquery.flexslider.js', tagPosition: 'bodyClose' }
       ]
     }
   },
@@ -39,24 +39,6 @@ export default defineNuxtConfig({
   // Performance optimizations
   // nitro: {
   //   compressPublicAssets: true, // Compress static assets with gzip/brotli
-  // },
-
-  // experimental: {
-  //   payloadExtraction: false, // Disable for better performance on mostly static sites
-  // },
-
-  // Build optimizations
-  // vite: {
-  //   build: {
-  //     cssMinify: 'esbuild',
-  //     rollupOptions: {
-  //       output: {
-  //         manualChunks: {
-  //           'jquery': ['jquery'],
-  //         }
-  //       }
-  //     }
-  //   }
   // },
 
   compatibilityDate: '2025-10-09'
