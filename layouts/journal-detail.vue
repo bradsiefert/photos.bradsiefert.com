@@ -54,6 +54,7 @@ body[dark-mode] #journal-detail-wrapper {
   flex: 1;
   overflow: hidden;
   border-radius: 8px;
+  position: relative;
 }
 
 .photo-item img {
