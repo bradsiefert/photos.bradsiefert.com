@@ -1,8 +1,8 @@
 <template>
   <div class="portfolio">
-    <section class="slider">
-      <div class="flexslider loading">
-        <ul class="slides">
+    <section class="slider" aria-label="Instant film photo carousel">
+      <div class="flexslider loading" role="region" aria-roledescription="carousel" aria-label="Instant film photos">
+        <ul class="slides" aria-live="polite">
           <li><NuxtImg src="/portfolio/instant-film/instantfilm-2019-wolfpack-retreat.jpg" alt="SX-70 portraits of my friends at our annual retreat" /></li>
           <li><NuxtImg src="/portfolio/instant-film/instantfilm-nicole.jpg" alt="SX-70 portraits of Nicole" /></li>
           <li><NuxtImg src="/portfolio/instant-film/instantfilm-goyita.jpg" alt="Studio portraits of Goyita shot on FB-100C and FB-3000b film" /></li>
@@ -69,10 +69,29 @@
 <script>
 export default {
   mounted() {
-    $('.flexslider').flexslider({
+    function updateAriaHidden(slider) {
+      const slides = slider.find('.slides > li');
+      const currentIndex = slider.currentSlide || 0;
+      slides.each(function(index) {
+        const slide = $(this);
+        if (index === currentIndex) {
+          slide.attr('aria-hidden', 'false');
+        } else {
+          slide.attr('aria-hidden', 'true');
+        }
+      });
+    }
+
+    const slider = $('.flexslider').flexslider({
       animation: "slide",
       start: function(slider) {
         slider.removeClass('loading');
+        // Set initial aria-hidden states
+        updateAriaHidden(slider);
+      },
+      after: function(slider) {
+        // Update aria-hidden when slide changes
+        updateAriaHidden(slider);
       }
     });
   }

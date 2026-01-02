@@ -1,8 +1,8 @@
 <template>
   <div class="portfolio">
-    <section class="slider">
-      <div class="flexslider loading">
-        <ul class="slides">
+    <section class="slider" aria-label="Portfolio photo carousel">
+      <div class="flexslider loading" role="region" aria-roledescription="carousel" aria-label="Portfolio photos">
+        <ul class="slides" aria-live="polite">
           <li><img src="@/portfolio/people/people-triptotulum1.jpg" alt="Man sitting on the side of the street in Tulum, Mexico" /></li>
           <li><img src="@/portfolio/people/people-ourhoneymoon.jpg" alt="Man prays at church in Granada, Nicaragua" /></li>
           <li><img src="@/portfolio/people/people-gtrain.jpg" alt="People waiting for the G train at the Hoyt Schermerhorn stop in NYC" /></li>
@@ -67,10 +67,29 @@
 <script>
 export default {
   mounted() {
-    $('.flexslider').flexslider({
+    function updateAriaHidden(slider) {
+      const slides = slider.find('.slides > li');
+      const currentIndex = slider.currentSlide || 0;
+      slides.each(function(index) {
+        const slide = $(this);
+        if (index === currentIndex) {
+          slide.attr('aria-hidden', 'false');
+        } else {
+          slide.attr('aria-hidden', 'true');
+        }
+      });
+    }
+
+    const slider = $('.flexslider').flexslider({
       animation: "slide",
       start: function(slider) {
         slider.removeClass('loading');
+        // Set initial aria-hidden states
+        updateAriaHidden(slider);
+      },
+      after: function(slider) {
+        // Update aria-hidden when slide changes
+        updateAriaHidden(slider);
       }
     });
   }

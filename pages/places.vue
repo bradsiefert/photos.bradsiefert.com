@@ -1,8 +1,8 @@
 <template>
   <div class="portfolio">
-    <section class="slider">
-      <div class="flexslider loading" id="nuxtslider">
-        <ul class="slides">
+    <section class="slider" aria-label="Places photo carousel">
+      <div class="flexslider loading" id="nuxtslider" role="region" aria-roledescription="carousel" aria-label="Places photos">
+        <ul class="slides" aria-live="polite">
           <li><img src="@/portfolio/places/places-triptowashington1.jpg" alt="Nicole at the beach in La Push, Washington" /></li>
           <li><img src="@/portfolio/places/places-summerjourneys2013-yellowstonefalls.jpg" alt="Yellowstone Falls at sunset" /></li>
           <li><img src="@/portfolio/places/places-summerjourneyswestcoasttrip2.jpg" alt="Matilija Dam near Ojai, CA" /></li>
@@ -101,10 +101,29 @@
 <script>
 export default {
   mounted() {
-    $('.flexslider').flexslider({
+    function updateAriaHidden(slider) {
+      const slides = slider.find('.slides > li');
+      const currentIndex = slider.currentSlide || 0;
+      slides.each(function(index) {
+        const slide = $(this);
+        if (index === currentIndex) {
+          slide.attr('aria-hidden', 'false');
+        } else {
+          slide.attr('aria-hidden', 'true');
+        }
+      });
+    }
+
+    const slider = $('.flexslider').flexslider({
       animation: "slide",
       start: function(slider) {
         slider.removeClass('loading');
+        // Set initial aria-hidden states
+        updateAriaHidden(slider);
+      },
+      after: function(slider) {
+        // Update aria-hidden when slide changes
+        updateAriaHidden(slider);
       }
     });
   }
