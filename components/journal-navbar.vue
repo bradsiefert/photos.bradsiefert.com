@@ -102,11 +102,18 @@ body[dark-mode] .nav-link {
   text-decoration: none;
 }
 
+.nav-link:focus-visible {
+  outline: 2px solid var(--color-highlight-400) !important;
+  outline-offset: 2px !important;
+  border-radius: 2px !important;
+}
+
 body[dark-mode] .nav-link:hover {
   color: var(--color-neutral-lightest);
 }
 
-.nav-darkmode :deep(a) {
+.nav-darkmode :deep(a),
+.nav-darkmode :deep(button) {
   font-family: 'SFM';
   font-weight: 400;
   font-size: 14px;
@@ -114,18 +121,32 @@ body[dark-mode] .nav-link:hover {
   letter-spacing: -0.25px;
   color: var(--color-neutral-darkest);
   text-decoration: none;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
 }
 
-body[dark-mode] .nav-darkmode :deep(a) {
+body[dark-mode] .nav-darkmode :deep(a),
+body[dark-mode] .nav-darkmode :deep(button) {
   color: var(--color-neutral-lightest);
 }
 
-.nav-darkmode :deep(a:hover) {
+.nav-darkmode :deep(a:hover),
+.nav-darkmode :deep(button:hover) {
   color: var(--color-neutral-darkest);
   text-decoration: none;
 }
 
-body[dark-mode] .nav-darkmode :deep(a:hover) {
+.nav-darkmode :deep(a:focus-visible),
+.nav-darkmode :deep(button:focus-visible) {
+  outline: 2px solid var(--color-highlight-400) !important;
+  outline-offset: 2px !important;
+  border-radius: 2px !important;
+}
+
+body[dark-mode] .nav-darkmode :deep(a:hover),
+body[dark-mode] .nav-darkmode :deep(button:hover) {
   color: var(--color-neutral-lightest);
 }
 

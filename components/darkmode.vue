@@ -1,9 +1,9 @@
 <template>
-  <a 
-    href="#"
-    @click.prevent="handleClick" 
-    aria-label="Toggle Darkmode" 
-    title="Toggle Darkmode"
+  <button 
+    type="button"
+    @click="handleClick" 
+    :aria-label="isDarkMode ? 'Switch to light mode' : 'Switch to dark mode'"
+    :title="isDarkMode ? 'Switch to light mode' : 'Switch to dark mode'"
   >
     <slot :dark="isDarkMode" />
     
@@ -16,7 +16,7 @@
     <template v-else>
       <span>☀️ Light Mode</span>
     </template>
-  </a>
+  </button>
 </template>
 
 <script setup>
