@@ -13,9 +13,23 @@
 /* Browser Resets
 *********************************/
 .flex-container a:active,
-.flexslider a:active,
-.flex-container a:focus,
-.flexslider a:focus  {outline: none;}
+.flexslider a:active {outline: none;}
+/* Exclude FlexSlider navigation controls from focus styles - must come first */
+.flex-direction-nav a:focus-visible,
+.flex-direction-nav a:focus,
+.flex-pauseplay a:focus-visible,
+.flex-pauseplay a:focus,
+.flexslider a:focus-visible,
+.flexslider a:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.flex-container a:focus-visible {
+  outline: 2px solid var(--color-highlight-400) !important;
+  outline-offset: 2px !important;
+  border-radius: 2px !important;
+}
 .slides,
 .flex-control-nav,
 .flex-direction-nav {margin: 0; padding: 0; list-style: none;}
