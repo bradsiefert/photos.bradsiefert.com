@@ -1,15 +1,17 @@
 <template>
   <div id="journal-detail-wrapper">
     <div id="journal-detail-centered">
-      <JournalNavbar />
-      <div class="journal-detail-page">
+      <header>
+        <JournalNavbar />
+      </header>
+      <main class="journal-detail-page">
         <div class="nav-divider">
           <div class="divider-line"></div>
           <span class="divider-label">Photoset</span>
           <div class="divider-line"></div>
         </div>
         <slot />
-      </div>
+      </main>
     </div>
   </div>
 </template>
