@@ -43,5 +43,10 @@ export default defineNuxtConfig({
   },
   // Enable SSR for static site generation
   ssr: true,
-  compatibilityDate: '2025-10-09'
+  compatibilityDate: '2025-10-09',
+  vite: {
+    ssr: {
+      noExternal: ['ipx']
+    }
+  }
 })
