@@ -58,15 +58,15 @@ html[xmlns] .slides {display: block;}
 .flex-viewport { opacity: 1; transition: opacity 0.5s ease-in; border-radius: 12px; }
 .loading .flex-viewport { opacity: 0; }
 .loading:after  { 
-  content: 'Loading...'; 
+  content: 'Loading images...'; 
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 0;
+  left: 0;
   text-align: center; 
   color: var(--color-neutral-800); 
-  font-size: 1em;
+  font-size: 12px;
   pointer-events: none;
+  z-index: 1;
 }
 .flexslider .slides { zoom: 1; }
 

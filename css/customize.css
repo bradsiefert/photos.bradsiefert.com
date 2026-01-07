@@ -240,7 +240,7 @@ html, body, #__nuxt {
   }
 }
 
-.portfolio:has(.loading) {
+.portfolio:has(.loading) .flex-viewport {
   opacity: 0;
 }
 
