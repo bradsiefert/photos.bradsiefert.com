@@ -15,7 +15,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/ongoing/faceless" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/people/people-the83rd.jpg" alt="Faceless" class="journal-image" />
+              <NuxtImg src="/portfolio/people/people-the83rd.jpg" alt="Faceless" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">Faceless</div>
             </div>
@@ -24,7 +24,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/ongoing/east-garfield-park" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/places/places-theloopchicago1.jpg" alt="East Garfield Park" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-theloopchicago1.jpg" alt="East Garfield Park" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">East Garfield Park</div>
             </div>
@@ -33,7 +33,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/ongoing/logan-square" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/places/places-goodbyelogansquare1.jpg" alt="Logan Square" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-goodbyelogansquare1.jpg" alt="Logan Square" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">Logan Square</div>
             </div>
@@ -52,7 +52,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/2025/grand-teton-national-park" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Grand Teton" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Grand Teton" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">Grand Teton National Park</div>
             </div>
@@ -61,7 +61,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/2025/the-12th-wolfpack-retreat" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/places/places-2016wolfpackretreat1.jpg" alt="The 12th Wolfpack Retreat" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-2016wolfpackretreat1.jpg" alt="The 12th Wolfpack Retreat" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">The 12th Wolfpack Retreat</div>
             </div>
@@ -80,7 +80,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/2024/nye-24" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/places/places-nyetriptothestunkelfarm.jpg" alt="NYE '24" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-nyetriptothestunkelfarm.jpg" alt="NYE '24" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">NYE '24</div>
             </div>
@@ -89,7 +89,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/2024/july-4th" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/places/places-summerjourneys2013-yellowstonefalls.jpg" alt="July 4th" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-summerjourneys2013-yellowstonefalls.jpg" alt="July 4th" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">July 4th</div>
             </div>
@@ -98,7 +98,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/2024/the-11th-wolfpack-retreat" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/places/places-2016wolfpackretreat2.jpg" alt="The 11th Wolfpack Retreat" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-2016wolfpackretreat2.jpg" alt="The 11th Wolfpack Retreat" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">The 11th Wolfpack Retreat</div>
             </div>
@@ -117,7 +117,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/2023/summer-chicago" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/places/places-theloopchicago2.jpg" alt="Summer Chicago" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-theloopchicago2.jpg" alt="Summer Chicago" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">Summer Chicago</div>
             </div>
@@ -126,7 +126,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/2023/the-10th-wolfpack-retreat" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/people/people-wolfpackretreat2017.jpg" alt="The 10th Wolfpack Retreat" class="journal-image" />
+              <NuxtImg src="/portfolio/people/people-wolfpackretreat2017.jpg" alt="The 10th Wolfpack Retreat" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">The 10th Wolfpack Retreat</div>
             </div>
@@ -135,7 +135,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/2023/spring-walk" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/places/places-mortonarboretum.jpg" alt="Spring Walk" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-mortonarboretum.jpg" alt="Spring Walk" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">Spring Walk</div>
             </div>
@@ -154,7 +154,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/2022/winter-city" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/places/places-goodbyelogansquare2.jpg" alt="Winter City" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-goodbyelogansquare2.jpg" alt="Winter City" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">Winter City</div>
             </div>
@@ -163,7 +163,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/2022/the-9th-wolfpack-retreat" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/places/places-rabbitislandschool2016-1.jpg" alt="The 9th Wolfpack Retreat" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-rabbitislandschool2016-1.jpg" alt="The 9th Wolfpack Retreat" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">The 9th Wolfpack Retreat</div>
             </div>
@@ -172,7 +172,7 @@
         <div class="journal-card">
           <NuxtLink to="/journal/2022/fall-colors" class="journal-link">
             <div class="journal-image-wrapper">
-              <img src="@/portfolio/places/places-applepickingwithfriends.jpg" alt="Fall Colors" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-applepickingwithfriends.jpg" alt="Fall Colors" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">Fall Colors</div>
             </div>

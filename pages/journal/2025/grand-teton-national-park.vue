@@ -48,7 +48,7 @@
     <div class="photo-layout-single">
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
@@ -73,13 +73,13 @@
     <div class="photo-layout-landscape-2">
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
@@ -89,7 +89,7 @@
     <div class="photo-layout-single">
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
@@ -99,19 +99,19 @@
     <div class="photo-layout-landscape-3">
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
@@ -136,19 +136,19 @@
     <div class="photo-layout-grid-2x2">
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
       <div class="photo-item photo-portrait">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
@@ -173,13 +173,13 @@
     <div class="photo-layout-portrait-2">
       <div class="photo-item photo-portrait">
         <PhotoMetadata 
-          image-src="@/portfolio/people/people-wolfpackretreat2017.jpg" 
+          image-src="/portfolio/people/people-wolfpackretreat2017.jpg" 
           image-alt="Portrait" 
         />
       </div>
       <div class="photo-item photo-portrait">
         <PhotoMetadata 
-          image-src="@/portfolio/people/people-wolfpackretreat2017.jpg" 
+          image-src="/portfolio/people/people-wolfpackretreat2017.jpg" 
           image-alt="Portrait" 
         />
       </div>
@@ -188,19 +188,19 @@
     <!-- Grid layout 3x4 -->
     <!-- <div class="photo-layout-grid-3x4">
       <div class="photo-item photo-landscape">
-        <img src="@/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Grand Teton National Park" />
+        <img src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Grand Teton National Park" />
       </div>
       <div class="photo-item photo-landscape">
-        <img src="@/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Grand Teton National Park" />
+        <img src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Grand Teton National Park" />
       </div>
       <div class="photo-item photo-portrait">
-        <img src="@/portfolio/people/people-wolfpackretreat2017.jpg" alt="Portrait" />
+        <img src="/portfolio/people/people-wolfpackretreat2017.jpg" alt="Portrait" />
       </div>
       <div class="photo-item photo-portrait">
-        <img src="@/portfolio/people/people-wolfpackretreat2017.jpg" alt="Portrait" />
+        <img src="/portfolio/people/people-wolfpackretreat2017.jpg" alt="Portrait" />
       </div>
       <div class="photo-item photo-portrait">
-        <img src="@/portfolio/people/people-wolfpackretreat2017.jpg" alt="Portrait" />
+        <img src="/portfolio/people/people-wolfpackretreat2017.jpg" alt="Portrait" />
       </div>
     </div> -->
 
@@ -208,13 +208,13 @@
     <div class="photo-layout-landscape-2">
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
@@ -224,19 +224,19 @@
     <div class="photo-layout-landscape-3">
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
-          image-src="@/portfolio/places/places-summerjourneystetonstrip.jpg" 
+          image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
           image-alt="Grand Teton National Park" 
         />
       </div>
@@ -246,19 +246,19 @@
     <div class="photo-layout-portrait-3">
       <div class="photo-item photo-portrait">
         <PhotoMetadata 
-          image-src="@/portfolio/people/people-wolfpackretreat2017.jpg" 
+          image-src="/portfolio/people/people-wolfpackretreat2017.jpg" 
           image-alt="Portrait" 
         />
       </div>
       <div class="photo-item photo-portrait">
         <PhotoMetadata 
-          image-src="@/portfolio/people/people-wolfpackretreat2017.jpg" 
+          image-src="/portfolio/people/people-wolfpackretreat2017.jpg" 
           image-alt="Portrait" 
         />
       </div>
       <div class="photo-item photo-portrait">
         <PhotoMetadata 
-          image-src="@/portfolio/people/people-wolfpackretreat2017.jpg" 
+          image-src="/portfolio/people/people-wolfpackretreat2017.jpg" 
           image-alt="Portrait" 
         />
       </div>
