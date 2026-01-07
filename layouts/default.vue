@@ -36,6 +36,12 @@
               <li><darkmode /></li>
             </ul>
           </div>
+          
+          <!-- Arrow Key Navigation Hints -->
+          <div v-if="showArrowHint" class="arrow-hint-options">
+            <arrow-key-hint />
+          </div>
+  
         </nav>
       </header><!-- /sidebar-nav -->
 
@@ -53,6 +59,12 @@ const isMenuExpanded = ref(false)
 
 const isStickyPage = computed(() => {
   return route.path.startsWith('/journal') || route.path.startsWith('/familyandfriends')
+})
+
+const showArrowHint = computed(() => {
+  // Show on pages with sliders: People (/), Places, Instant Film
+  const path = route.path
+  return path === '/' || path === '/places' || path === '/instantfilm'
 })
 
 onMounted(() => {

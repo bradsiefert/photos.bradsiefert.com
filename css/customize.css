@@ -374,7 +374,7 @@ h2, .h2 {
 }
 
 .navbar-nav > li > a:focus-visible {
-  outline: 2px solid var(--color-highlight-400) !important;
+  outline: 2px solid transparent !important;
   outline-offset: 2px !important;
   border-radius: 2px !important;
 }
