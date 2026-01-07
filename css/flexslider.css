@@ -63,10 +63,15 @@ html[xmlns] .slides {display: block;}
   top: 0;
   left: 0;
   text-align: center; 
-  color: var(--color-neutral-800); 
+  color: var(--color-neutral-400); 
   font-size: 12px;
   pointer-events: none;
   z-index: 1;
+}
+body[dark-mode] {
+  .loading:after  { 
+    color: var(--color-neutral-800) !important; 
+  }
 }
 .flexslider .slides { zoom: 1; }
 
