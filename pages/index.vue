@@ -80,17 +80,37 @@ export default {
       });
     }
 
-    const slider = $('.flexslider').flexslider({
-      animation: "slide",
-      start: function(slider) {
-        slider.removeClass('loading');
-        // Set initial aria-hidden states
-        updateAriaHidden(slider);
-      },
-      after: function(slider) {
-        // Update aria-hidden when slide changes
-        updateAriaHidden(slider);
-      }
+    // Wait for all images in the slider to load before initializing
+    const flexslider = $('.flexslider');
+    const images = flexslider.find('img');
+    
+    // Create promises for all image loads
+    const imageLoadPromises = Array.from(images).map(img => {
+      return new Promise((resolve) => {
+        if (img.complete && img.naturalHeight !== 0) {
+          // Image already loaded
+          resolve();
+        } else {
+          img.addEventListener('load', resolve, { once: true });
+          img.addEventListener('error', resolve, { once: true }); // Resolve even on error to not block
+        }
+      });
+    });
+
+    // Wait for all images to load, then initialize FlexSlider
+    Promise.all(imageLoadPromises).then(() => {
+      flexslider.flexslider({
+        animation: "slide",
+        start: function(slider) {
+          slider.removeClass('loading');
+          // Set initial aria-hidden states
+          updateAriaHidden(slider);
+        },
+        after: function(slider) {
+          // Update aria-hidden when slide changes
+          updateAriaHidden(slider);
+        }
+      });
     });
   }
 }
