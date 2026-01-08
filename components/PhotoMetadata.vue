@@ -8,8 +8,9 @@
     
     <!-- Metadata Button (shown on hover) -->
     <button
-      v-if="!showOverlay && isHovered"
+      v-if="!showOverlay"
       class="metadata-button"
+      :class="{ 'is-visible': isHovered, 'is-fading-in': isFadingIn }"
       @click="showOverlay = true"
       aria-label="Show photo metadata"
     >
@@ -20,13 +21,14 @@
     <div
       v-if="showOverlay"
       class="metadata-overlay"
+      :class="{ 'is-closing': isClosing }"
     >
       <button
-        class="close-button"
-        @click="showOverlay = false"
+        class="metadata-close-button"
+        @click="closeOverlay"
         aria-label="Close metadata"
       >
-        <PhXCircle :size="20" :weight="'regular'" />
+        <PhXCircle :size="16" :weight="'regular'" />
       </button>
       
       <div class="metadata-content">
@@ -127,6 +129,23 @@ const resolvedImageSrc = computed(() => {
 
 const showOverlay = ref(false)
 const isHovered = ref(false)
+const isClosing = ref(false)
+const isFadingIn = ref(false)
+
+const closeOverlay = () => {
+  isClosing.value = true
+  setTimeout(() => {
+    showOverlay.value = false
+    isClosing.value = false
+    // Trigger fade-in animation for button if still hovering
+    if (isHovered.value) {
+      isFadingIn.value = true
+      setTimeout(() => {
+        isFadingIn.value = false
+      }, 300)
+    }
+  }, 250)
+}
 </script>
 
 <style scoped>
@@ -146,82 +165,129 @@ const isHovered = ref(false)
 
 .metadata-button {
   position: absolute;
-  bottom: 32px;
-  left: 50%;
-  transform: translateX(-50%);
+  bottom: 20px;
+  right: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 8px 12px;
-  background: rgba(25, 27, 34, 0.8);
-  border: 1px solid var(--color-neutral-800);
+  background: linear-gradient(180deg, var(--color-neutral-200) 0%, var(--color-neutral-100) 72%);
+  border: 1px solid var(--color-neutral-300);
   border-radius: 8px;
   cursor: pointer;
   backdrop-filter: blur(4px);
-  transition: opacity 0.2s ease;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
   z-index: 10;
+  pointer-events: none;
+}
+
+.metadata-button.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.metadata-button.is-fading-in {
+  animation: buttonFadeIn 250ms ease;
+}
+
+@keyframes buttonFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .metadata-button :deep(svg) {
-  color: var(--color-neutral-lightest);
+  color: var(--color-neutral-darkest);
 }
 
 .metadata-button:hover {
-  background: rgba(25, 27, 34, 0.9);
+  background: var(--color-neutral-300);
 }
 
 .metadata-overlay {
   position: absolute;
-  bottom: 32px;
+  bottom: 20px;
   left: 50%;
-  transform: translateX(-50%);
-  display: flex;
-  gap: 48px;
-  align-items: center;
-  padding: 12px 24px;
-  background: rgba(25, 27, 34, 0.8);
-  border: 1px solid var(--color-neutral-800);
-  border-radius: 8px;
-  backdrop-filter: blur(4px);
-  z-index: 20;
-}
-
-.close-button {
-  position: absolute;
-  top: -10.5px;
-  right: -10.5px;
-  width: 20px;
-  height: 20px;
+  transform: translateX(-50%) translateY(0) scale(1);
+  width: calc(100% - 48px);
+  max-width: 720px;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: transparent;
+  padding: 12px clamp(16px, 24px, 4vw);
+  min-width: 0;
+  background: linear-gradient(180deg, var(--color-neutral-200) 0%, var(--color-neutral-100) 72%);
+  border: 1px solid var(--color-neutral-300);
+  border-radius: 8px;
+  backdrop-filter: blur(4px);
+  opacity: 1;
+  transition: opacity 250ms ease-in-out, transform 250ms ease-in-out;
+  z-index: 20;
+  animation: overlayFadeIn 250ms ease-in-out;
+  box-sizing: border-box;
+  overflow: visible;
+}
+
+.metadata-overlay.is-closing {
+  opacity: 0;
+  transform: translateX(-50%) translateY(8px) scale(0.96);
+}
+
+@keyframes overlayFadeIn {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(8px) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0) scale(1);
+  }
+}
+
+.metadata-close-button {
+  position: absolute;
+  top: -12px;
+  right: -12px;
+  display: flex;
   border: none;
+  border-radius: 50%;
   cursor: pointer;
   padding: 0;
+  margin: 0;
   z-index: 21;
 }
 
-.close-button :deep(svg) {
-  color: var(--color-neutral-lightest);
-}
-
-.close-button:hover :deep(svg) {
-  opacity: 0.8;
+.metadata-close-button svg {
+  height: 24px;
+  width: 24px;
 }
 
 .metadata-content {
   display: flex;
-  gap: 48px;
+  gap: min(48px, 8%);
   align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  min-width: 0;
+  width: 100%;
+  row-gap: 12px;
 }
 
 .metadata-item {
   display: flex;
   flex-direction: column;
-  gap: 0;
+  gap: 2px;
   align-items: center;
   flex-shrink: 0;
+  min-width: fit-content;
 }
 
 .metadata-header {
@@ -233,39 +299,64 @@ const isHovered = ref(false)
 }
 
 .metadata-header :deep(svg) {
-  color: var(--color-neutral-lightest);
+  color: var(--color-neutral-darkest);
   flex-shrink: 0;
 }
 
 .metadata-label {
   font-family: 'SFM';
-  font-weight: 400;
-  font-size: 11px;
+  font-weight: 700;
+  font-size: 12px;
   line-height: 16px;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: -0.25px;
-  color: var(--color-neutral-lightest);
+  color: var(--color-neutral-darkest);
   white-space: nowrap;
 }
 
 .metadata-value {
   font-family: 'SFM';
-  font-weight: 700;
-  font-size: 12px;
+  font-weight: 400;
+  font-size: 14px;
   line-height: 24px;
   text-align: center;
   letter-spacing: -0.25px;
-  color: var(--color-neutral-lightest);
+  color: var(--color-neutral-darkest);
   white-space: nowrap;
 }
 
 @media (max-width: 1023px) {
+  .metadata-button {
+    bottom: 16px;
+    right: 16px;
+  }
+
   .metadata-overlay {
+    bottom: 16px;
+    left: 16px;
+    right: 16px;
+    transform: translateX(0) translateY(0) scale(1);
     flex-direction: column;
     gap: 16px;
     padding: 16px;
     max-width: calc(100% - 32px);
+    animation: overlayFadeInMobile 250ms ease-in-out;
+  }
+
+  .metadata-overlay.is-closing {
+    transform: translateX(0) translateY(8px) scale(0.98);
+  }
+
+  @keyframes overlayFadeInMobile {
+    from {
+      opacity: 0;
+      transform: translateX(0) translateY(8px) scale(0.98);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0) translateY(0) scale(1);
+    }
   }
 
   .metadata-content {
@@ -276,6 +367,40 @@ const isHovered = ref(false)
 
   .metadata-item {
     width: 100%;
+  }
+}
+
+/* Dark Mode Styles */
+body[dark-mode] {
+  .metadata-button {
+    /* background: linear-gradient(180deg, var(--color-neutral-1000) 0%, rgba(25, 27, 34, 0.32) 72.12%); */
+    background: var(--color-neutral-700-alpha);
+    border: 1px solid var(--color-neutral-800);
+  }
+
+  .metadata-button:hover {
+    /* background: linear-gradient(180deg, var(--color-neutral-900) 0%, rgba(25, 27, 34, 0.5) 72.12%); */
+    background: var(--color-neutral-1000);
+  }
+
+  .metadata-overlay {
+    background: rgba(25, 27, 34, 0.81);
+    border: 1px solid var(--color-neutral-800);
+  }
+
+  .metadata-close-button {
+    background: var(--color-neutral-darkest);
+  }
+
+  .metadata-button :deep(svg),
+  .metadata-close-button :deep(svg),
+  .metadata-header :deep(svg) {
+    color: var(--color-neutral-lightest);
+  }
+
+  .metadata-label,
+  .metadata-value {
+    color: var(--color-neutral-lightest);
   }
 }
 </style>
