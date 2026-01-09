@@ -171,8 +171,11 @@ const closeOverlay = () => {
   align-items: center;
   justify-content: center;
   padding: 8px 12px;
-  background: linear-gradient(180deg, var(--color-neutral-200) 0%, var(--color-neutral-100) 72%);
-  border: 1px solid var(--color-neutral-300);
+  color: var(--color-neutral-darkest);
+  /* background: var(--color-neutral-200); */
+  /* background: linear-gradient(180deg, rgba(247, 247, 247, 0.9) 0%, rgba(213, 215, 219, 0.88) 72%); */
+  background: linear-gradient(180deg, var(--color-neutral-200) 0%, var(--color-neutral-300) 72%);
+  border: 1px solid var(--color-neutral-500);
   border-radius: 8px;
   cursor: pointer;
   backdrop-filter: blur(4px);
@@ -209,7 +212,9 @@ const closeOverlay = () => {
 }
 
 .metadata-button:hover {
-  background: var(--color-neutral-300);
+  color: var(--color-neutral-darkest);
+  background: linear-gradient(180deg, var(--color-highlight-200) 0%, var(--color-highlight-300) 72%);
+  border-color: var(--color-highlight-700);
 }
 
 .metadata-overlay {
@@ -224,8 +229,10 @@ const closeOverlay = () => {
   justify-content: center;
   padding: 12px clamp(16px, 24px, 4vw);
   min-width: 0;
-  background: linear-gradient(180deg, var(--color-neutral-200) 0%, var(--color-neutral-100) 72%);
-  border: 1px solid var(--color-neutral-300);
+  /* background: linear-gradient(180deg, var(--color-neutral-200) 0%, var(--color-neutral-300) 72%); */
+  background: linear-gradient(180deg, rgba(237, 238, 239, 0.8) 0%, rgba(213, 215, 219, 0.88) 72%);
+  border: 1px solid var(--color-neutral-500);
+  box-shadow: 0 0 12px 0 rgba(12, 12, 12, 0.12);
   border-radius: 8px;
   backdrop-filter: blur(4px);
   opacity: 1;
@@ -288,6 +295,7 @@ const closeOverlay = () => {
   align-items: center;
   flex-shrink: 0;
   min-width: fit-content;
+  flex-grow: 1;
 }
 
 .metadata-header {
@@ -374,17 +382,7 @@ const closeOverlay = () => {
 body[dark-mode] {
   .metadata-button {
     /* background: linear-gradient(180deg, var(--color-neutral-1000) 0%, rgba(25, 27, 34, 0.32) 72.12%); */
-    background: var(--color-neutral-700-alpha);
-    border: 1px solid var(--color-neutral-800);
-  }
-
-  .metadata-button:hover {
-    /* background: linear-gradient(180deg, var(--color-neutral-900) 0%, rgba(25, 27, 34, 0.5) 72.12%); */
-    background: var(--color-neutral-1000);
-  }
-
-  .metadata-overlay {
-    background: rgba(25, 27, 34, 0.81);
+    background: var(--color-neutral-500-alpha);
     border: 1px solid var(--color-neutral-800);
   }
 
@@ -392,12 +390,21 @@ body[dark-mode] {
     background: var(--color-neutral-darkest);
   }
 
-  .metadata-button :deep(svg),
-  .metadata-close-button :deep(svg),
-  .metadata-header :deep(svg) {
-    color: var(--color-neutral-lightest);
+  .metadata-button:hover {
+    /* background: linear-gradient(180deg, var(--color-neutral-900) 0%, rgba(25, 27, 34, 0.5) 72.12%); */
+    background-color: var(--color-highlight-1000);
+    border-color: var(--color-highlight-800);
+    transition: background-color 400ms ease-in-out, border-color 400ms ease-in-out;
   }
 
+  .metadata-overlay {
+    background: rgba(25, 27, 34, 0.81);
+    border: 1px solid var(--color-neutral-800);
+  }
+
+  .metadata-button :deep(svg),
+  .metadata-close-button :deep(svg),
+  .metadata-header :deep(svg),
   .metadata-label,
   .metadata-value {
     color: var(--color-neutral-lightest);
