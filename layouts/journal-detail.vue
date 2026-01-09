@@ -377,8 +377,8 @@ body[dark-mode] .journal-title h1 {
   border-radius: 8px;
   position: relative;
   overflow: hidden;
-  background: linear-gradient(180deg, var(--color-neutral-200) 0%, var(--color-neutral-100) 72%);
-  border: 1px solid var(--color-neutral-300);
+  background: linear-gradient(180deg, rgba(56, 56, 56, 0.02) 4%, rgba(8, 20, 43, 0.12) 80%);
+  border: 1px solid var(--color-neutral-400);
   width: fit-content;
 }
 
