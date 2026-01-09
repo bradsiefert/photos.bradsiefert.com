@@ -392,7 +392,6 @@ body[dark-mode] .journal-metadata {
   flex-direction: column;
   gap: 2px;
   align-items: center;
-  flex-shrink: 0;
 }
 
 .metadata-header {
@@ -557,6 +556,7 @@ body[dark-mode] .location-label {
   align-items: center;
   justify-content: center;
   margin-top: 64px;
+  margin-bottom: 64px;
   width: 100%;
 }
 
@@ -614,15 +614,9 @@ body[dark-mode] .footer-text {
     margin: 16px 0;
   }
 
-  .location-divider,
-  .journal-footer {
-    flex-direction: column;
-    gap: 16px;
-  }
-
-  .location-divider .divider-line,
-  .journal-footer .divider-line {
-    width: 100%;
+  .journal-text-section p {
+    font-size: 125%;
+    line-height: 150%;
   }
 }
 </style>

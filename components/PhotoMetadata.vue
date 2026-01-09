@@ -293,7 +293,6 @@ const closeOverlay = () => {
   flex-direction: column;
   gap: 2px;
   align-items: center;
-  flex-shrink: 0;
   min-width: fit-content;
   flex-grow: 1;
 }
@@ -332,50 +331,6 @@ const closeOverlay = () => {
   letter-spacing: -0.25px;
   color: var(--color-neutral-darkest);
   white-space: nowrap;
-}
-
-@media (max-width: 1023px) {
-  .metadata-button {
-    bottom: 16px;
-    right: 16px;
-  }
-
-  .metadata-overlay {
-    bottom: 16px;
-    left: 16px;
-    right: 16px;
-    transform: translateX(0) translateY(0) scale(1);
-    flex-direction: column;
-    gap: 16px;
-    padding: 16px;
-    max-width: calc(100% - 32px);
-    animation: overlayFadeInMobile 250ms ease-in-out;
-  }
-
-  .metadata-overlay.is-closing {
-    transform: translateX(0) translateY(8px) scale(0.98);
-  }
-
-  @keyframes overlayFadeInMobile {
-    from {
-      opacity: 0;
-      transform: translateX(0) translateY(8px) scale(0.98);
-    }
-    to {
-      opacity: 1;
-      transform: translateX(0) translateY(0) scale(1);
-    }
-  }
-
-  .metadata-content {
-    flex-direction: column;
-    gap: 16px;
-    width: 100%;
-  }
-
-  .metadata-item {
-    width: 100%;
-  }
 }
 
 /* Dark Mode Styles */
