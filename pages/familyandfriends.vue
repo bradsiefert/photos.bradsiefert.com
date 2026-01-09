@@ -12,6 +12,7 @@
       <hr>
       <h2>2025</h2>
       <ul class="list-unstyled" style="margin-bottom: 32px;">
+        <li>🆕 <a target="_new" href="https://adobe.ly/3NjVo9e">2025-10-26 - Annual Family Photoshoot Practice</a></li>
         <li>🆕 <a target="_new" href="https://adobe.ly/3LlOJuH">2025-12-17 - Suder Winter Recital '25</a></li>
         <li>🆕 <a target="_new" href="https://adobe.ly/4pe19T9">2025-12-13 - Lydia's Family Birthday Party</a></li>
         <li>🆕 <a target="_new" href="https://adobe.ly/3L4Plop">2025-12-05 - NYC Trip with Lydia</a></li>
