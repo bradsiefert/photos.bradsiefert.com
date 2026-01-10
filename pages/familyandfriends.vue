@@ -12,13 +12,14 @@
       <hr>
       <h2>2025</h2>
       <ul class="list-unstyled" style="margin-bottom: 32px;">
-        <li>🆕 <a target="_new" href="https://adobe.ly/3NjVo9e">2025-10-26 - Annual Family Photoshoot Practice</a></li>
         <li>🆕 <a target="_new" href="https://adobe.ly/3LlOJuH">2025-12-17 - Suder Winter Recital '25</a></li>
         <li>🆕 <a target="_new" href="https://adobe.ly/4pe19T9">2025-12-13 - Lydia's Family Birthday Party</a></li>
         <li>🆕 <a target="_new" href="https://adobe.ly/3L4Plop">2025-12-05 - NYC Trip with Lydia</a></li>
         <li>🆕 <a target="_new" href="https://adobe.ly/3N44y9W">2025-11-27 - Thanksgiving '25</a></li>
         <li><a target="_new" href="https://adobe.ly/4oCM1PT">2025-11-02 - Dia de los Muertos Party</a></li>
+        <li>🆕 <a target="_new" href="https://adobe.ly/4sRqKVh">2025-11-01 - Annual Family Photoshoot</a></li>
         <li><a target="_new" href="https://adobe.ly/4oBRlmE">2025-10-31 - Trick or Treating</a></li>
+        <li>🆕 <a target="_new" href="https://adobe.ly/3NjVo9e">2025-10-26 - Annual Family Photoshoot Practice</a></li>
         <li><a target="_new" href="https://adobe.ly/47jy5Tu">2025-10-17 - Picture Day Practice</a></li>
         <li><a target="_new" href="https://adobe.ly/4i3q7me">2025-08-18 - Lydia's 1st Day of First Grad</a></li>
         <li><a target="_new" href="https://adobe.ly/4ks7sjX">2025-05-18 - Trip to Jackson, WY (TEASER)</a></li>
