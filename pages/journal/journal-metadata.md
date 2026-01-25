@@ -188,8 +188,21 @@ Lenses: 40mm, 55mm, 85mm
 Location: Warren Dunes State Park, Sawyer, MI 
 
 **2018**
-Indiana Christmas
-The Liturgists Gathering, Minnesota
+## Indiana Christmas
+Dates: Dec 12 2018
+Photos Taken: 
+Photos Edited: 150
+Camera: Sony A7rIII
+Lenses: 24-70mm, 85mm
+Location: Charlottesville, IN
+
+## The Liturgists Gathering, Minnesota
+Dates: Nov 16 2018
+Photos Taken: 
+Photos Edited: 180
+Camera: Sony A7rIII
+Lenses: 24-70mm, 70-20mm
+Location: Minneapolis, MN
 
 ### Tulum
 Dates: Oct 15-19 2018
@@ -207,20 +220,87 @@ Camera: Sony A7rIII
 Lenses: 16-35mm, 40mm
 Location: New York City, NY 
 
-Bank of America-Special Olympics Shoot
-Morton Arboretum Troll Hunt
-DJ Slugo Documentary
-Washington State
-Sedona
+### Bank of America-Special Olympics Shoot
+Dates: Jul 24 2018
+Photos Taken: 
+Photos Edited: 56
+Camera: Sony A7rIII
+Lenses: 16-35mm
+Location: Chicago, IL
+
+## DJ Slugo Documentary
+Dates: May 12 2018
+Photos Taken: 
+Photos Edited: 50
+Camera: Sony A7rIII
+Lenses: 24-70mm
+Location: Chicago, IL
+
+## Washington State
+Dates: Jun 11-14 2018
+Photos Taken: 
+Photos Edited: 256
+Camera: Sony A7rIII
+Lenses: 16-35mm, 24-70mm
+Location: Seattle, Port Angeles, Forks, WA
+
+## The 5th Wolfpack Retreat
+Dates: Feb 2-4 2018
+Photos Taken: 
+Photos Edited: 188
+Camera: Sony A7rIII
+Lenses: 24-70mm, 50mm
+Location: Seattle, Port Angeles, Forks, WA
+
+## Sedona
+Dates: Jan 5-6 2018
+Photos Taken: 
+Photos Edited: 170
+Camera: Sony A7rIII
+Lenses: 24-70mm
+Location: Sedona, AZ
 
 **2017**
-Goodbye Logan Square
-Magnolia
-The 4th Wolfpack Retreat
+## Goodbye Logan Square
+Dates: 2015-2017
+Photos Taken: 
+Photos Edited: 75
+Camera: Sony A7rIII
+Lenses: 16-35, 24-70mm, 55mm, 70-20mm
+Location: Logan Square, Chicago, IL
+
+## NYE in Magnolia
+Dates: Dec 30-31 2017
+Photos Taken: 
+Photos Edited: 140
+Camera: Sony A7rIII
+Lenses: 35mm, 55mm
+Location: Magnolia, IL
+
+## The 4th Wolfpack Retreat
+Dates: Jan 13-15 2017
+Photos Taken: 
+Photos Edited: 210
+Camera: Sony A7rIII
+Lenses: 24-70mm
+Location: Fennville, MI
 
 **2016**
-Rabbit Island
-Catalina Island
+## Rabbit Island
+Dates: Aug 29-Sep 2 2016
+Photos Taken: 
+Photos Edited: 450
+Camera: Sony A7rIII
+Lenses: 16-35mm, 55mm, 70-200mm
+Location: Rabbit Island, Rabbit Bay, MI
+
+## Catalina Island
+Dates: May 29 2016
+Photos Taken: 
+Photos Edited: 88
+Camera: Sony A7rIII
+Lenses: 16-35mm, 70-200mm
+Location: Catalina Island, CA
 
 **2015**
 West Coast
