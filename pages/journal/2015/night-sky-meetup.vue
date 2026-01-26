@@ -2,7 +2,7 @@
   <div>
     <!-- Title -->
     <div class="journal-title">
-      <h1>Catalina Island</h1>
+      <h1>Night Sky Meetup</h1>
     </div>
 
     <!-- Metadata -->
@@ -12,7 +12,7 @@
           <PhCalendarDots :size="16" :weight="'regular'" />
           <span class="metadata-label">dates</span>
         </div>
-        <div class="metadata-value">MAY 29 2016</div>
+        <div class="metadata-value">JAN 17 2015</div>
       </div>
       <div class="metadata-item">
         <div class="metadata-header">
@@ -26,21 +26,21 @@
           <PhCrop :size="16" :weight="'regular'" />
           <span class="metadata-label">edited</span>
         </div>
-        <div class="metadata-value">88</div>
+        <div class="metadata-value">40</div>
       </div>
       <div class="metadata-item">
         <div class="metadata-header">
           <PhCamera :size="16" :weight="'regular'" />
           <span class="metadata-label">camera</span>
         </div>
-        <div class="metadata-value">SONY A7RII</div>
+        <div class="metadata-value">Fuji X-E2</div>
       </div>
       <div class="metadata-item">
         <div class="metadata-header">
           <PhAperture :size="16" :weight="'regular'" />
           <span class="metadata-label">Lenses</span>
         </div>
-        <div class="metadata-value">16-35mm, 70-200mm</div>
+        <div class="metadata-value">23mm</div>
       </div>
     </div>
 
@@ -49,7 +49,7 @@
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
           image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
-          image-alt="Catalina Island" 
+          image-alt="Night Sky Meetup" 
         />
       </div>
     </div>

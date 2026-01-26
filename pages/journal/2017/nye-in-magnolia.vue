@@ -2,7 +2,7 @@
   <div>
     <!-- Title -->
     <div class="journal-title">
-      <h1>NYE in Magnolia</h1>
+      <h1>NYE</h1>
     </div>
 
     <!-- Metadata -->
@@ -49,7 +49,7 @@
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
           image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
-          image-alt="NYE in Magnolia" 
+          image-alt="NYE" 
         />
       </div>
     </div>

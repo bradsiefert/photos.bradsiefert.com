@@ -419,20 +419,20 @@
       </div>
       <div class="journal-grid journal-grid-year">
         <div class="journal-card">
-          <NuxtLink to="/journal/2017/goodbye-logan-square" class="journal-link">
+          <NuxtLink to="/journal/2017/nye-in-magnolia" class="journal-link">
             <div class="journal-image-wrapper">
-              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Goodbye Logan Square" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="NYE" class="journal-image" />
               <div class="image-scrim"></div>
-              <div class="image-title">Goodbye Logan Square</div>
+              <div class="image-title">NYE</div>
             </div>
           </NuxtLink>
         </div>
         <div class="journal-card">
-          <NuxtLink to="/journal/2017/nye-in-magnolia" class="journal-link">
+          <NuxtLink to="/journal/2017/new-camera-day-1" class="journal-link">
             <div class="journal-image-wrapper">
-              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="NYE in Magnolia" class="journal-image" />
+              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="New Camera, Day 1" class="journal-image" />
               <div class="image-scrim"></div>
-              <div class="image-title">NYE in Magnolia</div>
+              <div class="image-title">New Camera, Day 1</div>
             </div>
           </NuxtLink>
         </div>
@@ -470,6 +470,107 @@
               <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Catalina Island" class="journal-image" />
               <div class="image-scrim"></div>
               <div class="image-title">Catalina Island</div>
+            </div>
+          </NuxtLink>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2015 Section -->
+    <div class="journal-section" style="margin-top: 16px;">
+      <div class="section-divider">
+        <span class="section-label">2015</span>
+        <div class="divider-line"></div>
+      </div>
+      <div class="journal-grid journal-grid-year">
+        <div class="journal-card">
+          <NuxtLink to="/journal/2015/the-4th-wolfpack-retreat" class="journal-link">
+            <div class="journal-image-wrapper">
+              <NuxtImg src="/portfolio/places/places-2016wolfpackretreat1.jpg" alt="The 4th Wolfpack Retreat" class="journal-image" />
+              <div class="image-scrim"></div>
+              <div class="image-title">The 4th Wolfpack Retreat</div>
+            </div>
+          </NuxtLink>
+        </div>
+        <div class="journal-card">
+          <NuxtLink to="/journal/2015/bethel-lutheran-church-125th-anniversary" class="journal-link">
+            <div class="journal-image-wrapper">
+              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Bethel Lutheran Church 125th Anniversary" class="journal-image" />
+              <div class="image-scrim"></div>
+              <div class="image-title">Bethel Lutheran Church 125th Anniversary</div>
+            </div>
+          </NuxtLink>
+        </div>
+        <div class="journal-card">
+          <NuxtLink to="/journal/2015/bear-lake" class="journal-link">
+            <div class="journal-image-wrapper">
+              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Bear Lake" class="journal-image" />
+              <div class="image-scrim"></div>
+              <div class="image-title">Bear Lake</div>
+            </div>
+          </NuxtLink>
+        </div>
+        <div class="journal-card">
+          <NuxtLink to="/journal/2015/arches-national-park" class="journal-link">
+            <div class="journal-image-wrapper">
+              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Arches National Park" class="journal-image" />
+              <div class="image-scrim"></div>
+              <div class="image-title">Arches National Park</div>
+            </div>
+          </NuxtLink>
+        </div>
+        <div class="journal-card">
+          <NuxtLink to="/journal/2015/california-coast" class="journal-link">
+            <div class="journal-image-wrapper">
+              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="California Coast" class="journal-image" />
+              <div class="image-scrim"></div>
+              <div class="image-title">California Coast</div>
+            </div>
+          </NuxtLink>
+        </div>
+        <div class="journal-card">
+          <NuxtLink to="/journal/2015/night-sky-meetup" class="journal-link">
+            <div class="journal-image-wrapper">
+              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Night Sky Meetup" class="journal-image" />
+              <div class="image-scrim"></div>
+              <div class="image-title">Night Sky Meetup</div>
+            </div>
+          </NuxtLink>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2014 Section -->
+    <div class="journal-section" style="margin-top: 16px;">
+      <div class="section-divider">
+        <span class="section-label">2014</span>
+        <div class="divider-line"></div>
+      </div>
+      <div class="journal-grid journal-grid-year">
+        <div class="journal-card">
+          <NuxtLink to="/journal/2014/the-2nd-wolfpack-retreat" class="journal-link">
+            <div class="journal-image-wrapper">
+              <NuxtImg src="/portfolio/places/places-2016wolfpackretreat1.jpg" alt="The 2nd Wolfpack Retreat" class="journal-image" />
+              <div class="image-scrim"></div>
+              <div class="image-title">The 2nd Wolfpack Retreat</div>
+            </div>
+          </NuxtLink>
+        </div>
+        <div class="journal-card">
+          <NuxtLink to="/journal/2014/rabbit-island" class="journal-link">
+            <div class="journal-image-wrapper">
+              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Rabbit Island" class="journal-image" />
+              <div class="image-scrim"></div>
+              <div class="image-title">Rabbit Island</div>
+            </div>
+          </NuxtLink>
+        </div>
+        <div class="journal-card">
+          <NuxtLink to="/journal/2014/nicaragua" class="journal-link">
+            <div class="journal-image-wrapper">
+              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Nicaragua" class="journal-image" />
+              <div class="image-scrim"></div>
+              <div class="image-title">Nicaragua</div>
             </div>
           </NuxtLink>
         </div>
@@ -594,6 +695,14 @@
 
 .journal-section:nth-child(12) {
   animation-delay: calc((0.2s + 0.05s) * 10);
+}
+
+.journal-section:nth-child(13) {
+  animation-delay: calc((0.2s + 0.05s) * 11);
+}
+
+.journal-section:nth-child(14) {
+  animation-delay: calc((0.2s + 0.05s) * 12);
 }
 
 @keyframes fadeInUp {

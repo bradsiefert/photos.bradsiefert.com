@@ -2,7 +2,7 @@
   <div>
     <!-- Title -->
     <div class="journal-title">
-      <h1>Goodbye Logan Square</h1>
+      <h1>Bethel Lutheran Church 125th Anniversary</h1>
     </div>
 
     <!-- Metadata -->
@@ -12,7 +12,7 @@
           <PhCalendarDots :size="16" :weight="'regular'" />
           <span class="metadata-label">dates</span>
         </div>
-        <div class="metadata-value">2015-2017</div>
+        <div class="metadata-value">NOV 1 2015</div>
       </div>
       <div class="metadata-item">
         <div class="metadata-header">
@@ -26,21 +26,21 @@
           <PhCrop :size="16" :weight="'regular'" />
           <span class="metadata-label">edited</span>
         </div>
-        <div class="metadata-value">75</div>
+        <div class="metadata-value">200</div>
       </div>
       <div class="metadata-item">
         <div class="metadata-header">
           <PhCamera :size="16" :weight="'regular'" />
           <span class="metadata-label">camera</span>
         </div>
-        <div class="metadata-value">SONY A7RIII</div>
+        <div class="metadata-value">SONY A7RII</div>
       </div>
       <div class="metadata-item">
         <div class="metadata-header">
           <PhAperture :size="16" :weight="'regular'" />
           <span class="metadata-label">Lenses</span>
         </div>
-        <div class="metadata-value">16-35mm, 24-70mm, 55mm, 70-200mm</div>
+        <div class="metadata-value">28mm, 55mm, 70-200mm</div>
       </div>
     </div>
 
@@ -49,7 +49,7 @@
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
           image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
-          image-alt="Goodbye Logan Square" 
+          image-alt="Bethel Lutheran Church 125th Anniversary" 
         />
       </div>
     </div>

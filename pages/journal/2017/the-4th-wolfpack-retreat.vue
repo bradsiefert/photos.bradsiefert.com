@@ -33,7 +33,7 @@
           <PhCamera :size="16" :weight="'regular'" />
           <span class="metadata-label">camera</span>
         </div>
-        <div class="metadata-value">SONY A7RIII</div>
+        <div class="metadata-value">SONY A7RII</div>
       </div>
       <div class="metadata-item">
         <div class="metadata-header">
