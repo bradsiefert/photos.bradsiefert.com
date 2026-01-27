@@ -31,7 +31,7 @@
               <li><NuxtLink to="/">People</NuxtLink></li>
               <li><NuxtLink to="/places">Places</NuxtLink></li>
               <li><NuxtLink to="/instantfilm">Instant Film</NuxtLink></li>
-              <li><NuxtLink to="/journal">Journal</NuxtLink></li>
+              <!-- <li><NuxtLink to="/journal">Journal</NuxtLink></li> -->
               <li><NuxtLink to="/about">About</NuxtLink></li>
               <li><darkmode /></li>
             </ul>
