@@ -576,6 +576,34 @@
         </div>
       </div>
     </div>
+
+    <!-- 2012 Section -->
+    <div class="journal-section" style="margin-top: 16px;">
+      <div class="section-divider">
+        <span class="section-label">2012</span>
+        <div class="divider-line"></div>
+      </div>
+      <div class="journal-grid journal-grid-year">
+        <div class="journal-card">
+          <NuxtLink to="/journal/2012/the-83rd" class="journal-link">
+            <div class="journal-image-wrapper">
+              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="The 83rd" class="journal-image" />
+              <div class="image-scrim"></div>
+              <div class="image-title">The 83rd</div>
+            </div>
+          </NuxtLink>
+        </div>
+        <div class="journal-card">
+          <NuxtLink to="/journal/2012/summer-journeys-tetons-trip" class="journal-link">
+            <div class="journal-image-wrapper">
+              <NuxtImg src="/portfolio/places/places-summerjourneystetonstrip.jpg" alt="Summer Journeys Tetons Trip" class="journal-image" />
+              <div class="image-scrim"></div>
+              <div class="image-title">Summer Journeys Tetons Trip</div>
+            </div>
+          </NuxtLink>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -703,6 +731,10 @@
 
 .journal-section:nth-child(14) {
   animation-delay: calc((0.2s + 0.05s) * 12);
+}
+
+.journal-section:nth-child(15) {
+  animation-delay: calc((0.2s + 0.05s) * 13);
 }
 
 @keyframes fadeInUp {

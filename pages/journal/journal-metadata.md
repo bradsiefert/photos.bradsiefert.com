@@ -32,13 +32,15 @@ Lenses: 15mm, 35mm, 85mm
 Location: Puerto Rico
 
 **2024**
-## NYE
+### NYE
 Dates: July 1-6 2024
 Photos Taken: 
 Photos Edited: 144
 Camera: Sony A7rIII
 Lenses: 35mm, 85mm
 Location: Magnolia, IL
+
+###
 
 ### 4th of July
 Dates: July 1-6 2024
@@ -201,7 +203,7 @@ Dates: Nov 16 2018
 Photos Taken: 
 Photos Edited: 180
 Camera: Sony A7rIII
-Lenses: 24-70mm, 70-20mm
+Lenses: 24-70mm, 70-200mm
 Location: Minneapolis, MN
 
 ### Tulum
@@ -220,7 +222,7 @@ Camera: Sony A7rIII
 Lenses: 16-35mm, 40mm
 Location: New York City, NY 
 
-### Bank of America-Special Olympics Shoot
+### Special Olympics
 Dates: Jul 24 2018
 Photos Taken: 
 Photos Edited: 56
@@ -261,15 +263,7 @@ Lenses: 24-70mm
 Location: Sedona, AZ
 
 **2017**
-## Goodbye Logan Square
-Dates: 2015-2017
-Photos Taken: 
-Photos Edited: 75
-Camera: Sony A7rIII
-Lenses: 16-35, 24-70mm, 55mm, 70-20mm
-Location: Logan Square, Chicago, IL
-
-## NYE in Magnolia
+## NYE
 Dates: Dec 30-31 2017
 Photos Taken: 
 Photos Edited: 140
@@ -277,11 +271,19 @@ Camera: Sony A7rIII
 Lenses: 35mm, 55mm
 Location: Magnolia, IL
 
+## New Camera, Day 1
+Dates: Dec 21 2017
+Photos Taken: 
+Photos Edited: 35
+Camera: Sony A7rIII
+Lenses: 16-35mm, 24-70mm
+Location: Chicago, IL
+
 ## The 4th Wolfpack Retreat
 Dates: Jan 13-15 2017
 Photos Taken: 
 Photos Edited: 210
-Camera: Sony A7rIII
+Camera: Sony A7rII
 Lenses: 24-70mm
 Location: Fennville, MI
 
@@ -290,7 +292,7 @@ Location: Fennville, MI
 Dates: Aug 29-Sep 2 2016
 Photos Taken: 
 Photos Edited: 450
-Camera: Sony A7rIII
+Camera: Sony A7rII
 Lenses: 16-35mm, 55mm, 70-200mm
 Location: Rabbit Island, Rabbit Bay, MI
 
@@ -298,24 +300,97 @@ Location: Rabbit Island, Rabbit Bay, MI
 Dates: May 29 2016
 Photos Taken: 
 Photos Edited: 88
-Camera: Sony A7rIII
+Camera: Sony A7rII
 Lenses: 16-35mm, 70-200mm
 Location: Catalina Island, CA
 
 **2015**
-West Coast
-Red River Gorge Trip
-Arches National Park
-Bear Lake
+## The 4th Wolfpack Retreat
+Dates: Nov 14 2015
+Photos Taken: 
+Photos Edited: 168
+Camera: Sony A7rII
+Lenses: 28mm, 55mm
+Location: Saugatuck, MI
+
+## Bethel Lutheran Church 125th Anniversary
+Dates: Nov 1 2015
+Photos Taken: 
+Photos Edited: 200
+Camera: Sony A7rII
+Lenses: 28mm, 55mm, 70-200mm
+Location: Chicago, IL
+
+## Bear Lake
+Dates: Aug 21 2015
+Photos Taken: 
+Photos Edited: 40
+Camera: Sony A7rIII
+Lenses: 28mm, 55mm, 70-200mm
+Location: Chicago, IL
+
+## Arches National Park
+Dates: Aug 16-17 2015
+Photos Taken: 
+Photos Edited: 145
+Camera: Sony A7rIII
+Lenses: 28mm, 55mm, 70-200mm
+Location: Chicago, IL
+
+## California Coast
+Dates: Jul 11-19 2015
+Photos Taken: 
+Photos Edited: 475
+Camera: Fuji X-E2
+Lenses: 23mm
+Location: La Jolla, Huntington Beach, Ventura, North Pacific Ocean, Santa Cruz, CA
+
+## Night Sky Meetup
+Dates: Jan 17 2015
+Photos Taken: 
+Photos Edited: 40
+Camera: Fuji X-E2
+Lenses: 23mm
+Location: Harmon, IL
 
 **2014**
-The 2nd Wolfpack Retreat
-Rabbit Island
-Nicaragua
+## The 2nd Wolfpack Retreat
+Dates: Nov 15-17 2014
+Photos Taken: 
+Photos Edited: 35
+Camera: Fuji X-E2
+Lenses: 23mm, 56mm
+Location: Saywer, MI
 
-**2013**
-Tetons Trip
+## Rabbit Island
+Dates: Aug 14-18 2014
+Photos Taken: 
+Photos Edited: 35
+Camera: Fuji X-E1, X-E2
+Lenses: 18-55mm, 23mm, 56mm
+Location: Rabbit Island, Rabbit Bay, MI
 
-**2011**
-Tetons Trip
-NYC Trip
+## Nicaragua
+Dates: Mar 3-9 2014
+Photos Taken: 
+Photos Edited: 200
+Camera: Fuji X-E2
+Lenses: 18-55mm
+Location: Omatepe Island, Nicaragua
+
+**2012**
+## The 83rd
+Dates: Oct 19 2012
+Photos Taken: 
+Photos Edited: 225
+Camera: Nikon D600
+Lenses: 50mm
+Location: New York, NY
+
+## Summer Journeys Tetons Trip
+Dates: Mar 3-9 2014
+Photos Taken: 
+Photos Edited: 115
+Camera: Nikon D7000
+Lenses: 28-70mm, 50mm
+Location: Harney Peak & Grand Teton National Park

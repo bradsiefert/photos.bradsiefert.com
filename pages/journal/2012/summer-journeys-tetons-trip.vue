@@ -2,7 +2,7 @@
   <div>
     <!-- Title -->
     <div class="journal-title">
-      <h1>Special Olympics</h1>
+      <h1>Summer Journeys Tetons Trip</h1>
     </div>
 
     <!-- Metadata -->
@@ -12,7 +12,7 @@
           <PhCalendarDots :size="16" :weight="'regular'" />
           <span class="metadata-label">dates</span>
         </div>
-        <div class="metadata-value">JUL 24 2018</div>
+        <div class="metadata-value">MAR 3-9 2014</div>
       </div>
       <div class="metadata-item">
         <div class="metadata-header">
@@ -26,21 +26,21 @@
           <PhCrop :size="16" :weight="'regular'" />
           <span class="metadata-label">edited</span>
         </div>
-        <div class="metadata-value">56</div>
+        <div class="metadata-value">115</div>
       </div>
       <div class="metadata-item">
         <div class="metadata-header">
           <PhCamera :size="16" :weight="'regular'" />
           <span class="metadata-label">camera</span>
         </div>
-        <div class="metadata-value">SONY A7RIII</div>
+        <div class="metadata-value">Nikon D7000</div>
       </div>
       <div class="metadata-item">
         <div class="metadata-header">
           <PhAperture :size="16" :weight="'regular'" />
           <span class="metadata-label">Lenses</span>
         </div>
-        <div class="metadata-value">16-35mm</div>
+        <div class="metadata-value">28-70mm, 50mm</div>
       </div>
     </div>
 
@@ -49,7 +49,7 @@
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
           image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
-          image-alt="Special Olympics" 
+          image-alt="Summer Journeys Tetons Trip" 
         />
       </div>
     </div>

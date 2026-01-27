@@ -2,7 +2,7 @@
   <div>
     <!-- Title -->
     <div class="journal-title">
-      <h1>West Coast</h1>
+      <h1>California Coast</h1>
     </div>
 
     <!-- Metadata -->
@@ -49,7 +49,7 @@
       <div class="photo-item photo-landscape">
         <PhotoMetadata 
           image-src="/portfolio/places/places-summerjourneystetonstrip.jpg" 
-          image-alt="West Coast" 
+          image-alt="California Coast" 
         />
       </div>
     </div>
