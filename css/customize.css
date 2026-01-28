@@ -55,7 +55,7 @@
   --color-highlight-1000: var(--primitive-yellow-1000);
   
   /* Divider pattern - consistent dashed line */
-  --divider-pattern-light: repeating-linear-gradient(90deg, var(--color-neutral-500), var(--color-neutral-500) 6px, transparent 6px, transparent 12px);
+  --divider-pattern-light: repeating-linear-gradient(90deg, var(--color-neutral-400), var(--color-neutral-400) 6px, transparent 6px, transparent 12px);
   --divider-pattern-dark: repeating-linear-gradient(90deg, var(--color-neutral-800), var(--color-neutral-800) 6px, transparent 6px, transparent 12px);
 }
 
@@ -278,7 +278,13 @@ html, body, #__nuxt {
   }
 }
 
+/* ---------- Page Transitions --------- */
 .page-fade {
+  opacity: 0;
+  animation: fadeIn 0.6s ease-in forwards;
+}
+
+.journal-fade-in {
   opacity: 0;
   animation: fadeIn 0.6s ease-in forwards;
 }
@@ -302,9 +308,20 @@ html, body, #__nuxt {
     transition-duration: 0.01ms !important;
   }
 
-  .page-fade {
+  .page-fade,
+  .journal-fade-in {
     opacity: 1;
     animation: none;
+  }
+
+  .page-enter-active,
+  .page-leave-active {
+    transition: none;
+  }
+
+  .page-enter-from,
+  .page-leave-to {
+    opacity: 1;
   }
 }
 

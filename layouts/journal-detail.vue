@@ -1,5 +1,5 @@
 <template>
-  <div id="journal-detail-wrapper">
+  <div id="journal-detail-wrapper" class="journal-fade-in">
     <div id="journal-detail-centered">
       <header>
         <JournalNavbar />
