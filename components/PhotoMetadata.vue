@@ -333,6 +333,23 @@ const closeOverlay = () => {
   white-space: nowrap;
 }
 
+/* Dark Mode Transitions */
+@media (prefers-reduced-motion: no-preference) {
+  .metadata-button,
+  .metadata-close-button,
+  .metadata-overlay,
+  .metadata-button :deep(svg),
+  .metadata-close-button :deep(svg),
+  .metadata-header :deep(svg),
+  .metadata-label,
+  .metadata-value {
+    transition: 
+      background-color 0.3s ease,
+      color 0.3s ease,
+      border-color 0.3s ease;
+  }
+}
+
 /* Dark Mode Styles */
 body[dark-mode] {
   .metadata-button {

@@ -55,7 +55,7 @@
   --color-highlight-1000: var(--primitive-yellow-1000);
   
   /* Divider pattern - consistent dashed line */
-  --divider-pattern-light: repeating-linear-gradient(90deg, var(--color-neutral-500), var(--color-neutral-500) 6px, transparent 6px, transparent 12px);
+  --divider-pattern-light: repeating-linear-gradient(90deg, var(--color-neutral-400), var(--color-neutral-400) 6px, transparent 6px, transparent 12px);
   --divider-pattern-dark: repeating-linear-gradient(90deg, var(--color-neutral-800), var(--color-neutral-800) 6px, transparent 6px, transparent 12px);
 }
 
@@ -68,8 +68,20 @@ body {
   line-height: 1.4em;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+  body {
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+}
+
 /* ---------- Links --------- */
 a 				{	color: var(--color-neutral-800); }
+
+@media (prefers-reduced-motion: no-preference) {
+  a {
+    transition: color 0.3s ease;
+  }
+}
 a:active 	{	color: var(--color-neutral-800); position: relative; top: 2px; }
 a:hover 	{	color: var(--color-neutral-800); text-decoration: none;
   text-shadow: var(--color-highlight-300) 0 0 6px;
@@ -205,6 +217,12 @@ html, body, #__nuxt {
   max-width: 224px;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+  .sidebar-nav {
+    transition: background-color 0.3s ease;
+  }
+}
+
 /* Sticky navigation for sticky pages only */
 .sticky-nav-wrapper .sidebar-nav {
   position: sticky;
@@ -215,6 +233,12 @@ html, body, #__nuxt {
   margin-top: 32px;
   z-index: 10;
   background-color: var(--color-neutral-lightest);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .sticky-nav-wrapper .sidebar-nav {
+    transition: background-color 0.3s ease;
+  }
 }
 
 @media (max-width: 1023px) {
@@ -271,6 +295,12 @@ html, body, #__nuxt {
   border-radius: 12px;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+  .content {
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+}
+
 @media (max-width: 1023px) {
   .content {
     background-color: var(--color-neutral-lightest) !important;
@@ -278,7 +308,13 @@ html, body, #__nuxt {
   }
 }
 
+/* ---------- Page Transitions --------- */
 .page-fade {
+  opacity: 0;
+  animation: fadeIn 0.6s ease-in forwards;
+}
+
+.journal-fade-in {
   opacity: 0;
   animation: fadeIn 0.6s ease-in forwards;
 }
@@ -302,9 +338,20 @@ html, body, #__nuxt {
     transition-duration: 0.01ms !important;
   }
 
-  .page-fade {
+  .page-fade,
+  .journal-fade-in {
     opacity: 1;
     animation: none;
+  }
+
+  .page-enter-active,
+  .page-leave-active {
+    transition: none;
+  }
+
+  .page-enter-from,
+  .page-leave-to {
+    opacity: 1;
   }
 }
 
@@ -347,6 +394,12 @@ h2, .h2 {
   min-width: 0;
   height: 1px;
   background: var(--divider-pattern-light);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .divider-line {
+    transition: background 0.3s ease;
+  }
 }
 
 /* ---------- Navbar --------- */
@@ -532,6 +585,12 @@ h2, .h2 {
     padding: 0 24px;
   }
 
+  @media (prefers-reduced-motion: no-preference) {
+    .navbar {
+      transition: background-color 0.3s ease, border-color 0.3s ease;
+    }
+  }
+
   .navbar-collapse {
     border-top: 0;
     box-shadow: 0 0 0;
@@ -641,6 +700,12 @@ h2, .h2 {
   background-color: var(--color-neutral-800);
 }
 
+@media (prefers-reduced-motion: no-preference) {
+  .navbar-default .navbar-toggle .icon-bar {
+    transition: background-color 0.3s ease;
+  }
+}
+
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: transparent;
@@ -657,6 +722,19 @@ h2, .h2 {
   width: 24px;
   height: 2px;
   border-radius: 0;
+}
+
+/* ---------- Dark Mode Transitions --------- */
+/* Additional transitions for elements that change in dark mode */
+@media (prefers-reduced-motion: no-preference) {
+  .skip-link,
+  .sidebar-nav .navbar li a.router-link-active.active,
+  .text-divider {
+    transition: 
+      background-color 0.3s ease,
+      color 0.3s ease,
+      border-color 0.3s ease;
+  }
 }
 
 /* ---------- Dark Mode --------- */
@@ -702,7 +780,6 @@ body[dark-mode] {
 
   /* Journal page dark mode styles */
   .journal-page {
-    background-color: var(--color-neutral-darkest) !important;
     color: var(--color-neutral-lightest) !important;
   }
 

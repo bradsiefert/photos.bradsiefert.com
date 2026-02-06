@@ -611,7 +611,6 @@
 .journal-page {
   flex: 1;
   padding: 64px 0 64px;
-  background-color: var(--color-neutral-lightest);
   color: var(--color-neutral-darkest);
   min-height: 100vh;
 }

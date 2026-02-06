@@ -19,11 +19,32 @@
 <style>
 #journal-detail-wrapper {
   padding: 16px;
-  background-color: var(--color-neutral-lightest);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  #journal-detail-wrapper,
+  .journal-detail-page,
+  .journal-title h1,
+  .journal-metadata,
+  .metadata-header :deep(svg),
+  .metadata-label,
+  .metadata-value,
+  .journal-detail-page .section-label,
+  .text-content,
+  .location-link,
+  .location-label,
+  .footer-link,
+  .footer-text,
+  .text-divider {
+    transition: 
+      background-color 0.3s ease,
+      color 0.3s ease,
+      border-color 0.3s ease;
+  }
 }
 
 body[dark-mode] #journal-detail-wrapper {
-  background-color: var(--color-neutral-darkest);
+
 }
 
 #journal-detail-centered {
