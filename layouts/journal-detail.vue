@@ -1,5 +1,5 @@
 <template>
-  <div id="journal-detail-wrapper">
+  <div id="journal-detail-wrapper" class="journal-fade-in">
     <div id="journal-detail-centered">
       <header>
         <JournalNavbar />
@@ -48,7 +48,7 @@ body[dark-mode] #journal-detail-wrapper {
 }
 
 #journal-detail-centered {
-  max-width: 960px;
+  max-width: 1080px;
   margin: 0 auto;
   width: 100%;
 }
@@ -68,7 +68,7 @@ body[dark-mode] #journal-detail-wrapper {
   gap: 16px;
   width: 100%;
   /* margin-bottom: 64px; */
-  max-height: 960px;
+  max-height: 1080px;
 }
 
 .photo-item {
@@ -100,7 +100,7 @@ body[dark-mode] #journal-detail-wrapper {
   display: flex;
   width: 100%;
   /* margin-bottom: 64px; */
-  max-height: 960px;
+  max-height: 1080px;
 }
 
 .photo-layout-single .photo-item {
@@ -113,7 +113,7 @@ body[dark-mode] #journal-detail-wrapper {
   gap: 16px;
   width: 100%;
   /* margin-bottom: 64px; */
-  max-height: 960px;
+  max-height: 1080px;
 }
 
 .photo-layout-landscape-2 .photo-item {
@@ -126,7 +126,7 @@ body[dark-mode] #journal-detail-wrapper {
   gap: 16px;
   width: 100%;
   /* margin-bottom: 64px; */
-  max-height: 960px;
+  max-height: 1080px;
 }
 
 .photo-layout-landscape-3 .photo-item {
@@ -139,7 +139,7 @@ body[dark-mode] #journal-detail-wrapper {
   gap: 16px;
   width: 100%;
   /* margin-bottom: 64px; */
-  max-height: 960px;
+  max-height: 1080px;
 }
 
 .photo-layout-portrait-2 .photo-item {
@@ -152,7 +152,7 @@ body[dark-mode] #journal-detail-wrapper {
   gap: 16px;
   width: 100%;
   /* margin-bottom: 64px; */
-  max-height: 960px;
+  max-height: 1080px;
 }
 
 .photo-layout-portrait-3 .photo-item {
@@ -344,6 +344,7 @@ body[dark-mode] #journal-detail-wrapper {
   justify-content: flex-start;
   align-items: center;
   gap: 16px;
+  width: 100%;
 }
 
 body[dark-mode] .journal-detail-page {
@@ -466,7 +467,7 @@ body[dark-mode] .metadata-value {
   align-items: center;
   padding-top: 0;
   padding-bottom: 0;
-  max-width: 512px;
+  max-width: 576px;
   width: 100%;
   margin-top: 32px;
   margin-bottom: 48px;
@@ -499,8 +500,8 @@ body[dark-mode] .journal-detail-page .section-label {
 .text-content {
   font-family: 'SFM';
   font-weight: 400;
-  font-size: 14px;
-  line-height: 26px;
+  font-size: 16px;
+  line-height: 28px;
   letter-spacing: -0.25px;
   color: var(--color-neutral-darkest);
   width: 100%;
@@ -512,7 +513,7 @@ body[dark-mode] .text-content {
 }
 
 .text-content p {
-  margin: 0 0 26px;
+  margin: 0 0 24px;
 }
 
 .text-content p:last-child {
@@ -620,8 +621,8 @@ body[dark-mode] .footer-text {
   }
 
   .journal-title h1 {
-    font-size: 32px;
-    line-height: 36px;
+    font-size: 36px;
+    line-height: 44px;
   }
 
   .journal-metadata {
@@ -635,9 +636,14 @@ body[dark-mode] .footer-text {
     margin: 16px 0;
   }
 
-  .journal-text-section p {
-    font-size: 125%;
-    line-height: 150%;
+  .text-content {
+    font-size: 16px;
+    line-height: 1.6667;
+  }
+
+  .journal-detail-page .section-label, .divider-label {
+    font-size: 15px;
+    line-height: 1.6667;
   }
 }
 </style>
