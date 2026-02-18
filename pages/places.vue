@@ -1,5 +1,6 @@
 <template>
   <div class="portfolio">
+    <h1 class="sr-only">Places</h1>
     <section class="slider" aria-label="Places photo carousel">
       <div class="flexslider loading" id="nuxtslider" role="region" aria-roledescription="carousel" aria-label="Places photos">
         <ul class="slides" aria-live="polite">

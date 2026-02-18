@@ -30,9 +30,7 @@ export default defineNuxtConfig({
     '@/css/customize.css',
     '@/css/flexslider.css'
   ],
-  modules: [
-    '@nuxt/image'
-  ],
+  modules: ['@nuxt/image', '@nuxt/a11y', '@nuxt/hints'],
   image: {
     quality: 81,
     format: ['avif', 'webp'],

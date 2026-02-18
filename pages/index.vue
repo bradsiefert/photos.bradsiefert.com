@@ -1,5 +1,6 @@
 <template>
   <div class="portfolio">
+    <h1 class="sr-only">Brad Siefert Photography</h1>
     <section class="slider" aria-label="Portfolio photo carousel">
       <div class="flexslider loading" role="region" aria-roledescription="carousel" aria-label="Portfolio photos">
         <ul class="slides" aria-live="polite">
