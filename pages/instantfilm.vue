@@ -1,5 +1,6 @@
 <template>
   <div class="portfolio">
+    <h1 class="sr-only">Instant Film</h1>
     <section class="slider" aria-label="Instant film photo carousel">
       <div class="flexslider loading" role="region" aria-roledescription="carousel" aria-label="Instant film photos">
         <ul class="slides" aria-live="polite">
