@@ -7,13 +7,13 @@ This is my personal photography portfolio website. It was originally made using 
 Make sure to install the dependencies:
 
 1. Clone the site's repository
-2. In your terminal app, install the site's dependancies. (I use npm as my package manger to manage dependancies.):
+2. In your terminal app, install the site's dependancies. (I use pnpm as my package manger to manage dependancies.):
 ```bash
-npm install
+pnpm install
 ```
 3. In your terminal app, start the development server
 ```bash
-npm run dev
+pnpm run dev
 ```
 This will on start the local development server at: http://localhost:3000
 
@@ -30,11 +30,11 @@ Nuxt has a these options for building or previewing the site.
 Locally preview production build:
 
 ```bash
-npm run preview
+pnpm run preview
 ```
 
 Build the application for production:
 
 ```bash
-npm run build
+pnpm run build
 ```
